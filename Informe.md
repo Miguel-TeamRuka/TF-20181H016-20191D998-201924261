@@ -7,14 +7,14 @@ Miguel Antonio Benavides Roque U20191D998
 Sergio Martin Guanillo Gonzales U20181H016
 
 
-###Introducción
+### Introducción
 
 Muchas locaciones alrededor del mundo que actualmente están habitadas, presentan una distribución de caminos y calles que permiten la movilización, ya sea de personas, medios de transporte, etc. Algo resaltante es que gracias a la definición y agregado a una calle ,ya sea gracias a que esta posea un nombre, una longitud y unas coordenadas en el espacio, permite generar una orientación y delimitación de caminos.
 
 Tomando en cuenta lo antes mencionado, nos hemos dado cuenta que estas secciones e intersecciones de un mapa, funcionan y se pueden comparar con un grafo, el cual posee aristas y vértices que cumplirían con la imagen de calles e intersecciones. En el presente trabajo elaboramos un grafo para representar una ciudad o una porción. Por medio de un proceso de selección de calles, gracias a la herramienta de google maps.
 
 
-###Resumen Ejecutivo
+### Resumen Ejecutivo
 
 Para esta entrega se nos solicitó realizar un grafo de las intersecciones de las calles de una ciudad o sector de una ciudad. Para ello hemos utilizado las herramientas de google map para obtener la información necesaria de las calles y Google Collaboratory para realizar el código.
 
