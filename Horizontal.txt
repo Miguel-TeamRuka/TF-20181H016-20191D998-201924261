@@ -1,0 +1,52 @@
+Calle,x,y,longitud
+W Devon Ave,0,0,6060
+W Rosemont Ave,108,214,5960
+W Granville Ave,0,395,6080
+W Glenlake Ave,0,606,6100
+W Peterson Ave,0,821,4710
+W Thorndale Ave,841,1010,5270
+W Andmore Ave,825,1200,5260
+W Hollywood Ave,825,1410,5270
+W Bryn Mawr Ave,0,1630,6080
+W Catalpa Ave,1030,1800,5050
+W Balmoral Ave,1040,2000,5050
+W Berwyn Ave,1040,2220,5050
+W Foster Ave,0,2440,6080
+W Farragut Ave,2100,2330,3170
+W Summerdale Ave,2070,2140,3210
+W Gregory St,1990,1710,3300
+W Olive Ave,4530,1560,808
+W Edgewater Ave,4960,1330,365
+W Carmen Ave,213,2620,5860
+W Argyle St,0,2830,6060
+W Strong St,0,2930,307
+W Ainslie St,0,3050,6080
+W Gunninson St,1840,3130,1430
+W Lawrence Ave,0,3230,6070
+W Giddings St,2110,3340,1930
+W Leland Ave,0,3450,6070
+W Wilson Ave,0,3660,6450
+W Sunnyside Ave,0,3850,6060
+W Montrose Ave,0,4050,6450
+W Cullom Ave,103,4260,5080
+W Bertau Ave,0,4460,5230
+W Belle Plaine Ave,0,4660,6060
+W Byron St,132,5060,5930
+W Grace St,358,5270,6110
+W Weaveland Ave,654,5480,5810
+W Addison St,0,5670,6460
+W Eddy St,0,5770,5850
+W Cornella Ave,0,5870,6460
+W Irving Park Rd,0,4870,6040
+W Eddy St,0,5770,5850
+W Cornella Ave,0,5870,6460
+W Irving Park Rd,0,4870,6040
+W Newport Ave,4040,5990,2010
+W Roscoe St,0,6070,6050
+W School St,0,6260,6020
+W Melrose St,913,6360,4740
+W Belmont Ave,0,6480,6060
+W Fletcher St,1860,6570,4200
+W Barry Ave,630,6680,5430
+W Wellington Ave,0,6890,6060
+W George St,0,7080,6060
