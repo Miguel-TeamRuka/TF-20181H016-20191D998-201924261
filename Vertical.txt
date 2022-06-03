@@ -1,0 +1,41 @@
+calle,x,y,longitud
+N Pulaski Rd,0,0,9710
+N Springfield Ave,215,0,9710
+N Avers Ave,308,0,9710
+N Hamlin Ave,415,0,9710
+N Ridgeway Ave,514,0,9500
+N Lawndale Ave,623,0,9690
+N Monticello Ave,720,2400,7290
+N Central Park Ave,833,0,9740
+N Drake Ave,923,120,9580
+N St Louis Ave,1030,188,9500
+N Bernard St,1140,383,7240
+N Kimball Ave,1240,381,9360
+N Christiana Ave,1320,443,6590
+N Kedzie Ave,1600,0,9710
+N Troy St,1720,0,9690
+N Albany Ave,1820,0,9640
+N Whipple St,1920,0,9700
+N Sacramento Ave,2020,0,8450
+N Richmond St,2210,0,9700
+N Francisco Ave,2230,0,9700
+N Mozart St,2335,0,9700
+N California Ave,2430,0,9710
+N Fairfield Ave,2520,0,9710
+N Washtenaw Ave,2630,0,9710
+N Talman Ave,2730,0,9710
+N Rockwell St,2830,0,9710
+N Maplewood Ave,2930,0,9700
+N Campbell Ave,30030,0,9710
+N Artesian Ave,3130,0,9710
+N Western Ave,3230,0,9710
+N Claremont Ave,3330,2420,7290
+N Oakley Ave,3440,2420,5350
+N Bell Ave,3520,2830,6880
+N Leavit St,3640,0,9710
+N Hoyne Ave,3840,0,9710
+N Seeley Ave,3920,0,8120
+N Damen Ave,4040,448,9262
+N Whichester Ave,4170,0,9710
+N Wolcott Ave,4270,414,93200
+N Ravenswood Ave,4450,450,6880
