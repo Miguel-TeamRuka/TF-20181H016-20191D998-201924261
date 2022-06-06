@@ -11,6 +11,7 @@ import numpy as np
 import random
 from numpy import random as rd
 from csv import reader
+import re
 
 from google.colab import files
  
@@ -112,19 +113,39 @@ for i in range(len(hor)):
       if j<len(ver)-1: #final de una fila
         if b[i][j+1]!=-1:
           right=b[i][j+1]
-          auxiliar.append(right)
+          origin=b[i][j]
+          #nodeO=nodes[origin]
+          #nodeD=nodes[right]
+          #d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
+          peso=distancia(origin,right)
+          auxiliar.append((right,peso))
       if j>0: #inicio de una fila
         if b[i][j-1]!=-1:
           left=b[i][j-1]
-          auxiliar.append(left)
+          origin=b[i][j]
+          #nodeO=nodes[origin]
+          #nodeD=nodes[left]
+          #d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
+          peso=distancia(origin,left)
+          auxiliar.append((left,peso))
       if i<len(hor)-1: #final de una columna
         if b[i+1][j]!=-1:
           bottom=b[i+1][j]
-          auxiliar.append(bottom)
+          origin=b[i][j]
+          #nodeO=nodes[origin]
+          #nodeD=nodes[bottom]
+          #d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
+          peso=distancia(origin,bottom)
+          auxiliar.append((bottom,peso))
       if i>0: #inicio de una columna
         if b[i-1][j]!=-1:
           top=b[i-1][j]
-          auxiliar.append(top)
+          origin=b[i][j]
+          #nodeO=nodes[origin]
+          #nodeD=nodes[top]
+          #d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
+          peso=distancia(origin,top)
+          auxiliar.append((top,peso))
       listAd.append(auxiliar)
       auxiliar=[]
 
@@ -141,9 +162,11 @@ with open('ListaAdyacencia.txt', 'w') as f:
  for i in range(len(listAd)):
    for j in listAd[i]:
      if(c==len(listAd[i])-1):
-      f.write(str(j))
+      #f.write(str(j))
+      f.write(re.sub(r'[\(\,)]','',str(j)))
      else:
-      f.write(str(j)+" ")
+      #f.write(str(j)+" ")
+      f.write(re.sub(r'[\(\,)]','',str(j)+" "))
      c=c+1
    c=0
    if i<len(listAd)-1:
