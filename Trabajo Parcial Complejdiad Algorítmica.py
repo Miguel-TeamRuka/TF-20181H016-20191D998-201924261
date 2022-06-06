@@ -46,7 +46,16 @@ for i in range(len(hor)):
     n2,x2,y2,c2=ver[j]
     if x2>=x1 and x2<=x1+c1 and y1>=y2 and y1<=y2+c2:
       b[i][j]=nodeCount
-      nodes.append((nodeCount,n1,n2))
+
+      #convertir a coordenadas geograficas
+      auxlat=(360*y1/1000)/39942.3024
+      lat=41.997248-auxlat #41.997248 es la latitud del punto (0,0)
+
+      paracos=(3.141592/180)*lat
+      auxlongit=(360*x2/1000)/(40074.2496*mth.cos(paracos))
+      longit=-87.728917+auxlongit #-87.728917 es la longitud del punto (0,0)
+
+      nodes.append((nodeCount,n1,n2,round(lat,6),round(longit,6)))
       nodeCount=nodeCount+1
 print(b)
 print(" ")
