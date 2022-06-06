@@ -66,12 +66,12 @@ print(nodes)
 # nodos aqui
 
 with open('Nodos.txt', 'w') as f:
-   f.write("Nodo,Calle Horizontal,Calle Vertical"+'\n')
+   f.write("Nodo,Calle Horizontal,Calle Vertical,Latitud,Longitud"+'\n')
    for count,n in enumerate(nodes):
     if count<len(nodes)-1:
-     f.write(str(n[0])+","+n[1]+","+n[2]+'\n')
+     f.write(str(n[0])+","+n[1]+","+n[2]+","+str(n[3])+","+str(n[4])+'\n')
     else:
-      f.write(str(n[0])+","+n[1]+","+n[2])
+      f.write(str(n[0])+","+n[1]+","+n[2]+","+str(n[3])+","+str(n[4]))
 
 myNodos=[]
 with open('Nodos.txt', 'r') as my_file:
