@@ -84,6 +84,26 @@ with open('Nodos.txt', 'r') as my_file:
 for i in myNodos:
   print(f"El nodo {i[0]} es la interseccion de las calles {i[1]} y {i[2]}")
 
+def Radianes(c):
+  return (mth.pi/180)*c
+
+def haversine(lat1,lon1,lat2,lon2):
+  dlat=Radianes(lat2)-Radianes(lat1)
+  dlon=Radianes(lon2)-Radianes(lon1)
+  
+  
+  a = mth.sin(dlat/2)**2 + mth.cos(Radianes(lat1)) * mth.cos(Radianes(lat2)) * mth.sin(dlon/2)**2
+  c = 2 * mth.asin(mth.sqrt(a))
+  r = 6371
+
+  return round(c * r, 3)
+
+def distancia(origen,destino):
+  nodeO=nodes[origen]
+  nodeD=nodes[destino]
+  d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
+  return d
+
 listAd=[]
 auxiliar=[]
 for i in range(len(hor)):
