@@ -161,7 +161,11 @@ def returnCoefHour():
   if now.hour >=22 and now.hour<0:
     return float(decimal.Decimal(random.randrange(80, 95))/100)
 
-
+def pesoFinal(origin,neighbort,picI,picJ):
+  distanciaValor = distancia(origin,neighbort)
+  nroAutos,velocidad =reglas(picI,picJ)
+  return round(calcularPeso(nroAutos,velocidad,distanciaValor)*returnCoefHour(),2)
+  
 listAd=[]
 auxiliar=[]
 for i in range(len(hor)):
