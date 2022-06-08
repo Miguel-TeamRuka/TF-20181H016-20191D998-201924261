@@ -12,6 +12,12 @@ import random
 from numpy import random as rd
 from csv import reader
 import re
+import math as mth
+import decimal
+import matplotlib.pyplot as plt
+!pip install perlin_noise
+from perlin_noise import PerlinNoise
+from datetime import datetime
 
 from google.colab import files
  
@@ -104,6 +110,8 @@ def distancia(origen,destino):
   nodeD=nodes[destino]
   d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
   return d
+
+
 
 listAd=[]
 auxiliar=[]
