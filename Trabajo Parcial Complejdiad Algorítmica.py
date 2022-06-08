@@ -178,7 +178,8 @@ for i in range(len(hor)):
           #nodeO=nodes[origin]
           #nodeD=nodes[right]
           #d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
-          peso=distancia(origin,right)
+          #peso=distancia(origin,right)
+          peso= pesoFinal(origin,right,i,j+1)
           auxiliar.append((right,peso))
       if j>0: #inicio de una fila
         if b[i][j-1]!=-1:
@@ -187,7 +188,8 @@ for i in range(len(hor)):
           #nodeO=nodes[origin]
           #nodeD=nodes[left]
           #d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
-          peso=distancia(origin,left)
+          #peso=distancia(origin,left)
+          peso= pesoFinal(origin,left,i,j-1)
           auxiliar.append((left,peso))
       if i<len(hor)-1: #final de una columna
         if b[i+1][j]!=-1:
@@ -196,7 +198,8 @@ for i in range(len(hor)):
           #nodeO=nodes[origin]
           #nodeD=nodes[bottom]
           #d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
-          peso=distancia(origin,bottom)
+          #peso=distancia(origin,bottom)
+          peso= pesoFinal(origin,bottom,i+1,j)
           auxiliar.append((bottom,peso))
       if i>0: #inicio de una columna
         if b[i-1][j]!=-1:
@@ -205,10 +208,12 @@ for i in range(len(hor)):
           #nodeO=nodes[origin]
           #nodeD=nodes[top]
           #d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
-          peso=distancia(origin,top)
+          #peso=distancia(origin,top)
+          peso= pesoFinal(origin,top,i-1,j)
           auxiliar.append((top,peso))
       listAd.append(auxiliar)
       auxiliar=[]
+
 
 print(listAd)
 for l in listAd:
