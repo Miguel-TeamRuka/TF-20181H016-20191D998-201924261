@@ -148,6 +148,19 @@ def reglas(m,n):
   if pic[m][n]>=0.5 and pic[m][n]<=1:
     return random.randint(10, 20),random.randint(40,45)
 
+def returnCoefHour():
+  now = datetime.now()
+  if now.hour>=0 and now.hour<7:
+    return float(decimal.Decimal(random.randrange(60, 80))/100)
+  if now.hour>=7 and now.hour<10:
+    return float(decimal.Decimal(random.randrange(120, 140))/100)
+  if now.hour >=10 and now.hour<18:
+    return float(decimal.Decimal(random.randrange(100, 110))/100)
+  if now.hour >=18 and now.hour<22:
+    return float(decimal.Decimal(random.randrange(140, 160))/100)
+  if now.hour >=22 and now.hour<0:
+    return float(decimal.Decimal(random.randrange(80, 95))/100)
+
 
 listAd=[]
 auxiliar=[]
