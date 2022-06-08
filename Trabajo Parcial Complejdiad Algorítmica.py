@@ -114,6 +114,41 @@ def distancia(origen,destino):
 def calcularPeso(nroAutos,velocidad,distancia):
   return velocidad*(nroAutos/distancia)
 
+
+noise1 = PerlinNoise(octaves=2)
+noise2 = PerlinNoise(octaves=4)
+noise3 = PerlinNoise(octaves=8)
+noise4 = PerlinNoise(octaves=12)
+
+xpix, ypix = 51,40
+pic = []
+for i in range(xpix):
+    row = []
+    for j in range(ypix):
+        noise_val = noise1([i/xpix, j/ypix])
+        noise_val += 0.100 * noise2([i/xpix, j/ypix])
+        noise_val += 0.070 * noise3([i/xpix, j/ypix])
+        noise_val += 0.035 * noise4([i/xpix, j/ypix])
+        row.append(noise_val)
+      
+    pic.append(row)
+
+plt.imshow(pic, cmap='gray')
+plt.show()
+
+def reglas(m,n):
+  if pic[m][n]>=-1 and pic[m][n]< -0.5:
+    return random.randint(47, 52),random.randint(10,20)
+  if pic[m][n]>=-0.5 and pic[m][n]< -0.2:
+    return random.randint(41,46),random.randint(21,28)
+  if pic[m][n]>=-0.2 and pic[m][n]<0.2:
+    return random.randint(31,40),random.randint(29, 34)
+  if pic[m][n]>=0.2 and pic[m][n]<0.5:
+    return random.randint(21,30),random.randint(34,39)
+  if pic[m][n]>=0.5 and pic[m][n]<=1:
+    return random.randint(10, 20),random.randint(40,45)
+
+
 listAd=[]
 auxiliar=[]
 for i in range(len(hor)):
