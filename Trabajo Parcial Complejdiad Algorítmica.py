@@ -111,7 +111,8 @@ def distancia(origen,destino):
   d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
   return d
 
-
+def calcularPeso(nroAutos,velocidad,distancia):
+  return velocidad*(nroAutos/distancia)
 
 listAd=[]
 auxiliar=[]
