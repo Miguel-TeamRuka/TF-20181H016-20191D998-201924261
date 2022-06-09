@@ -30,4 +30,6 @@ Johnny Miguel Sebastian Roque Neciosup (symphony701) u201924261
 
 -Se termino el issue 3
 
--Se termino el issue 4 
+-Se termino el issue 4  
+
+-Se termino el issue 17
