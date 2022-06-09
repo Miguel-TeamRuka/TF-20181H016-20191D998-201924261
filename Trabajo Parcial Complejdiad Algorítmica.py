@@ -12,6 +12,12 @@ import random
 from numpy import random as rd
 from csv import reader
 import re
+import math as mth
+import decimal
+import matplotlib.pyplot as plt
+!pip install perlin_noise
+from perlin_noise import PerlinNoise
+from datetime import datetime
 
 from google.colab import files
  
@@ -105,6 +111,61 @@ def distancia(origen,destino):
   d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
   return d
 
+def calcularPeso(nroAutos,velocidad,distancia):
+  return velocidad*(nroAutos/distancia)
+
+
+noise1 = PerlinNoise(octaves=2)
+noise2 = PerlinNoise(octaves=4)
+noise3 = PerlinNoise(octaves=8)
+noise4 = PerlinNoise(octaves=12)
+
+xpix, ypix = 51,40
+pic = []
+for i in range(xpix):
+    row = []
+    for j in range(ypix):
+        noise_val = noise1([i/xpix, j/ypix])
+        noise_val += 0.100 * noise2([i/xpix, j/ypix])
+        noise_val += 0.070 * noise3([i/xpix, j/ypix])
+        noise_val += 0.035 * noise4([i/xpix, j/ypix])
+        row.append(noise_val)
+      
+    pic.append(row)
+
+plt.imshow(pic, cmap='gray')
+plt.show()
+
+def reglas(m,n):
+  if pic[m][n]>=-1 and pic[m][n]< -0.5:
+    return random.randint(47, 52),random.randint(10,20)
+  if pic[m][n]>=-0.5 and pic[m][n]< -0.2:
+    return random.randint(41,46),random.randint(21,28)
+  if pic[m][n]>=-0.2 and pic[m][n]<0.2:
+    return random.randint(31,40),random.randint(29, 34)
+  if pic[m][n]>=0.2 and pic[m][n]<0.5:
+    return random.randint(21,30),random.randint(34,39)
+  if pic[m][n]>=0.5 and pic[m][n]<=1:
+    return random.randint(10, 20),random.randint(40,45)
+
+def returnCoefHour():
+  now = datetime.now()
+  if now.hour>=0 and now.hour<7:
+    return float(decimal.Decimal(random.randrange(60, 80))/100)
+  if now.hour>=7 and now.hour<10:
+    return float(decimal.Decimal(random.randrange(120, 140))/100)
+  if now.hour >=10 and now.hour<18:
+    return float(decimal.Decimal(random.randrange(100, 110))/100)
+  if now.hour >=18 and now.hour<22:
+    return float(decimal.Decimal(random.randrange(140, 160))/100)
+  if now.hour >=22 and now.hour<0:
+    return float(decimal.Decimal(random.randrange(80, 95))/100)
+
+def pesoFinal(origin,neighbort,picI,picJ):
+  distanciaValor = distancia(origin,neighbort)
+  nroAutos,velocidad =reglas(picI,picJ)
+  return round(calcularPeso(nroAutos,velocidad,distanciaValor)*returnCoefHour(),2)
+  
 listAd=[]
 auxiliar=[]
 for i in range(len(hor)):
@@ -117,7 +178,8 @@ for i in range(len(hor)):
           #nodeO=nodes[origin]
           #nodeD=nodes[right]
           #d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
-          peso=distancia(origin,right)
+          #peso=distancia(origin,right)
+          peso= pesoFinal(origin,right,i,j+1)
           auxiliar.append((right,peso))
       if j>0: #inicio de una fila
         if b[i][j-1]!=-1:
@@ -126,7 +188,8 @@ for i in range(len(hor)):
           #nodeO=nodes[origin]
           #nodeD=nodes[left]
           #d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
-          peso=distancia(origin,left)
+          #peso=distancia(origin,left)
+          peso= pesoFinal(origin,left,i,j-1)
           auxiliar.append((left,peso))
       if i<len(hor)-1: #final de una columna
         if b[i+1][j]!=-1:
@@ -135,7 +198,8 @@ for i in range(len(hor)):
           #nodeO=nodes[origin]
           #nodeD=nodes[bottom]
           #d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
-          peso=distancia(origin,bottom)
+          #peso=distancia(origin,bottom)
+          peso= pesoFinal(origin,bottom,i+1,j)
           auxiliar.append((bottom,peso))
       if i>0: #inicio de una columna
         if b[i-1][j]!=-1:
@@ -144,10 +208,12 @@ for i in range(len(hor)):
           #nodeO=nodes[origin]
           #nodeD=nodes[top]
           #d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
-          peso=distancia(origin,top)
+          #peso=distancia(origin,top)
+          peso= pesoFinal(origin,top,i-1,j)
           auxiliar.append((top,peso))
       listAd.append(auxiliar)
       auxiliar=[]
+
 
 print(listAd)
 for l in listAd:
