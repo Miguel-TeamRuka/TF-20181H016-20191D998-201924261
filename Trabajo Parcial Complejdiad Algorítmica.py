@@ -303,7 +303,7 @@ def routeShort(inicio,fin):
   aux=route(inicio,fin,path)
   return aux,cost[fin]
 
-  def second(array,ini,fin):
+def second(array,ini,fin):
  caminoReturn=[]
  pesoReturn=0
  cola=[]
@@ -319,3 +319,35 @@ def routeShort(inicio,fin):
     caminoReturn=camino
     pesoReturn=pesoTotal
  return caminoReturn,pesoReturn
+
+def third(array,ini,fin):
+ caminoReturn=[]
+ pesoReturn=0
+ cola=[]
+ for count,i in enumerate(array):
+  des=i
+  
+  if len(cola)>0 and indices[cola[count-1]]==-1:
+    indices[cola[count-1]]=0
+  cola.append(des)
+  indices[des]=-1
+  camino,pesoTotal=routeShort(ini,fin)
+  if pesoTotal<pesos[2] and pesoTotal>pesos[0]:
+    caminoReturn=camino
+    pesoReturn=pesoTotal
+ return caminoReturn,pesoReturn
+
+pesos=[10000000,10000000,100000000]
+a,b=routeShort(10,650)
+print(a)
+print(b)
+pesos[0]=b
+c,d=second(a,10,650)
+print(c)
+print(d)
+pesos[1]=d
+indices=[0]*len(G)
+e,f=third(c,10,650)
+print(e)
+print(f)
+indices=[0]*len(G)
