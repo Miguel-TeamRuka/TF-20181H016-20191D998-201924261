@@ -281,3 +281,24 @@ def dijkstraList(G, s):
             hq.heappush(pqueue, (f, v))
 
   return path, cost
+
+
+def route(ini,fin,path):
+  ruta=[]
+  aux=fin
+  c=ini
+  while ini!=aux:
+   p=path[aux]
+   aux=p
+   if(p!=ini):
+    ruta.append(aux)
+  
+  return ruta
+
+def routeShort(inicio,fin):
+  path, cost = dijkstraList(G,inicio)
+  #print(path)
+  #print(path[fin])
+  #print(cost)
+  aux=route(inicio,fin,path)
+  return aux,cost[fin]
