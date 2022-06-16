@@ -237,3 +237,47 @@ with open('ListaAdyacencia.txt', 'w') as f:
    c=0
    if i<len(listAd)-1:
     f.write('\n')
+
+with open("ListaAdyacencia.txt") as f:
+  G = []
+  for line in f:
+    nums=[]
+    
+    for count,x in enumerate(line.split()):
+      if count%2==0:
+        nums.append(int(x))
+      else:
+        nums.append(float(x))
+    G.append([])
+    for i in range(0, len(nums), 2):
+     G[-1].append((nums[i], nums[i+1]))
+
+
+for x in G:
+  print(x)
+
+indices=[0]*len(G)
+indices[0]=0
+
+def dijkstraList(G, s):
+  n = len(G)
+  visited = [False]*n
+  path = [-1]*n
+  cost = [mth.inf]*n
+
+  cost[s] = 0
+  pqueue = [(0, s)]
+  while pqueue:
+    g, u = hq.heappop(pqueue)
+    if not visited[u]:
+      visited[u] = True
+      if indices[u]!=-1:
+       for v, w in G[u]:
+        if not visited[v]:
+          f = g + w
+          if f < cost[v]:
+            cost[v] = f
+            path[v] = u
+            hq.heappush(pqueue, (f, v))
+
+  return path, cost
