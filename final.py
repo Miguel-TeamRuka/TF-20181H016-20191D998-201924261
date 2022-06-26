@@ -284,3 +284,165 @@ def LeerListaAd():
     return Gr
     #for x in Gr:
     #    print(x)
+
+def generarListaAd():
+    CallesHor=[]
+    CallesVer=[]
+    Nodos=[]
+    Perlin=[]
+    ListaAd=[]
+
+    CallesHor=HorizontalTXT()
+    CallesVer=VerticalTXT()
+    Matrix=Matriz(CallesHor,CallesVer)
+    Nodos=GenerarNodos(CallesHor,CallesVer,Matrix)
+    print(Matrix)
+    Perlin=GenerarPerlinNoise()
+    EscribirNodos(Nodos)
+    ListaAd=GenerarAristas(CallesHor,CallesVer,Matrix,Nodos,Perlin)
+    EscribirListaAd(ListaAd)
+
+def dijkstraList(G, s,indices):
+  n = len(G)
+  visited = [False]*n
+  path = [-1]*n
+  cost = [mth.inf]*n
+
+  cost[s] = 0
+  pqueue = [(0, s)]
+  while pqueue:
+    g, u = hq.heappop(pqueue)
+    if not visited[u]:
+      visited[u] = True
+      if indices[u]!=-1:
+       for v, w in G[u]:
+        if not visited[v]:
+          f = g + w
+          if f < cost[v]:
+            cost[v] = f
+            path[v] = u
+            hq.heappush(pqueue, (f, v))
+
+  return path, cost
+
+def route(ini,fin,path):
+  ruta=[]
+  aux=fin
+  ruta.append(aux)
+  c=ini
+  while ini!=aux:
+   p=path[aux]
+   aux=p
+   if(p!=ini):
+    ruta.append(aux)
+  ruta.append(ini)
+  return ruta
+
+def routeShort(inicio,fin,graf,indice):
+  path, cost = dijkstraList(graf,inicio,indice)
+  #print(path)
+  #print(path[fin])
+  #print(cost)
+  aux=route(inicio,fin,path)
+  return aux,cost[fin]
+
+def second(array,ini,fin,pesos,grapf,indices):
+  caminoReturn2=[]
+  pesoReturn2=[]
+  camino2=[]
+  path2=[]
+  pesoTotal2=[]
+  cola2=[]
+  for count,i in enumerate(array):
+    des=i
+    if len(cola2)>0 and indices[cola2[count-1]]==-1:
+      indices[cola2[count-1]]=0
+    cola2.append(des)
+    indices[des]=-1
+    
+    #camino,pesoTotal=routeShort(ini,fin,grapf,indices)
+    camino2,pesoTotal2=dijkstraList(grapf,ini,indices)
+    if pesoTotal2[fin]<pesos[1]:
+      caminoReturn2=camino2
+      pesoReturn2=pesoTotal2
+  path2=route(ini,fin,caminoReturn2)
+  return path2,pesoReturn2[fin]
+
+def third(array,ini,fin,pesos,grapf,indices):
+    caminoReturn3=[]
+    pesoReturn3=[]
+    camino3=[]
+    pesoTotal3=[]
+    cola3=[]
+    path3=[]
+    for count,i in enumerate(array):
+        des=i
+        if len(cola3)>0 and indices[cola3[count-1]]==-1:
+            indices[cola3[count-1]]=0
+        cola3.append(des)
+        indices[des]=-1
+        #camino,pesoTotal=routeShort(ini,fin)
+        camino3,pesoTotal3=dijkstraList(grapf,ini,indices)
+        if pesoTotal3[fin]<pesos[2] and pesoTotal3[fin]>pesos[0] and pesoTotal3[fin]!=pesos[1]:
+            caminoReturn3=camino3
+            pesoReturn3=pesoTotal3
+    path3=route(ini,fin,caminoReturn3)
+    return path3,pesoReturn3[fin]
+
+
+def returnPath(path):
+    aux=[]
+    for i in range(len(path)):
+        if i!=0 and i!=len(path)-1:
+            aux.append(path[i])
+    return aux
+
+def rutas(ini,fin):
+    pesos=[100000000,100000000,1000000000]
+    
+    Lista=[]
+    Lista=LeerListaAd()
+    indices=[0]*len(Lista)
+    indices[0]=0
+
+
+    path1=[]
+    aux1=[]
+    w1=0
+    path2=[]
+    aux2=[]
+    w2=0
+    path3=[]
+    w3=0
+
+
+    Inicio=ini
+    Fin=fin
+
+    path1,w1=routeShort(Inicio,Fin,Lista,indices)
+    #print(path1,w1)
+    pesos[0]=w1
+    indices=[0]*len(Lista)
+    aux1=returnPath(path1)
+
+    path2,w2=second(aux1,Inicio,Fin,pesos,Lista,indices)
+    #print(path2,w2)
+    aux2=returnPath(path2)
+    pesos[1]=w2
+    indices=[0]*len(Lista)
+
+
+    path3,w3=third(aux2,Inicio,Fin,pesos,Lista,indices)
+    #print(path3,w3)
+    pesos[2]=w3
+
+    returnPath1=path1[::-1]
+    returnPath2=path2[::-1]
+    returnPath3=path3[::-1]
+
+    return returnPath1,returnPath2,returnPath3
+
+#path1,path2,path3=rutas(21,1740)
+
+
+#lat=leerNodosLatLon()
