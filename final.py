@@ -1,3 +1,4 @@
+from importlib.resources import path
 import random
 import numpy
 from numpy import random as rd
@@ -58,6 +59,7 @@ def GenerarNodos(hor,ver,b):
 
                 nodes.append((nodeCount,n1,n2,round(lat,6),round(longit,6)))
                 nodeCount=nodeCount+1
+    
     return nodes
 
 def EscribirNodos(nodes):
@@ -111,10 +113,8 @@ def distancia(origen,destino,nodes):
   nodeO=nodes[origen]
   nodeD=nodes[destino]
   d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
+  
   return d
-
-def calcularPeso(nroAutos,velocidad,distancia):
-  return velocidad*(nroAutos/distancia)
 
 def GenerarPerlinNoise():
     noise1 = PerlinNoise(octaves=2)
@@ -137,56 +137,125 @@ def GenerarPerlinNoise():
 
     #plt.imshow(pic, cmap='gray')
     #plt.show()
+    #print(pic)
     return pic
 
 def reglas(m,n,pic):
   if pic[m][n]>=-1 and pic[m][n]<-0.5:
-    return random.randint(47, 52),random.randint(10,20)
-    #return 30,12
+    return random.randint(3250,3800)
+    
   if pic[m][n]>=-0.5 and pic[m][n]<-0.2:
-    return random.randint(41,46),random.randint(21,28)
-    #return 26,20
+    return random.randint(2100,2800)
+   
   if pic[m][n]>=-0.2 and pic[m][n]<0.2:
-    return random.randint(31,40),random.randint(29, 34)
-    #return 20,32
+    return random.randint(1000,1650)
+    
   if pic[m][n]>=0.2 and pic[m][n]<0.5:
-    return random.randint(21,30),random.randint(34,39)
-    #return 16,36
+    return random.randint(450,790)
+    
   if pic[m][n]>=0.5 and pic[m][n]<=1:
-    return random.randint(10, 20),random.randint(40,45)
-    #return 10,40
-#print(pic[5][26])
-#print(reglas(5,26))
-#print(pic[39][26])
-#print(reglas(39,26))
+    return random.randint(80,190)
 
-def returnCoefHour():
-  now = datetime.now()
-  
-  if now.hour>=0 and now.hour<7:
-    return float(decimal.Decimal(random.randrange(60, 80))/100)
-    #return 0.5
-  if now.hour>=7 and now.hour<10:
-    return float(decimal.Decimal(random.randrange(120, 140))/100)
-    #return 1.2
-  if now.hour >=10 and now.hour<18: 
-    return float(decimal.Decimal(random.randrange(100, 110))/100)
-    #return 1
-  if now.hour >=18 and now.hour<22:   
-    return float(decimal.Decimal(random.randrange(140, 160))/100)
-    #return 1.25
-  if now.hour >=22 and now.hour<0:
-    return float(decimal.Decimal(random.randrange(80, 95))/100)
-    #return 0.9
-  if now.hour==22:
-    return float(decimal.Decimal(random.randrange(80, 95))/100)
-    #return 0.9
-  return 1
+
+def returnHour(m,n,pic):
+    now = datetime.now()
+    if now.hour>=0 and now.hour<7:
+        if pic[m][n]>=-1 and pic[m][n]<-0.5:
+         return float(decimal.Decimal(random.randrange(25, 39))/100)
+    
+        if pic[m][n]>=-0.5 and pic[m][n]<-0.2:
+          return float(decimal.Decimal(random.randrange(30,38))/100)
+    
+        if pic[m][n]>=-0.2 and pic[m][n]<0.2:
+         return float(decimal.Decimal(random.randrange(58,68))/100)
+    
+        if pic[m][n]>=0.2 and pic[m][n]<0.5:
+          return float(decimal.Decimal(random.randrange(90,100))/100)
+    
+        if pic[m][n]>=0.5 and pic[m][n]<=1:
+          return float(decimal.Decimal(random.randrange(92,105))/100)
+      
+    
+    if now.hour>=7 and now.hour<10:
+      if pic[m][n]>=-1 and pic[m][n]<-0.5:
+         return float(decimal.Decimal(random.randrange(105, 122))/100)
+    
+      if pic[m][n]>=-0.5 and pic[m][n]<-0.2:
+          return float(decimal.Decimal(random.randrange(105,125))/100)
+    
+      if pic[m][n]>=-0.2 and pic[m][n]<0.2:
+         return float(decimal.Decimal(random.randrange(125,138))/100)
+    
+      if pic[m][n]>=0.2 and pic[m][n]<0.5:
+          return float(decimal.Decimal(random.randrange(111,125))/100)
+    
+      if pic[m][n]>=0.5 and pic[m][n]<=1:
+          return float(decimal.Decimal(random.randrange(980,102))/100)
+    
+
+    if now.hour >=10 and now.hour<18: 
+      if pic[m][n]>=-1 and pic[m][n]<-0.5:
+         return float(decimal.Decimal(random.randrange(55, 60))/100)
+    
+      if pic[m][n]>=-0.5 and pic[m][n]<-0.2:
+          return float(decimal.Decimal(random.randrange(58,65))/100)
+    
+      if pic[m][n]>=-0.2 and pic[m][n]<0.2:
+         return float(decimal.Decimal(random.randrange(88,92))/100)
+    
+      if pic[m][n]>=0.2 and pic[m][n]<0.5:
+          return float(decimal.Decimal(random.randrange(86,90))/100)
+    
+      if pic[m][n]>=0.5 and pic[m][n]<=1:
+          return float(decimal.Decimal(random.randrange(80,86))/100)
+    
+
+    if now.hour >=18 and now.hour<22:   
+      if pic[m][n]>=-1 and pic[m][n]<-0.5:
+         return float(decimal.Decimal(random.randrange(105, 112))/100)
+    
+      if pic[m][n]>=-0.5 and pic[m][n]<-0.2:
+          return float(decimal.Decimal(random.randrange(105,125))/100)
+    
+      if pic[m][n]>=-0.2 and pic[m][n]<0.2:
+         return float(decimal.Decimal(random.randrange(125,138))/100)
+    
+      if pic[m][n]>=0.2 and pic[m][n]<0.5:
+          return float(decimal.Decimal(random.randrange(116,125))/100)
+    
+      if pic[m][n]>=0.5 and pic[m][n]<=1:
+          return float(decimal.Decimal(random.randrange(100,125))/100)
+    
+    if now.hour >=22 and now.hour<=23:
+      if pic[m][n]>=-1 and pic[m][n]<-0.5:
+         return float(decimal.Decimal(random.randrange(100, 105))/100)
+    
+      if pic[m][n]>=-0.5 and pic[m][n]<-0.2:
+          return float(decimal.Decimal(random.randrange(98,102))/100)
+    
+      if pic[m][n]>=-0.2 and pic[m][n]<0.2:
+         return float(decimal.Decimal(random.randrange(95,98))/100)
+    
+      if pic[m][n]>=0.2 and pic[m][n]<0.5:
+          return float(decimal.Decimal(random.randrange(90,95))/100)
+    
+      if pic[m][n]>=0.5 and pic[m][n]<=1:
+          return float(decimal.Decimal(random.randrange(85,92))/100)
+    
+    
+    return 1
+def calcularPeso(aux,distancia):
+  #return velocidad*(nroAutos/distancia)*0.1
+  #return velocidad*nroAutos*distancia*0.1
+  #return 10*nroAutos*distancia/velocidad
+  #return 10*nroAutos*distancia
+  return aux
 
 def pesoFinal(origin,neighbort,picI,picJ,nodes,perlin):
   distanciaValor = distancia(origin,neighbort,nodes)
-  nroAutos,velocidad =reglas(picI,picJ,perlin)
-  return round(calcularPeso(nroAutos,velocidad,distanciaValor)*returnCoefHour(),2)
+  aux =reglas(picI,picJ,perlin)
+  hour=returnHour(picI,picJ,perlin)
+  return round(calcularPeso(aux,distanciaValor)*hour,2)
 
 
 def GenerarAristas(hor,ver,b,nodes,perlin):
@@ -199,45 +268,76 @@ def GenerarAristas(hor,ver,b,nodes,perlin):
           if b[i][j+1]!=-1:
             right=b[i][j+1]
             origin=b[i][j]
-            #nodeO=nodes[origin]
-            #nodeD=nodes[right]
-            #d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
-            #peso=distancia(origin,right)
             peso= pesoFinal(origin,right,i,j+1,nodes,perlin)
             auxiliar.append((right,peso))
-      if j>0: #inicio de una fila
+          if b[i][j+1]==-1:
+            index=1
+            if j+index<len(ver)-1:
+              while b[i][j+index]==-1 and j+index<len(ver)-1 :
+                index=index+1
+              if b[i][j+index]!=-1:
+                  right=b[i][j+index]
+                  origin=b[i][j]
+                  peso= pesoFinal(origin,right,i,j+index,nodes,perlin)
+                  auxiliar.append((right,peso))
+                  index=0
+        if j>0: #inicio de una fila
           if b[i][j-1]!=-1:
             left=b[i][j-1]
             origin=b[i][j]
-            #nodeO=nodes[origin]
-            #nodeD=nodes[left]
-            #d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
-            #peso=distancia(origin,left)
             peso= pesoFinal(origin,left,i,j-1,nodes,perlin)
             auxiliar.append((left,peso))
-      if i<len(hor)-1: #final de una columna
+          if b[i][j-1]==-1:
+            index=1
+            if j-index>0:
+              while b[i][j-index]==-1 and j-index>0 :
+                index=index+1
+              if b[i][j-index]!=-1:
+                left=b[i][j-index]
+                origin=b[i][j]
+                peso= pesoFinal(origin,left,i,j-index,nodes,perlin)
+                auxiliar.append((left,peso))
+                index=0
+        if i<len(hor)-1: #final de una columna
           if b[i+1][j]!=-1:
             bottom=b[i+1][j]
             origin=b[i][j]
-            #nodeO=nodes[origin]
-            #nodeD=nodes[bottom]
-            #d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
-            #peso=distancia(origin,bottom)
             peso= pesoFinal(origin,bottom,i+1,j,nodes,perlin)
             auxiliar.append((bottom,peso))
-      if i>0: #inicio de una columna
+          else:
+            index=1
+            if i+index<len(hor)-1:
+              while b[i+index][j]==-1 and i+index<len(hor)-1 :
+               #print(index)
+                index=index+1
+              if b[i+index][j]!=-1:
+                bottom=b[i+index][j]
+                origin=b[i][j]
+                peso= pesoFinal(origin,bottom,i+index,j,nodes,perlin)
+                auxiliar.append((bottom,peso))
+                index=0
+        if i>0: #inicio de una columna
           if b[i-1][j]!=-1:
             top=b[i-1][j]
             origin=b[i][j]
-            #nodeO=nodes[origin]
-            #nodeD=nodes[top]
-            #d=haversine(nodeO[3],nodeO[4],nodeD[3],nodeD[4])
-            #peso=distancia(origin,top)
             peso= pesoFinal(origin,top,i-1,j,nodes,perlin)
             auxiliar.append((top,peso))
-      listAd.append(auxiliar)
-      auxiliar=[]
-
+          else:
+            index=1
+            if i-index>0:
+              while b[i-index][j]==-1 and i-index>0 :
+                #print(index)
+                index=index+1
+              if b[i-index][j]!=-1:
+                top=b[i-index][j]
+                origin=b[i][j]
+                peso= pesoFinal(origin,top,i-index,j,nodes,perlin)
+                auxiliar.append((top,peso))
+                index=0
+        listAd.append(auxiliar)
+        auxiliar=[]
+  for l in listAd:
+    print(l)
   return listAd
   #print(listAd)
   #for l in listAd:
@@ -249,17 +349,15 @@ def EscribirListaAd(listAd):
         for i in range(len(listAd)):
             for j in listAd[i]:
                 if(c==len(listAd[i])-1):
-                    #f.write(str(j))
                     f.write(re.sub(r'[\(\,)]','',str(j)))
                 else:
-                    #f.write(str(j)+" ")
                     f.write(re.sub(r'[\(\,)]','',str(j)+" "))
                 c=c+1
             c=0
             if i<len(listAd)-1:
                 f.write('\n')
 def LeerListaAd():
-    generarListaAd()
+    #generarListaAd()
     with open("ListaAdyacencia.txt") as f:
         Gr = []
         for line in f:
@@ -273,7 +371,7 @@ def LeerListaAd():
             Gr.append([])
 
             for i in range(0, len(nums), 2):
-                Gr[-1].append((nums[i], nums[i+1]))
+                Gr[-1].append((int(nums[i]), int(nums[i+1])))
 
    # nums = [float(x) for x in line.split()]
    # G.append([])
@@ -298,8 +396,11 @@ def generarListaAd():
     Nodos=GenerarNodos(CallesHor,CallesVer,Matrix)
     print(Matrix)
     Perlin=GenerarPerlinNoise()
+    print("a")
     EscribirNodos(Nodos)
+    print("b")
     ListaAd=GenerarAristas(CallesHor,CallesVer,Matrix,Nodos,Perlin)
+    print("c")
     EscribirListaAd(ListaAd)
 
 def dijkstraList(G, s,indices):
@@ -344,51 +445,39 @@ def routeShort(inicio,fin,graf,indice):
   #print(path[fin])
   #print(cost)
   aux=route(inicio,fin,path)
-  return aux,cost[fin]
+  return aux,cost[fin],path
 
-def second(array,ini,fin,pesos,grapf,indices):
-  caminoReturn2=[]
-  pesoReturn2=[]
-  camino2=[]
-  path2=[]
-  pesoTotal2=[]
-  cola2=[]
+def secondAndThird(array,ini,fin,pesos,grapf,indices):
+  pathReturn2=[]
+  wReturn2=[]
+  pathReturn3=[]
+  wReturn3=[]
+  way2=[]
+  wTotal2=[]
+  queue=[]
   for count,i in enumerate(array):
     des=i
-    if len(cola2)>0 and indices[cola2[count-1]]==-1:
-      indices[cola2[count-1]]=0
-    cola2.append(des)
+    if len(queue)>0 and indices[queue[count-1]]==-1:
+      indices[queue[count-1]]=0
+    queue.append(des)
     indices[des]=-1
-    
-    #camino,pesoTotal=routeShort(ini,fin,grapf,indices)
-    camino2,pesoTotal2=dijkstraList(grapf,ini,indices)
-    if pesoTotal2[fin]<pesos[1]:
-      caminoReturn2=camino2
-      pesoReturn2=pesoTotal2
-  path2=route(ini,fin,caminoReturn2)
-  return path2,pesoReturn2[fin]
 
-def third(array,ini,fin,pesos,grapf,indices):
-    caminoReturn3=[]
-    pesoReturn3=[]
-    camino3=[]
-    pesoTotal3=[]
-    cola3=[]
-    path3=[]
-    for count,i in enumerate(array):
-        des=i
-        if len(cola3)>0 and indices[cola3[count-1]]==-1:
-            indices[cola3[count-1]]=0
-        cola3.append(des)
-        indices[des]=-1
-        #camino,pesoTotal=routeShort(ini,fin)
-        camino3,pesoTotal3=dijkstraList(grapf,ini,indices)
-        if pesoTotal3[fin]<pesos[2] and pesoTotal3[fin]>pesos[0] and pesoTotal3[fin]!=pesos[1]:
-            caminoReturn3=camino3
-            pesoReturn3=pesoTotal3
-    path3=route(ini,fin,caminoReturn3)
-    return path3,pesoReturn3[fin]
-
+    way2,wTotal2=dijkstraList(grapf,ini,indices)
+    if count==0:
+      if wTotal2[fin]<pesos[1] and wTotal2[fin]>pesos[0]:
+        pesos[1]=wTotal2[fin]
+        pathReturn2=way2
+        wReturn2=wTotal2
+    if count>0:
+      if wTotal2[fin]<pesos[1] and wTotal2[fin]>pesos[0]:
+        pesos[1]=wTotal2[fin]
+        pathReturn2=way2
+        wReturn2=wTotal2
+      if wTotal2[fin]<pesos[2] and  wTotal2[fin]>pesos[1]:
+        pesos[2]=wTotal2[fin]
+        pathReturn3=way2
+        wReturn3=wTotal2
+  return wReturn2[fin],pathReturn2,wReturn3[fin],pathReturn3
 
 def returnPath(path):
     aux=[]
@@ -397,52 +486,28 @@ def returnPath(path):
             aux.append(path[i])
     return aux
 
-def rutas(ini,fin):
-    pesos=[100000000,100000000,1000000000]
-    
-    Lista=[]
-    Lista=LeerListaAd()
-    indices=[0]*len(Lista)
-    indices[0]=0
+def route2Shortest(G,s,t):
+  pesos=[100000000,100000000,1000000000]
+  indices=[0]*len(G)
+  indices[0]=0
+  path1=[]
+  aux1=[]
+  w1=0
 
+  path2=[]
+  aux2=[]
+  w2=0
 
-    path1=[]
-    aux1=[]
-    w1=0
-    path2=[]
-    aux2=[]
-    w2=0
-    path3=[]
-    w3=0
+  path3=[]
+  aux3=[]
+  w3=0
 
+  aux1,w1,path1=routeShort(s,t,G,indices)
+  pesos[0]=w1
+  indices=[0]*len(G)
+  aux1=returnPath(path1)
 
-    Inicio=ini
-    Fin=fin
-
-    path1,w1=routeShort(Inicio,Fin,Lista,indices)
-    #print(path1,w1)
-    pesos[0]=w1
-    indices=[0]*len(Lista)
-    aux1=returnPath(path1)
-
-    path2,w2=second(aux1,Inicio,Fin,pesos,Lista,indices)
-    #print(path2,w2)
-    aux2=returnPath(path2)
-    pesos[1]=w2
-    indices=[0]*len(Lista)
-
-
-    path3,w3=third(aux2,Inicio,Fin,pesos,Lista,indices)
-    #print(path3,w3)
-    pesos[2]=w3
-
-    returnPath1=path1[::-1]
-    returnPath2=path2[::-1]
-    returnPath3=path3[::-1]
-
-    return returnPath1,returnPath2,returnPath3
-
-#path1,path2,path3=rutas(21,1740)
-
-
-#lat=leerNodosLatLon()
+  w2,path2,w3,path3=secondAndThird(aux1,s,t,pesos,G,indices)
+  print(w1,w2,w3)
+  
+  return path1,path2,path3
