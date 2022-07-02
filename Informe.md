@@ -65,7 +65,7 @@ Se debe recorrer la matriz, sin embargo, con algunos condicionales, como no preg
 
 Como se explicó anteriormente, las calles cuentan con una distancia en "x" e "y" al nodo origen (0,0), al realizar la función para detectar todas las intersecciones se obtiene las coordenadas de estos pero en metros, así que para pasarlo a coordendas geográficas usamos las siguientes ecuaciones: 
 
-![img](https://raw.githubusercontent.com/Miguel-TeamRuka/TF-20181H016-20191D998-201924261/main/imagenes/latlon.png)
+![img](https://raw.githubusercontent.com/Miguel-TeamRuka/TF-20181H016-20191D998-201924261/main/imagenes/latlon.PNG)
 
 Con las coordendas de cada nodo, se puede hallar la distancia entre ellos con la formula del haversine:
 
