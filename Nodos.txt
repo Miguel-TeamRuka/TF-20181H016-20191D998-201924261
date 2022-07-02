@@ -10,1565 +10,1511 @@ Nodo,Calle Horizontal,Calle Vertical,Latitud,Longitud
 8,W Devon Ave,N Troy St,41.997248,-87.708126
 9,W Devon Ave,N Albany Ave,41.997248,-87.706917
 10,W Devon Ave,N Whipple St,41.997248,-87.705709
-11,W Devon Ave,N Sacramento Ave,41.997248,-87.7045
-12,W Devon Ave,N Richmond St,41.997248,-87.702203
-13,W Devon Ave,N Francisco Ave,41.997248,-87.701961
-14,W Devon Ave,N Mozart St,41.997248,-87.700692
-15,W Devon Ave,N California Ave,41.997248,-87.699544
-16,W Devon Ave,N Fairfield Ave,41.997248,-87.698456
-17,W Devon Ave,N Washtenaw Ave,41.997248,-87.697126
-18,W Devon Ave,N Talman Ave,41.997248,-87.695917
-19,W Devon Ave,N Rockwell St,41.997248,-87.694709
-20,W Devon Ave,N Maplewood Ave,41.997248,-87.6935
-21,W Devon Ave,N Artesian Ave,41.997248,-87.691082
-22,W Devon Ave,N Western Ave,41.997248,-87.689874
-23,W Devon Ave,N Leavit St,41.997248,-87.684918
-24,W Devon Ave,N Hoyne Ave,41.997248,-87.6825
-25,W Devon Ave,N Seeley Ave,41.997248,-87.681533
-26,W Devon Ave,N Whichester Ave,41.997248,-87.678511
-27,W Rosemont Ave,N Springfield Ave,41.995319,-87.726318
-28,W Rosemont Ave,N Avers Ave,41.995319,-87.725194
-29,W Rosemont Ave,N Hamlin Ave,41.995319,-87.723901
-30,W Rosemont Ave,N Ridgeway Ave,41.995319,-87.722704
-31,W Rosemont Ave,N Lawndale Ave,41.995319,-87.721387
-32,W Rosemont Ave,N Central Park Ave,41.995319,-87.718848
-33,W Rosemont Ave,N Drake Ave,41.995319,-87.71776
-34,W Rosemont Ave,N St Louis Ave,41.995319,-87.716467
-35,W Rosemont Ave,N Kedzie Ave,41.995319,-87.709577
-36,W Rosemont Ave,N Troy St,41.995319,-87.708127
-37,W Rosemont Ave,N Albany Ave,41.995319,-87.706918
-38,W Rosemont Ave,N Whipple St,41.995319,-87.705709
-39,W Rosemont Ave,N Sacramento Ave,41.995319,-87.704501
-40,W Rosemont Ave,N Richmond St,41.995319,-87.702204
-41,W Rosemont Ave,N Francisco Ave,41.995319,-87.701962
-42,W Rosemont Ave,N Mozart St,41.995319,-87.700693
-43,W Rosemont Ave,N California Ave,41.995319,-87.699545
-44,W Rosemont Ave,N Fairfield Ave,41.995319,-87.698457
-45,W Rosemont Ave,N Washtenaw Ave,41.995319,-87.697127
-46,W Rosemont Ave,N Talman Ave,41.995319,-87.695918
-47,W Rosemont Ave,N Rockwell St,41.995319,-87.69471
-48,W Rosemont Ave,N Maplewood Ave,41.995319,-87.693501
-49,W Rosemont Ave,N Artesian Ave,41.995319,-87.691084
-50,W Rosemont Ave,N Western Ave,41.995319,-87.689875
-51,W Rosemont Ave,N Leavit St,41.995319,-87.684919
-52,W Rosemont Ave,N Hoyne Ave,41.995319,-87.682502
-53,W Rosemont Ave,N Seeley Ave,41.995319,-87.681535
-54,W Rosemont Ave,N Whichester Ave,41.995319,-87.678513
-55,W Granville Ave,N Pulaski Rd,41.993688,-87.728917
-56,W Granville Ave,N Springfield Ave,41.993688,-87.726318
-57,W Granville Ave,N Avers Ave,41.993688,-87.725194
-58,W Granville Ave,N Hamlin Ave,41.993688,-87.723901
-59,W Granville Ave,N Ridgeway Ave,41.993688,-87.722704
-60,W Granville Ave,N Lawndale Ave,41.993688,-87.721387
-61,W Granville Ave,N Central Park Ave,41.993688,-87.718848
-62,W Granville Ave,N Drake Ave,41.993688,-87.717761
-63,W Granville Ave,N St Louis Ave,41.993688,-87.716467
-64,W Granville Ave,N Bernard St,41.993688,-87.715138
-65,W Granville Ave,N Kimball Ave,41.993688,-87.713929
-66,W Granville Ave,N Kedzie Ave,41.993688,-87.709578
-67,W Granville Ave,N Troy St,41.993688,-87.708127
-68,W Granville Ave,N Albany Ave,41.993688,-87.706919
-69,W Granville Ave,N Whipple St,41.993688,-87.70571
-70,W Granville Ave,N Sacramento Ave,41.993688,-87.704501
-71,W Granville Ave,N Richmond St,41.993688,-87.702205
-72,W Granville Ave,N Francisco Ave,41.993688,-87.701963
-73,W Granville Ave,N Mozart St,41.993688,-87.700694
-74,W Granville Ave,N California Ave,41.993688,-87.699545
-75,W Granville Ave,N Fairfield Ave,41.993688,-87.698458
-76,W Granville Ave,N Washtenaw Ave,41.993688,-87.697128
-77,W Granville Ave,N Talman Ave,41.993688,-87.695919
-78,W Granville Ave,N Rockwell St,41.993688,-87.694711
-79,W Granville Ave,N Maplewood Ave,41.993688,-87.693502
-80,W Granville Ave,N Artesian Ave,41.993688,-87.691085
-81,W Granville Ave,N Western Ave,41.993688,-87.689876
-82,W Granville Ave,N Leavit St,41.993688,-87.68492
-83,W Granville Ave,N Hoyne Ave,41.993688,-87.682503
-84,W Granville Ave,N Seeley Ave,41.993688,-87.681536
-85,W Granville Ave,N Whichester Ave,41.993688,-87.678514
-86,W Glenlake Ave,N Pulaski Rd,41.991786,-87.728917
-87,W Glenlake Ave,N Springfield Ave,41.991786,-87.726318
-88,W Glenlake Ave,N Avers Ave,41.991786,-87.725194
-89,W Glenlake Ave,N Hamlin Ave,41.991786,-87.723901
-90,W Glenlake Ave,N Ridgeway Ave,41.991786,-87.722704
-91,W Glenlake Ave,N Lawndale Ave,41.991786,-87.721387
-92,W Glenlake Ave,N Central Park Ave,41.991786,-87.718849
-93,W Glenlake Ave,N Drake Ave,41.991786,-87.717761
-94,W Glenlake Ave,N St Louis Ave,41.991786,-87.716468
-95,W Glenlake Ave,N Bernard St,41.991786,-87.715138
-96,W Glenlake Ave,N Kimball Ave,41.991786,-87.713929
-97,W Glenlake Ave,N Christiana Ave,41.991786,-87.712963
-98,W Glenlake Ave,N Kedzie Ave,41.991786,-87.709578
-99,W Glenlake Ave,N Troy St,41.991786,-87.708128
-100,W Glenlake Ave,N Albany Ave,41.991786,-87.706919
-101,W Glenlake Ave,N Whipple St,41.991786,-87.705711
-102,W Glenlake Ave,N Sacramento Ave,41.991786,-87.704502
-103,W Glenlake Ave,N Richmond St,41.991786,-87.702205
-104,W Glenlake Ave,N Francisco Ave,41.991786,-87.701964
-105,W Glenlake Ave,N Mozart St,41.991786,-87.700695
-106,W Glenlake Ave,N California Ave,41.991786,-87.699546
-107,W Glenlake Ave,N Fairfield Ave,41.991786,-87.698459
-108,W Glenlake Ave,N Washtenaw Ave,41.991786,-87.697129
-109,W Glenlake Ave,N Talman Ave,41.991786,-87.69592
-110,W Glenlake Ave,N Rockwell St,41.991786,-87.694712
-111,W Glenlake Ave,N Maplewood Ave,41.991786,-87.693503
-112,W Glenlake Ave,N Artesian Ave,41.991786,-87.691086
-113,W Glenlake Ave,N Western Ave,41.991786,-87.689877
-114,W Glenlake Ave,N Leavit St,41.991786,-87.684921
-115,W Glenlake Ave,N Hoyne Ave,41.991786,-87.682504
-116,W Glenlake Ave,N Seeley Ave,41.991786,-87.681537
-117,W Glenlake Ave,N Damen Ave,41.991786,-87.680087
-118,W Glenlake Ave,N Whichester Ave,41.991786,-87.678515
-119,W Glenlake Ave,N Wolcott Ave,41.991786,-87.677307
-120,W Glenlake Ave,N Ravenswood Ave,41.991786,-87.675131
-121,W Peterson Ave,N Pulaski Rd,41.989848,-87.728917
-122,W Peterson Ave,N Springfield Ave,41.989848,-87.726318
-123,W Peterson Ave,N Avers Ave,41.989848,-87.725194
-124,W Peterson Ave,N Hamlin Ave,41.989848,-87.723901
-125,W Peterson Ave,N Ridgeway Ave,41.989848,-87.722705
-126,W Peterson Ave,N Lawndale Ave,41.989848,-87.721387
-127,W Peterson Ave,N Central Park Ave,41.989848,-87.718849
-128,W Peterson Ave,N Drake Ave,41.989848,-87.717761
-129,W Peterson Ave,N St Louis Ave,41.989848,-87.716468
-130,W Peterson Ave,N Bernard St,41.989848,-87.715139
-131,W Peterson Ave,N Kimball Ave,41.989848,-87.71393
-132,W Peterson Ave,N Christiana Ave,41.989848,-87.712963
-133,W Peterson Ave,N Kedzie Ave,41.989848,-87.709579
-134,W Peterson Ave,N Troy St,41.989848,-87.708129
-135,W Peterson Ave,N Albany Ave,41.989848,-87.70692
-136,W Peterson Ave,N Whipple St,41.989848,-87.705711
-137,W Peterson Ave,N Sacramento Ave,41.989848,-87.704503
-138,W Peterson Ave,N Richmond St,41.989848,-87.702206
-139,W Peterson Ave,N Francisco Ave,41.989848,-87.701964
-140,W Peterson Ave,N Mozart St,41.989848,-87.700695
-141,W Peterson Ave,N California Ave,41.989848,-87.699547
-142,W Peterson Ave,N Fairfield Ave,41.989848,-87.698459
-143,W Peterson Ave,N Washtenaw Ave,41.989848,-87.69713
-144,W Peterson Ave,N Talman Ave,41.989848,-87.695921
-145,W Peterson Ave,N Rockwell St,41.989848,-87.694713
-146,W Peterson Ave,N Maplewood Ave,41.989848,-87.693504
-147,W Peterson Ave,N Artesian Ave,41.989848,-87.691087
-148,W Peterson Ave,N Western Ave,41.989848,-87.689878
-149,W Peterson Ave,N Leavit St,41.989848,-87.684923
-150,W Peterson Ave,N Hoyne Ave,41.989848,-87.682506
-151,W Peterson Ave,N Seeley Ave,41.989848,-87.681539
-152,W Peterson Ave,N Damen Ave,41.989848,-87.680088
-153,W Peterson Ave,N Whichester Ave,41.989848,-87.678517
-154,W Peterson Ave,N Wolcott Ave,41.989848,-87.677308
-155,W Peterson Ave,N Ravenswood Ave,41.989848,-87.675133
-156,W Thorndale Ave,N Drake Ave,41.988145,-87.717762
-157,W Thorndale Ave,N St Louis Ave,41.988145,-87.716468
-158,W Thorndale Ave,N Bernard St,41.988145,-87.715139
-159,W Thorndale Ave,N Kimball Ave,41.988145,-87.71393
-160,W Thorndale Ave,N Christiana Ave,41.988145,-87.712963
-161,W Thorndale Ave,N Kedzie Ave,41.988145,-87.709579
-162,W Thorndale Ave,N Troy St,41.988145,-87.708129
-163,W Thorndale Ave,N Albany Ave,41.988145,-87.70692
-164,W Thorndale Ave,N Whipple St,41.988145,-87.705712
-165,W Thorndale Ave,N Sacramento Ave,41.988145,-87.704503
-166,W Thorndale Ave,N Richmond St,41.988145,-87.702207
-167,W Thorndale Ave,N Francisco Ave,41.988145,-87.701965
-168,W Thorndale Ave,N Mozart St,41.988145,-87.700696
-169,W Thorndale Ave,N California Ave,41.988145,-87.699548
-170,W Thorndale Ave,N Fairfield Ave,41.988145,-87.69846
-171,W Thorndale Ave,N Washtenaw Ave,41.988145,-87.697131
-172,W Thorndale Ave,N Talman Ave,41.988145,-87.695922
-173,W Thorndale Ave,N Rockwell St,41.988145,-87.694714
-174,W Thorndale Ave,N Maplewood Ave,41.988145,-87.693505
-175,W Thorndale Ave,N Artesian Ave,41.988145,-87.691088
-176,W Thorndale Ave,N Western Ave,41.988145,-87.689879
-177,W Thorndale Ave,N Leavit St,41.988145,-87.684924
-178,W Thorndale Ave,N Hoyne Ave,41.988145,-87.682507
-179,W Thorndale Ave,N Seeley Ave,41.988145,-87.68154
-180,W Thorndale Ave,N Damen Ave,41.988145,-87.68009
-181,W Thorndale Ave,N Whichester Ave,41.988145,-87.678518
-182,W Thorndale Ave,N Wolcott Ave,41.988145,-87.67731
-183,W Thorndale Ave,N Ravenswood Ave,41.988145,-87.675134
-184,W Andmore Ave,N Central Park Ave,41.986432,-87.71885
-185,W Andmore Ave,N Drake Ave,41.986432,-87.717762
-186,W Andmore Ave,N St Louis Ave,41.986432,-87.716469
-187,W Andmore Ave,N Bernard St,41.986432,-87.715139
-188,W Andmore Ave,N Kimball Ave,41.986432,-87.713931
-189,W Andmore Ave,N Christiana Ave,41.986432,-87.712964
-190,W Andmore Ave,N Kedzie Ave,41.986432,-87.70958
-191,W Andmore Ave,N Troy St,41.986432,-87.70813
-192,W Andmore Ave,N Albany Ave,41.986432,-87.706921
-193,W Andmore Ave,N Whipple St,41.986432,-87.705712
-194,W Andmore Ave,N Sacramento Ave,41.986432,-87.704504
-195,W Andmore Ave,N Richmond St,41.986432,-87.702208
-196,W Andmore Ave,N Francisco Ave,41.986432,-87.701966
-197,W Andmore Ave,N Mozart St,41.986432,-87.700697
-198,W Andmore Ave,N California Ave,41.986432,-87.699549
-199,W Andmore Ave,N Fairfield Ave,41.986432,-87.698461
-200,W Andmore Ave,N Washtenaw Ave,41.986432,-87.697132
-201,W Andmore Ave,N Talman Ave,41.986432,-87.695923
-202,W Andmore Ave,N Rockwell St,41.986432,-87.694715
-203,W Andmore Ave,N Maplewood Ave,41.986432,-87.693506
-204,W Andmore Ave,N Artesian Ave,41.986432,-87.691089
-205,W Andmore Ave,N Western Ave,41.986432,-87.68988
-206,W Andmore Ave,N Leavit St,41.986432,-87.684925
-207,W Andmore Ave,N Hoyne Ave,41.986432,-87.682508
-208,W Andmore Ave,N Seeley Ave,41.986432,-87.681541
-209,W Andmore Ave,N Damen Ave,41.986432,-87.680091
-210,W Andmore Ave,N Whichester Ave,41.986432,-87.67852
-211,W Andmore Ave,N Wolcott Ave,41.986432,-87.677311
-212,W Andmore Ave,N Ravenswood Ave,41.986432,-87.675136
-213,W Hollywood Ave,N Central Park Ave,41.98454,-87.71885
-214,W Hollywood Ave,N Drake Ave,41.98454,-87.717762
-215,W Hollywood Ave,N St Louis Ave,41.98454,-87.716469
-216,W Hollywood Ave,N Bernard St,41.98454,-87.71514
-217,W Hollywood Ave,N Kimball Ave,41.98454,-87.713931
-218,W Hollywood Ave,N Christiana Ave,41.98454,-87.712964
-219,W Hollywood Ave,N Kedzie Ave,41.98454,-87.70958
-220,W Hollywood Ave,N Troy St,41.98454,-87.70813
-221,W Hollywood Ave,N Albany Ave,41.98454,-87.706922
-222,W Hollywood Ave,N Whipple St,41.98454,-87.705713
-223,W Hollywood Ave,N Sacramento Ave,41.98454,-87.704505
-224,W Hollywood Ave,N Richmond St,41.98454,-87.702208
-225,W Hollywood Ave,N Francisco Ave,41.98454,-87.701967
-226,W Hollywood Ave,N Mozart St,41.98454,-87.700698
-227,W Hollywood Ave,N California Ave,41.98454,-87.69955
-228,W Hollywood Ave,N Fairfield Ave,41.98454,-87.698462
-229,W Hollywood Ave,N Washtenaw Ave,41.98454,-87.697133
-230,W Hollywood Ave,N Talman Ave,41.98454,-87.695924
-231,W Hollywood Ave,N Rockwell St,41.98454,-87.694716
-232,W Hollywood Ave,N Maplewood Ave,41.98454,-87.693507
-233,W Hollywood Ave,N Artesian Ave,41.98454,-87.69109
-234,W Hollywood Ave,N Western Ave,41.98454,-87.689881
-235,W Hollywood Ave,N Leavit St,41.98454,-87.684926
-236,W Hollywood Ave,N Hoyne Ave,41.98454,-87.682509
-237,W Hollywood Ave,N Seeley Ave,41.98454,-87.681543
-238,W Hollywood Ave,N Damen Ave,41.98454,-87.680092
-239,W Hollywood Ave,N Whichester Ave,41.98454,-87.678521
-240,W Hollywood Ave,N Wolcott Ave,41.98454,-87.677313
-241,W Hollywood Ave,N Ravenswood Ave,41.98454,-87.675137
-242,W Bryn Mawr Ave,N Pulaski Rd,41.982557,-87.728917
-243,W Bryn Mawr Ave,N Springfield Ave,41.982557,-87.726319
-244,W Bryn Mawr Ave,N Avers Ave,41.982557,-87.725195
-245,W Bryn Mawr Ave,N Hamlin Ave,41.982557,-87.723902
-246,W Bryn Mawr Ave,N Ridgeway Ave,41.982557,-87.722705
-247,W Bryn Mawr Ave,N Lawndale Ave,41.982557,-87.721388
-248,W Bryn Mawr Ave,N Central Park Ave,41.982557,-87.71885
-249,W Bryn Mawr Ave,N Drake Ave,41.982557,-87.717763
-250,W Bryn Mawr Ave,N St Louis Ave,41.982557,-87.71647
-251,W Bryn Mawr Ave,N Bernard St,41.982557,-87.71514
-252,W Bryn Mawr Ave,N Kimball Ave,41.982557,-87.713932
-253,W Bryn Mawr Ave,N Christiana Ave,41.982557,-87.712965
-254,W Bryn Mawr Ave,N Kedzie Ave,41.982557,-87.709581
-255,W Bryn Mawr Ave,N Troy St,41.982557,-87.708131
-256,W Bryn Mawr Ave,N Albany Ave,41.982557,-87.706922
-257,W Bryn Mawr Ave,N Whipple St,41.982557,-87.705714
-258,W Bryn Mawr Ave,N Sacramento Ave,41.982557,-87.704505
-259,W Bryn Mawr Ave,N Richmond St,41.982557,-87.702209
-260,W Bryn Mawr Ave,N Francisco Ave,41.982557,-87.701968
-261,W Bryn Mawr Ave,N Mozart St,41.982557,-87.700699
-262,W Bryn Mawr Ave,N California Ave,41.982557,-87.699551
-263,W Bryn Mawr Ave,N Fairfield Ave,41.982557,-87.698463
-264,W Bryn Mawr Ave,N Washtenaw Ave,41.982557,-87.697134
-265,W Bryn Mawr Ave,N Talman Ave,41.982557,-87.695925
-266,W Bryn Mawr Ave,N Rockwell St,41.982557,-87.694717
-267,W Bryn Mawr Ave,N Maplewood Ave,41.982557,-87.693508
-268,W Bryn Mawr Ave,N Artesian Ave,41.982557,-87.691091
-269,W Bryn Mawr Ave,N Western Ave,41.982557,-87.689883
-270,W Bryn Mawr Ave,N Leavit St,41.982557,-87.684928
-271,W Bryn Mawr Ave,N Hoyne Ave,41.982557,-87.682511
-272,W Bryn Mawr Ave,N Seeley Ave,41.982557,-87.681544
-273,W Bryn Mawr Ave,N Damen Ave,41.982557,-87.680094
-274,W Bryn Mawr Ave,N Whichester Ave,41.982557,-87.678523
-275,W Bryn Mawr Ave,N Wolcott Ave,41.982557,-87.677314
-276,W Bryn Mawr Ave,N Ravenswood Ave,41.982557,-87.675139
-277,W Catalpa Ave,N St Louis Ave,41.981025,-87.71647
-278,W Catalpa Ave,N Bernard St,41.981025,-87.71514
-279,W Catalpa Ave,N Kimball Ave,41.981025,-87.713932
-280,W Catalpa Ave,N Christiana Ave,41.981025,-87.712965
-281,W Catalpa Ave,N Kedzie Ave,41.981025,-87.709582
-282,W Catalpa Ave,N Troy St,41.981025,-87.708131
-283,W Catalpa Ave,N Albany Ave,41.981025,-87.706923
-284,W Catalpa Ave,N Whipple St,41.981025,-87.705714
-285,W Catalpa Ave,N Sacramento Ave,41.981025,-87.704506
-286,W Catalpa Ave,N Richmond St,41.981025,-87.70221
-287,W Catalpa Ave,N Francisco Ave,41.981025,-87.701968
-288,W Catalpa Ave,N Mozart St,41.981025,-87.700699
-289,W Catalpa Ave,N California Ave,41.981025,-87.699551
-290,W Catalpa Ave,N Fairfield Ave,41.981025,-87.698464
-291,W Catalpa Ave,N Washtenaw Ave,41.981025,-87.697134
-292,W Catalpa Ave,N Talman Ave,41.981025,-87.695926
-293,W Catalpa Ave,N Rockwell St,41.981025,-87.694717
-294,W Catalpa Ave,N Maplewood Ave,41.981025,-87.693509
-295,W Catalpa Ave,N Artesian Ave,41.981025,-87.691092
-296,W Catalpa Ave,N Western Ave,41.981025,-87.689884
-297,W Catalpa Ave,N Leavit St,41.981025,-87.684929
-298,W Catalpa Ave,N Hoyne Ave,41.981025,-87.682512
-299,W Catalpa Ave,N Seeley Ave,41.981025,-87.681545
-300,W Catalpa Ave,N Damen Ave,41.981025,-87.680095
-301,W Catalpa Ave,N Whichester Ave,41.981025,-87.678524
-302,W Catalpa Ave,N Wolcott Ave,41.981025,-87.677316
-303,W Catalpa Ave,N Ravenswood Ave,41.981025,-87.67514
-304,W Balmoral Ave,N Bernard St,41.979222,-87.715141
-305,W Balmoral Ave,N Kimball Ave,41.979222,-87.713932
-306,W Balmoral Ave,N Christiana Ave,41.979222,-87.712966
-307,W Balmoral Ave,N Kedzie Ave,41.979222,-87.709582
-308,W Balmoral Ave,N Troy St,41.979222,-87.708132
-309,W Balmoral Ave,N Albany Ave,41.979222,-87.706924
-310,W Balmoral Ave,N Whipple St,41.979222,-87.705715
-311,W Balmoral Ave,N Sacramento Ave,41.979222,-87.704507
-312,W Balmoral Ave,N Richmond St,41.979222,-87.702211
-313,W Balmoral Ave,N Francisco Ave,41.979222,-87.701969
-314,W Balmoral Ave,N Mozart St,41.979222,-87.7007
-315,W Balmoral Ave,N California Ave,41.979222,-87.699552
-316,W Balmoral Ave,N Fairfield Ave,41.979222,-87.698465
-317,W Balmoral Ave,N Washtenaw Ave,41.979222,-87.697135
-318,W Balmoral Ave,N Talman Ave,41.979222,-87.695927
-319,W Balmoral Ave,N Rockwell St,41.979222,-87.694718
-320,W Balmoral Ave,N Maplewood Ave,41.979222,-87.69351
-321,W Balmoral Ave,N Artesian Ave,41.979222,-87.691093
-322,W Balmoral Ave,N Western Ave,41.979222,-87.689885
-323,W Balmoral Ave,N Leavit St,41.979222,-87.68493
-324,W Balmoral Ave,N Hoyne Ave,41.979222,-87.682513
-325,W Balmoral Ave,N Seeley Ave,41.979222,-87.681547
-326,W Balmoral Ave,N Damen Ave,41.979222,-87.680096
-327,W Balmoral Ave,N Whichester Ave,41.979222,-87.678525
-328,W Balmoral Ave,N Wolcott Ave,41.979222,-87.677317
-329,W Balmoral Ave,N Ravenswood Ave,41.979222,-87.675142
-330,W Berwyn Ave,N Bernard St,41.977239,-87.715141
-331,W Berwyn Ave,N Kimball Ave,41.977239,-87.713933
-332,W Berwyn Ave,N Christiana Ave,41.977239,-87.712966
-333,W Berwyn Ave,N Kedzie Ave,41.977239,-87.709583
-334,W Berwyn Ave,N Troy St,41.977239,-87.708133
-335,W Berwyn Ave,N Albany Ave,41.977239,-87.706924
-336,W Berwyn Ave,N Whipple St,41.977239,-87.705716
-337,W Berwyn Ave,N Sacramento Ave,41.977239,-87.704507
-338,W Berwyn Ave,N Richmond St,41.977239,-87.702212
-339,W Berwyn Ave,N Francisco Ave,41.977239,-87.70197
-340,W Berwyn Ave,N Mozart St,41.977239,-87.700701
-341,W Berwyn Ave,N California Ave,41.977239,-87.699553
-342,W Berwyn Ave,N Fairfield Ave,41.977239,-87.698465
-343,W Berwyn Ave,N Washtenaw Ave,41.977239,-87.697136
-344,W Berwyn Ave,N Talman Ave,41.977239,-87.695928
-345,W Berwyn Ave,N Rockwell St,41.977239,-87.694719
-346,W Berwyn Ave,N Maplewood Ave,41.977239,-87.693511
-347,W Berwyn Ave,N Artesian Ave,41.977239,-87.691094
-348,W Berwyn Ave,N Western Ave,41.977239,-87.689886
-349,W Berwyn Ave,N Leavit St,41.977239,-87.684931
-350,W Berwyn Ave,N Hoyne Ave,41.977239,-87.682515
-351,W Berwyn Ave,N Seeley Ave,41.977239,-87.681548
-352,W Berwyn Ave,N Damen Ave,41.977239,-87.680098
-353,W Berwyn Ave,N Whichester Ave,41.977239,-87.678527
-354,W Berwyn Ave,N Wolcott Ave,41.977239,-87.677319
-355,W Berwyn Ave,N Ravenswood Ave,41.977239,-87.675143
-356,W Foster Ave,N Pulaski Rd,41.975256,-87.728917
-357,W Foster Ave,N Springfield Ave,41.975256,-87.726319
-358,W Foster Ave,N Avers Ave,41.975256,-87.725195
-359,W Foster Ave,N Hamlin Ave,41.975256,-87.723902
-360,W Foster Ave,N Ridgeway Ave,41.975256,-87.722706
-361,W Foster Ave,N Lawndale Ave,41.975256,-87.721389
-362,W Foster Ave,N Monticello Ave,41.975256,-87.720217
-363,W Foster Ave,N Central Park Ave,41.975256,-87.718851
-364,W Foster Ave,N Drake Ave,41.975256,-87.717764
-365,W Foster Ave,N St Louis Ave,41.975256,-87.716471
-366,W Foster Ave,N Bernard St,41.975256,-87.715142
-367,W Foster Ave,N Kimball Ave,41.975256,-87.713933
-368,W Foster Ave,N Christiana Ave,41.975256,-87.712967
-369,W Foster Ave,N Kedzie Ave,41.975256,-87.709583
-370,W Foster Ave,N Troy St,41.975256,-87.708133
-371,W Foster Ave,N Albany Ave,41.975256,-87.706925
-372,W Foster Ave,N Whipple St,41.975256,-87.705717
-373,W Foster Ave,N Sacramento Ave,41.975256,-87.704508
-374,W Foster Ave,N Richmond St,41.975256,-87.702212
-375,W Foster Ave,N Francisco Ave,41.975256,-87.701971
-376,W Foster Ave,N Mozart St,41.975256,-87.700702
-377,W Foster Ave,N California Ave,41.975256,-87.699554
-378,W Foster Ave,N Fairfield Ave,41.975256,-87.698466
-379,W Foster Ave,N Washtenaw Ave,41.975256,-87.697137
-380,W Foster Ave,N Talman Ave,41.975256,-87.695929
-381,W Foster Ave,N Rockwell St,41.975256,-87.694721
-382,W Foster Ave,N Maplewood Ave,41.975256,-87.693512
-383,W Foster Ave,N Artesian Ave,41.975256,-87.691095
-384,W Foster Ave,N Western Ave,41.975256,-87.689887
-385,W Foster Ave,N Claremont Ave,41.975256,-87.688679
-386,W Foster Ave,N Oakley Ave,41.975256,-87.68735
-387,W Foster Ave,N Leavit St,41.975256,-87.684933
-388,W Foster Ave,N Hoyne Ave,41.975256,-87.682516
-389,W Foster Ave,N Seeley Ave,41.975256,-87.681549
-390,W Foster Ave,N Damen Ave,41.975256,-87.680099
-391,W Foster Ave,N Whichester Ave,41.975256,-87.678529
-392,W Foster Ave,N Wolcott Ave,41.975256,-87.67732
-393,W Foster Ave,N Ravenswood Ave,41.975256,-87.675145
-394,W Farragut Ave,N Richmond St,41.976248,-87.702212
-395,W Farragut Ave,N Francisco Ave,41.976248,-87.70197
-396,W Farragut Ave,N Mozart St,41.976248,-87.700701
-397,W Farragut Ave,N California Ave,41.976248,-87.699554
-398,W Farragut Ave,N Fairfield Ave,41.976248,-87.698466
-399,W Farragut Ave,N Washtenaw Ave,41.976248,-87.697137
-400,W Farragut Ave,N Talman Ave,41.976248,-87.695928
-401,W Farragut Ave,N Rockwell St,41.976248,-87.69472
-402,W Farragut Ave,N Maplewood Ave,41.976248,-87.693512
-403,W Farragut Ave,N Artesian Ave,41.976248,-87.691095
-404,W Farragut Ave,N Western Ave,41.976248,-87.689887
-405,W Farragut Ave,N Leavit St,41.976248,-87.684932
-406,W Farragut Ave,N Hoyne Ave,41.976248,-87.682515
-407,W Farragut Ave,N Seeley Ave,41.976248,-87.681549
-408,W Farragut Ave,N Damen Ave,41.976248,-87.680099
-409,W Farragut Ave,N Whichester Ave,41.976248,-87.678528
-410,W Farragut Ave,N Wolcott Ave,41.976248,-87.677319
-411,W Farragut Ave,N Ravenswood Ave,41.976248,-87.675144
-412,W Summerdale Ave,N Richmond St,41.97796,-87.702211
-413,W Summerdale Ave,N Francisco Ave,41.97796,-87.70197
-414,W Summerdale Ave,N Mozart St,41.97796,-87.700701
-415,W Summerdale Ave,N California Ave,41.97796,-87.699553
-416,W Summerdale Ave,N Fairfield Ave,41.97796,-87.698465
-417,W Summerdale Ave,N Washtenaw Ave,41.97796,-87.697136
-418,W Summerdale Ave,N Talman Ave,41.97796,-87.695927
-419,W Summerdale Ave,N Rockwell St,41.97796,-87.694719
-420,W Summerdale Ave,N Maplewood Ave,41.97796,-87.693511
-421,W Summerdale Ave,N Artesian Ave,41.97796,-87.691094
-422,W Summerdale Ave,N Western Ave,41.97796,-87.689885
-423,W Summerdale Ave,N Leavit St,41.97796,-87.684931
-424,W Summerdale Ave,N Hoyne Ave,41.97796,-87.682514
-425,W Summerdale Ave,N Seeley Ave,41.97796,-87.681547
-426,W Summerdale Ave,N Damen Ave,41.97796,-87.680097
-427,W Summerdale Ave,N Whichester Ave,41.97796,-87.678526
-428,W Summerdale Ave,N Wolcott Ave,41.97796,-87.677318
-429,W Summerdale Ave,N Ravenswood Ave,41.97796,-87.675143
-430,W Gregory St,N Sacramento Ave,41.981836,-87.704506
-431,W Gregory St,N Richmond St,41.981836,-87.70221
-432,W Gregory St,N Francisco Ave,41.981836,-87.701968
-433,W Gregory St,N Mozart St,41.981836,-87.700699
-434,W Gregory St,N California Ave,41.981836,-87.699551
-435,W Gregory St,N Fairfield Ave,41.981836,-87.698463
-436,W Gregory St,N Washtenaw Ave,41.981836,-87.697134
-437,W Gregory St,N Talman Ave,41.981836,-87.695925
-438,W Gregory St,N Rockwell St,41.981836,-87.694717
-439,W Gregory St,N Maplewood Ave,41.981836,-87.693509
-440,W Gregory St,N Artesian Ave,41.981836,-87.691092
-441,W Gregory St,N Western Ave,41.981836,-87.689883
-442,W Gregory St,N Leavit St,41.981836,-87.684928
-443,W Gregory St,N Hoyne Ave,41.981836,-87.682511
-444,W Gregory St,N Seeley Ave,41.981836,-87.681545
-445,W Gregory St,N Damen Ave,41.981836,-87.680094
-446,W Gregory St,N Whichester Ave,41.981836,-87.678523
-447,W Gregory St,N Wolcott Ave,41.981836,-87.677315
-448,W Gregory St,N Ravenswood Ave,41.981836,-87.67514
-449,W Carmen Ave,N Springfield Ave,41.973634,-87.726319
-450,W Carmen Ave,N Avers Ave,41.973634,-87.725195
-451,W Carmen Ave,N Hamlin Ave,41.973634,-87.723902
-452,W Carmen Ave,N Ridgeway Ave,41.973634,-87.722706
-453,W Carmen Ave,N Lawndale Ave,41.973634,-87.721389
-454,W Carmen Ave,N Monticello Ave,41.973634,-87.720217
-455,W Carmen Ave,N Central Park Ave,41.973634,-87.718852
-456,W Carmen Ave,N Drake Ave,41.973634,-87.717764
-457,W Carmen Ave,N St Louis Ave,41.973634,-87.716471
-458,W Carmen Ave,N Bernard St,41.973634,-87.715142
-459,W Carmen Ave,N Kimball Ave,41.973634,-87.713934
-460,W Carmen Ave,N Christiana Ave,41.973634,-87.712967
-461,W Carmen Ave,N Kedzie Ave,41.973634,-87.709584
-462,W Carmen Ave,N Troy St,41.973634,-87.708134
-463,W Carmen Ave,N Albany Ave,41.973634,-87.706925
-464,W Carmen Ave,N Whipple St,41.973634,-87.705717
-465,W Carmen Ave,N Sacramento Ave,41.973634,-87.704509
-466,W Carmen Ave,N Richmond St,41.973634,-87.702213
-467,W Carmen Ave,N Francisco Ave,41.973634,-87.701971
-468,W Carmen Ave,N Mozart St,41.973634,-87.700703
-469,W Carmen Ave,N California Ave,41.973634,-87.699555
-470,W Carmen Ave,N Fairfield Ave,41.973634,-87.698467
-471,W Carmen Ave,N Washtenaw Ave,41.973634,-87.697138
-472,W Carmen Ave,N Talman Ave,41.973634,-87.69593
-473,W Carmen Ave,N Rockwell St,41.973634,-87.694721
-474,W Carmen Ave,N Maplewood Ave,41.973634,-87.693513
-475,W Carmen Ave,N Artesian Ave,41.973634,-87.691096
-476,W Carmen Ave,N Western Ave,41.973634,-87.689888
-477,W Carmen Ave,N Claremont Ave,41.973634,-87.68868
-478,W Carmen Ave,N Oakley Ave,41.973634,-87.687351
-479,W Carmen Ave,N Leavit St,41.973634,-87.684934
-480,W Carmen Ave,N Hoyne Ave,41.973634,-87.682517
-481,W Carmen Ave,N Seeley Ave,41.973634,-87.681551
-482,W Carmen Ave,N Damen Ave,41.973634,-87.680101
-483,W Carmen Ave,N Whichester Ave,41.973634,-87.67853
-484,W Carmen Ave,N Wolcott Ave,41.973634,-87.677322
-485,W Carmen Ave,N Ravenswood Ave,41.973634,-87.675147
-486,W Argyle St,N Pulaski Rd,41.971741,-87.728917
-487,W Argyle St,N Springfield Ave,41.971741,-87.726319
-488,W Argyle St,N Avers Ave,41.971741,-87.725195
-489,W Argyle St,N Hamlin Ave,41.971741,-87.723903
-490,W Argyle St,N Ridgeway Ave,41.971741,-87.722706
-491,W Argyle St,N Lawndale Ave,41.971741,-87.721389
-492,W Argyle St,N Monticello Ave,41.971741,-87.720217
-493,W Argyle St,N Central Park Ave,41.971741,-87.718852
-494,W Argyle St,N Drake Ave,41.971741,-87.717764
-495,W Argyle St,N St Louis Ave,41.971741,-87.716472
-496,W Argyle St,N Bernard St,41.971741,-87.715143
-497,W Argyle St,N Kimball Ave,41.971741,-87.713934
-498,W Argyle St,N Christiana Ave,41.971741,-87.712968
-499,W Argyle St,N Kedzie Ave,41.971741,-87.709584
-500,W Argyle St,N Troy St,41.971741,-87.708134
-501,W Argyle St,N Albany Ave,41.971741,-87.706926
-502,W Argyle St,N Whipple St,41.971741,-87.705718
-503,W Argyle St,N Sacramento Ave,41.971741,-87.70451
-504,W Argyle St,N Richmond St,41.971741,-87.702214
-505,W Argyle St,N Francisco Ave,41.971741,-87.701972
-506,W Argyle St,N Mozart St,41.971741,-87.700703
-507,W Argyle St,N California Ave,41.971741,-87.699556
-508,W Argyle St,N Fairfield Ave,41.971741,-87.698468
-509,W Argyle St,N Washtenaw Ave,41.971741,-87.697139
-510,W Argyle St,N Talman Ave,41.971741,-87.695931
-511,W Argyle St,N Rockwell St,41.971741,-87.694722
-512,W Argyle St,N Maplewood Ave,41.971741,-87.693514
-513,W Argyle St,N Artesian Ave,41.971741,-87.691098
-514,W Argyle St,N Western Ave,41.971741,-87.689889
-515,W Argyle St,N Claremont Ave,41.971741,-87.688681
-516,W Argyle St,N Oakley Ave,41.971741,-87.687352
-517,W Argyle St,N Bell Ave,41.971741,-87.686385
-518,W Argyle St,N Leavit St,41.971741,-87.684935
-519,W Argyle St,N Hoyne Ave,41.971741,-87.682519
-520,W Argyle St,N Seeley Ave,41.971741,-87.681552
-521,W Argyle St,N Damen Ave,41.971741,-87.680102
-522,W Argyle St,N Whichester Ave,41.971741,-87.678531
-523,W Argyle St,N Wolcott Ave,41.971741,-87.677323
-524,W Argyle St,N Ravenswood Ave,41.971741,-87.675148
-525,W Strong St,N Pulaski Rd,41.97084,-87.728917
-526,W Strong St,N Springfield Ave,41.97084,-87.726319
-527,W Ainslie St,N Pulaski Rd,41.969758,-87.728917
-528,W Ainslie St,N Springfield Ave,41.969758,-87.726319
-529,W Ainslie St,N Avers Ave,41.969758,-87.725196
-530,W Ainslie St,N Hamlin Ave,41.969758,-87.723903
-531,W Ainslie St,N Ridgeway Ave,41.969758,-87.722707
-532,W Ainslie St,N Lawndale Ave,41.969758,-87.72139
-533,W Ainslie St,N Monticello Ave,41.969758,-87.720218
-534,W Ainslie St,N Central Park Ave,41.969758,-87.718852
-535,W Ainslie St,N Drake Ave,41.969758,-87.717765
-536,W Ainslie St,N St Louis Ave,41.969758,-87.716472
-537,W Ainslie St,N Bernard St,41.969758,-87.715143
-538,W Ainslie St,N Kimball Ave,41.969758,-87.713935
-539,W Ainslie St,N Christiana Ave,41.969758,-87.712968
-540,W Ainslie St,N Kedzie Ave,41.969758,-87.709585
-541,W Ainslie St,N Troy St,41.969758,-87.708135
-542,W Ainslie St,N Albany Ave,41.969758,-87.706927
-543,W Ainslie St,N Whipple St,41.969758,-87.705719
-544,W Ainslie St,N Sacramento Ave,41.969758,-87.70451
-545,W Ainslie St,N Richmond St,41.969758,-87.702215
-546,W Ainslie St,N Francisco Ave,41.969758,-87.701973
-547,W Ainslie St,N Mozart St,41.969758,-87.700704
-548,W Ainslie St,N California Ave,41.969758,-87.699556
-549,W Ainslie St,N Fairfield Ave,41.969758,-87.698469
-550,W Ainslie St,N Washtenaw Ave,41.969758,-87.69714
-551,W Ainslie St,N Talman Ave,41.969758,-87.695932
-552,W Ainslie St,N Rockwell St,41.969758,-87.694723
-553,W Ainslie St,N Maplewood Ave,41.969758,-87.693515
-554,W Ainslie St,N Artesian Ave,41.969758,-87.691099
-555,W Ainslie St,N Western Ave,41.969758,-87.68989
-556,W Ainslie St,N Claremont Ave,41.969758,-87.688682
-557,W Ainslie St,N Oakley Ave,41.969758,-87.687353
-558,W Ainslie St,N Bell Ave,41.969758,-87.686387
-559,W Ainslie St,N Leavit St,41.969758,-87.684937
-560,W Ainslie St,N Hoyne Ave,41.969758,-87.68252
-561,W Ainslie St,N Seeley Ave,41.969758,-87.681554
-562,W Ainslie St,N Damen Ave,41.969758,-87.680104
-563,W Ainslie St,N Whichester Ave,41.969758,-87.678533
-564,W Ainslie St,N Wolcott Ave,41.969758,-87.677325
-565,W Ainslie St,N Ravenswood Ave,41.969758,-87.67515
-566,W Gunninson St,N Whipple St,41.969037,-87.705719
-567,W Gunninson St,N Sacramento Ave,41.969037,-87.704511
-568,W Gunninson St,N Richmond St,41.969037,-87.702215
-569,W Gunninson St,N Francisco Ave,41.969037,-87.701973
-570,W Gunninson St,N Mozart St,41.969037,-87.700705
-571,W Gunninson St,N California Ave,41.969037,-87.699557
-572,W Gunninson St,N Fairfield Ave,41.969037,-87.698469
-573,W Gunninson St,N Washtenaw Ave,41.969037,-87.69714
-574,W Gunninson St,N Talman Ave,41.969037,-87.695932
-575,W Gunninson St,N Rockwell St,41.969037,-87.694724
-576,W Gunninson St,N Maplewood Ave,41.969037,-87.693516
-577,W Gunninson St,N Artesian Ave,41.969037,-87.691099
-578,W Gunninson St,N Western Ave,41.969037,-87.689891
-579,W Lawrence Ave,N Pulaski Rd,41.968136,-87.728917
-580,W Lawrence Ave,N Springfield Ave,41.968136,-87.726319
-581,W Lawrence Ave,N Avers Ave,41.968136,-87.725196
-582,W Lawrence Ave,N Hamlin Ave,41.968136,-87.723903
-583,W Lawrence Ave,N Ridgeway Ave,41.968136,-87.722707
-584,W Lawrence Ave,N Lawndale Ave,41.968136,-87.72139
-585,W Lawrence Ave,N Monticello Ave,41.968136,-87.720218
-586,W Lawrence Ave,N Central Park Ave,41.968136,-87.718853
-587,W Lawrence Ave,N Drake Ave,41.968136,-87.717765
-588,W Lawrence Ave,N St Louis Ave,41.968136,-87.716472
-589,W Lawrence Ave,N Bernard St,41.968136,-87.715143
-590,W Lawrence Ave,N Kimball Ave,41.968136,-87.713935
-591,W Lawrence Ave,N Christiana Ave,41.968136,-87.712968
-592,W Lawrence Ave,N Kedzie Ave,41.968136,-87.709585
-593,W Lawrence Ave,N Troy St,41.968136,-87.708136
-594,W Lawrence Ave,N Albany Ave,41.968136,-87.706927
-595,W Lawrence Ave,N Whipple St,41.968136,-87.705719
-596,W Lawrence Ave,N Sacramento Ave,41.968136,-87.704511
-597,W Lawrence Ave,N Richmond St,41.968136,-87.702215
-598,W Lawrence Ave,N Francisco Ave,41.968136,-87.701974
-599,W Lawrence Ave,N Mozart St,41.968136,-87.700705
-600,W Lawrence Ave,N California Ave,41.968136,-87.699557
-601,W Lawrence Ave,N Fairfield Ave,41.968136,-87.69847
-602,W Lawrence Ave,N Washtenaw Ave,41.968136,-87.697141
-603,W Lawrence Ave,N Talman Ave,41.968136,-87.695933
-604,W Lawrence Ave,N Rockwell St,41.968136,-87.694724
-605,W Lawrence Ave,N Maplewood Ave,41.968136,-87.693516
-606,W Lawrence Ave,N Artesian Ave,41.968136,-87.6911
-607,W Lawrence Ave,N Western Ave,41.968136,-87.689891
-608,W Lawrence Ave,N Claremont Ave,41.968136,-87.688683
-609,W Lawrence Ave,N Oakley Ave,41.968136,-87.687354
-610,W Lawrence Ave,N Bell Ave,41.968136,-87.686388
-611,W Lawrence Ave,N Leavit St,41.968136,-87.684938
-612,W Lawrence Ave,N Hoyne Ave,41.968136,-87.682521
-613,W Lawrence Ave,N Seeley Ave,41.968136,-87.681555
-614,W Lawrence Ave,N Damen Ave,41.968136,-87.680105
-615,W Lawrence Ave,N Whichester Ave,41.968136,-87.678534
-616,W Lawrence Ave,N Wolcott Ave,41.968136,-87.677326
-617,W Lawrence Ave,N Ravenswood Ave,41.968136,-87.675151
-618,W Giddings St,N Richmond St,41.967145,-87.702216
-619,W Giddings St,N Francisco Ave,41.967145,-87.701974
-620,W Giddings St,N Mozart St,41.967145,-87.700705
-621,W Giddings St,N California Ave,41.967145,-87.699558
-622,W Giddings St,N Fairfield Ave,41.967145,-87.69847
-623,W Giddings St,N Washtenaw Ave,41.967145,-87.697141
-624,W Giddings St,N Talman Ave,41.967145,-87.695933
-625,W Giddings St,N Rockwell St,41.967145,-87.694725
-626,W Giddings St,N Maplewood Ave,41.967145,-87.693517
-627,W Giddings St,N Artesian Ave,41.967145,-87.6911
-628,W Giddings St,N Western Ave,41.967145,-87.689892
-629,W Giddings St,N Claremont Ave,41.967145,-87.688684
-630,W Giddings St,N Oakley Ave,41.967145,-87.687355
-631,W Giddings St,N Bell Ave,41.967145,-87.686388
-632,W Giddings St,N Leavit St,41.967145,-87.684938
-633,W Giddings St,N Hoyne Ave,41.967145,-87.682522
-634,W Giddings St,N Seeley Ave,41.967145,-87.681555
-635,W Giddings St,N Damen Ave,41.967145,-87.680106
-636,W Leland Ave,N Pulaski Rd,41.966153,-87.728917
-637,W Leland Ave,N Springfield Ave,41.966153,-87.726319
-638,W Leland Ave,N Avers Ave,41.966153,-87.725196
-639,W Leland Ave,N Hamlin Ave,41.966153,-87.723903
-640,W Leland Ave,N Ridgeway Ave,41.966153,-87.722707
-641,W Leland Ave,N Lawndale Ave,41.966153,-87.72139
-642,W Leland Ave,N Monticello Ave,41.966153,-87.720218
-643,W Leland Ave,N Central Park Ave,41.966153,-87.718853
-644,W Leland Ave,N Drake Ave,41.966153,-87.717765
-645,W Leland Ave,N St Louis Ave,41.966153,-87.716473
-646,W Leland Ave,N Bernard St,41.966153,-87.715144
-647,W Leland Ave,N Kimball Ave,41.966153,-87.713936
-648,W Leland Ave,N Christiana Ave,41.966153,-87.712969
-649,W Leland Ave,N Kedzie Ave,41.966153,-87.709586
-650,W Leland Ave,N Troy St,41.966153,-87.708136
-651,W Leland Ave,N Albany Ave,41.966153,-87.706928
-652,W Leland Ave,N Whipple St,41.966153,-87.70572
-653,W Leland Ave,N Sacramento Ave,41.966153,-87.704512
-654,W Leland Ave,N Richmond St,41.966153,-87.702216
-655,W Leland Ave,N Francisco Ave,41.966153,-87.701975
-656,W Leland Ave,N Mozart St,41.966153,-87.700706
-657,W Leland Ave,N California Ave,41.966153,-87.699558
-658,W Leland Ave,N Fairfield Ave,41.966153,-87.698471
-659,W Leland Ave,N Washtenaw Ave,41.966153,-87.697142
-660,W Leland Ave,N Talman Ave,41.966153,-87.695934
-661,W Leland Ave,N Rockwell St,41.966153,-87.694725
-662,W Leland Ave,N Maplewood Ave,41.966153,-87.693517
-663,W Leland Ave,N Artesian Ave,41.966153,-87.691101
-664,W Leland Ave,N Western Ave,41.966153,-87.689893
-665,W Leland Ave,N Claremont Ave,41.966153,-87.688685
-666,W Leland Ave,N Oakley Ave,41.966153,-87.687356
-667,W Leland Ave,N Bell Ave,41.966153,-87.686389
-668,W Leland Ave,N Leavit St,41.966153,-87.684939
-669,W Leland Ave,N Hoyne Ave,41.966153,-87.682523
-670,W Leland Ave,N Seeley Ave,41.966153,-87.681556
-671,W Leland Ave,N Damen Ave,41.966153,-87.680106
-672,W Leland Ave,N Whichester Ave,41.966153,-87.678536
-673,W Leland Ave,N Wolcott Ave,41.966153,-87.677328
-674,W Leland Ave,N Ravenswood Ave,41.966153,-87.675153
-675,W Wilson Ave,N Pulaski Rd,41.96426,-87.728917
-676,W Wilson Ave,N Springfield Ave,41.96426,-87.726319
-677,W Wilson Ave,N Avers Ave,41.96426,-87.725196
-678,W Wilson Ave,N Hamlin Ave,41.96426,-87.723903
-679,W Wilson Ave,N Ridgeway Ave,41.96426,-87.722707
-680,W Wilson Ave,N Lawndale Ave,41.96426,-87.72139
-681,W Wilson Ave,N Monticello Ave,41.96426,-87.720218
-682,W Wilson Ave,N Central Park Ave,41.96426,-87.718853
-683,W Wilson Ave,N Drake Ave,41.96426,-87.717766
-684,W Wilson Ave,N St Louis Ave,41.96426,-87.716473
-685,W Wilson Ave,N Bernard St,41.96426,-87.715144
-686,W Wilson Ave,N Kimball Ave,41.96426,-87.713936
-687,W Wilson Ave,N Christiana Ave,41.96426,-87.712969
-688,W Wilson Ave,N Kedzie Ave,41.96426,-87.709587
-689,W Wilson Ave,N Troy St,41.96426,-87.708137
-690,W Wilson Ave,N Albany Ave,41.96426,-87.706929
-691,W Wilson Ave,N Whipple St,41.96426,-87.705721
-692,W Wilson Ave,N Sacramento Ave,41.96426,-87.704512
-693,W Wilson Ave,N Richmond St,41.96426,-87.702217
-694,W Wilson Ave,N Francisco Ave,41.96426,-87.701975
-695,W Wilson Ave,N Mozart St,41.96426,-87.700707
-696,W Wilson Ave,N California Ave,41.96426,-87.699559
-697,W Wilson Ave,N Fairfield Ave,41.96426,-87.698472
-698,W Wilson Ave,N Washtenaw Ave,41.96426,-87.697143
-699,W Wilson Ave,N Talman Ave,41.96426,-87.695935
-700,W Wilson Ave,N Rockwell St,41.96426,-87.694726
-701,W Wilson Ave,N Maplewood Ave,41.96426,-87.693518
-702,W Wilson Ave,N Artesian Ave,41.96426,-87.691102
-703,W Wilson Ave,N Western Ave,41.96426,-87.689894
-704,W Wilson Ave,N Claremont Ave,41.96426,-87.688686
-705,W Wilson Ave,N Oakley Ave,41.96426,-87.687357
-706,W Wilson Ave,N Bell Ave,41.96426,-87.68639
-707,W Wilson Ave,N Leavit St,41.96426,-87.68494
-708,W Wilson Ave,N Hoyne Ave,41.96426,-87.682524
-709,W Wilson Ave,N Seeley Ave,41.96426,-87.681558
-710,W Wilson Ave,N Damen Ave,41.96426,-87.680108
-711,W Wilson Ave,N Whichester Ave,41.96426,-87.678537
-712,W Wilson Ave,N Wolcott Ave,41.96426,-87.677329
-713,W Wilson Ave,N Ravenswood Ave,41.96426,-87.675154
-714,W Sunnyside Ave,N Pulaski Rd,41.962548,-87.728917
-715,W Sunnyside Ave,N Springfield Ave,41.962548,-87.72632
-716,W Sunnyside Ave,N Avers Ave,41.962548,-87.725196
-717,W Sunnyside Ave,N Hamlin Ave,41.962548,-87.723903
-718,W Sunnyside Ave,N Ridgeway Ave,41.962548,-87.722707
-719,W Sunnyside Ave,N Lawndale Ave,41.962548,-87.72139
-720,W Sunnyside Ave,N Monticello Ave,41.962548,-87.720219
-721,W Sunnyside Ave,N Central Park Ave,41.962548,-87.718853
-722,W Sunnyside Ave,N Drake Ave,41.962548,-87.717766
-723,W Sunnyside Ave,N St Louis Ave,41.962548,-87.716473
-724,W Sunnyside Ave,N Bernard St,41.962548,-87.715144
-725,W Sunnyside Ave,N Kimball Ave,41.962548,-87.713936
-726,W Sunnyside Ave,N Christiana Ave,41.962548,-87.71297
-727,W Sunnyside Ave,N Kedzie Ave,41.962548,-87.709587
-728,W Sunnyside Ave,N Troy St,41.962548,-87.708137
-729,W Sunnyside Ave,N Albany Ave,41.962548,-87.706929
-730,W Sunnyside Ave,N Whipple St,41.962548,-87.705721
-731,W Sunnyside Ave,N Sacramento Ave,41.962548,-87.704513
-732,W Sunnyside Ave,N Richmond St,41.962548,-87.702218
-733,W Sunnyside Ave,N Francisco Ave,41.962548,-87.701976
-734,W Sunnyside Ave,N Mozart St,41.962548,-87.700708
-735,W Sunnyside Ave,N California Ave,41.962548,-87.69956
-736,W Sunnyside Ave,N Fairfield Ave,41.962548,-87.698473
-737,W Sunnyside Ave,N Washtenaw Ave,41.962548,-87.697144
-738,W Sunnyside Ave,N Talman Ave,41.962548,-87.695935
-739,W Sunnyside Ave,N Rockwell St,41.962548,-87.694727
-740,W Sunnyside Ave,N Maplewood Ave,41.962548,-87.693519
-741,W Sunnyside Ave,N Artesian Ave,41.962548,-87.691103
-742,W Sunnyside Ave,N Western Ave,41.962548,-87.689895
-743,W Sunnyside Ave,N Claremont Ave,41.962548,-87.688687
-744,W Sunnyside Ave,N Oakley Ave,41.962548,-87.687358
-745,W Sunnyside Ave,N Bell Ave,41.962548,-87.686391
-746,W Sunnyside Ave,N Leavit St,41.962548,-87.684942
-747,W Sunnyside Ave,N Hoyne Ave,41.962548,-87.682525
-748,W Sunnyside Ave,N Seeley Ave,41.962548,-87.681559
-749,W Sunnyside Ave,N Damen Ave,41.962548,-87.680109
-750,W Sunnyside Ave,N Whichester Ave,41.962548,-87.678539
-751,W Sunnyside Ave,N Wolcott Ave,41.962548,-87.677331
-752,W Sunnyside Ave,N Ravenswood Ave,41.962548,-87.675156
-753,W Montrose Ave,N Pulaski Rd,41.960745,-87.728917
-754,W Montrose Ave,N Springfield Ave,41.960745,-87.72632
-755,W Montrose Ave,N Avers Ave,41.960745,-87.725196
-756,W Montrose Ave,N Hamlin Ave,41.960745,-87.723903
-757,W Montrose Ave,N Ridgeway Ave,41.960745,-87.722707
-758,W Montrose Ave,N Lawndale Ave,41.960745,-87.721391
-759,W Montrose Ave,N Monticello Ave,41.960745,-87.720219
-760,W Montrose Ave,N Central Park Ave,41.960745,-87.718854
-761,W Montrose Ave,N Drake Ave,41.960745,-87.717766
-762,W Montrose Ave,N St Louis Ave,41.960745,-87.716474
-763,W Montrose Ave,N Bernard St,41.960745,-87.715145
-764,W Montrose Ave,N Kimball Ave,41.960745,-87.713937
-765,W Montrose Ave,N Christiana Ave,41.960745,-87.71297
-766,W Montrose Ave,N Kedzie Ave,41.960745,-87.709588
-767,W Montrose Ave,N Troy St,41.960745,-87.708138
-768,W Montrose Ave,N Albany Ave,41.960745,-87.70693
-769,W Montrose Ave,N Whipple St,41.960745,-87.705722
-770,W Montrose Ave,N Sacramento Ave,41.960745,-87.704514
-771,W Montrose Ave,N Richmond St,41.960745,-87.702218
-772,W Montrose Ave,N Francisco Ave,41.960745,-87.701977
-773,W Montrose Ave,N Mozart St,41.960745,-87.700708
-774,W Montrose Ave,N California Ave,41.960745,-87.699561
-775,W Montrose Ave,N Fairfield Ave,41.960745,-87.698473
-776,W Montrose Ave,N Washtenaw Ave,41.960745,-87.697144
-777,W Montrose Ave,N Talman Ave,41.960745,-87.695936
-778,W Montrose Ave,N Rockwell St,41.960745,-87.694728
-779,W Montrose Ave,N Maplewood Ave,41.960745,-87.69352
-780,W Montrose Ave,N Artesian Ave,41.960745,-87.691104
-781,W Montrose Ave,N Western Ave,41.960745,-87.689896
-782,W Montrose Ave,N Claremont Ave,41.960745,-87.688688
-783,W Montrose Ave,N Oakley Ave,41.960745,-87.687359
-784,W Montrose Ave,N Bell Ave,41.960745,-87.686393
-785,W Montrose Ave,N Leavit St,41.960745,-87.684943
-786,W Montrose Ave,N Hoyne Ave,41.960745,-87.682527
-787,W Montrose Ave,N Seeley Ave,41.960745,-87.68156
-788,W Montrose Ave,N Damen Ave,41.960745,-87.680111
-789,W Montrose Ave,N Whichester Ave,41.960745,-87.67854
-790,W Montrose Ave,N Wolcott Ave,41.960745,-87.677332
-791,W Montrose Ave,N Ravenswood Ave,41.960745,-87.675157
-792,W Cullom Ave,N Springfield Ave,41.958853,-87.72632
-793,W Cullom Ave,N Avers Ave,41.958853,-87.725196
-794,W Cullom Ave,N Hamlin Ave,41.958853,-87.723904
-795,W Cullom Ave,N Ridgeway Ave,41.958853,-87.722708
-796,W Cullom Ave,N Lawndale Ave,41.958853,-87.721391
-797,W Cullom Ave,N Monticello Ave,41.958853,-87.720219
-798,W Cullom Ave,N Central Park Ave,41.958853,-87.718854
-799,W Cullom Ave,N Drake Ave,41.958853,-87.717767
-800,W Cullom Ave,N St Louis Ave,41.958853,-87.716474
-801,W Cullom Ave,N Bernard St,41.958853,-87.715145
-802,W Cullom Ave,N Kimball Ave,41.958853,-87.713937
-803,W Cullom Ave,N Christiana Ave,41.958853,-87.712971
-804,W Cullom Ave,N Kedzie Ave,41.958853,-87.709588
-805,W Cullom Ave,N Troy St,41.958853,-87.708139
-806,W Cullom Ave,N Albany Ave,41.958853,-87.706931
-807,W Cullom Ave,N Whipple St,41.958853,-87.705723
-808,W Cullom Ave,N Sacramento Ave,41.958853,-87.704514
-809,W Cullom Ave,N Richmond St,41.958853,-87.702219
-810,W Cullom Ave,N Francisco Ave,41.958853,-87.701978
-811,W Cullom Ave,N Mozart St,41.958853,-87.700709
-812,W Cullom Ave,N California Ave,41.958853,-87.699562
-813,W Cullom Ave,N Fairfield Ave,41.958853,-87.698474
-814,W Cullom Ave,N Washtenaw Ave,41.958853,-87.697145
-815,W Cullom Ave,N Talman Ave,41.958853,-87.695937
-816,W Cullom Ave,N Rockwell St,41.958853,-87.694729
-817,W Cullom Ave,N Maplewood Ave,41.958853,-87.693521
-818,W Cullom Ave,N Artesian Ave,41.958853,-87.691105
-819,W Cullom Ave,N Western Ave,41.958853,-87.689897
-820,W Cullom Ave,N Claremont Ave,41.958853,-87.688689
-821,W Cullom Ave,N Oakley Ave,41.958853,-87.68736
-822,W Cullom Ave,N Bell Ave,41.958853,-87.686394
-823,W Cullom Ave,N Leavit St,41.958853,-87.684944
-824,W Cullom Ave,N Hoyne Ave,41.958853,-87.682528
-825,W Cullom Ave,N Seeley Ave,41.958853,-87.681562
-826,W Cullom Ave,N Damen Ave,41.958853,-87.680112
-827,W Cullom Ave,N Whichester Ave,41.958853,-87.678542
-828,W Cullom Ave,N Wolcott Ave,41.958853,-87.677333
-829,W Cullom Ave,N Ravenswood Ave,41.958853,-87.675159
-830,W Bertau Ave,N Pulaski Rd,41.95705,-87.728917
-831,W Bertau Ave,N Springfield Ave,41.95705,-87.72632
-832,W Bertau Ave,N Avers Ave,41.95705,-87.725196
-833,W Bertau Ave,N Hamlin Ave,41.95705,-87.723904
-834,W Bertau Ave,N Ridgeway Ave,41.95705,-87.722708
-835,W Bertau Ave,N Lawndale Ave,41.95705,-87.721391
-836,W Bertau Ave,N Monticello Ave,41.95705,-87.720219
-837,W Bertau Ave,N Central Park Ave,41.95705,-87.718854
-838,W Bertau Ave,N Drake Ave,41.95705,-87.717767
-839,W Bertau Ave,N St Louis Ave,41.95705,-87.716474
-840,W Bertau Ave,N Bernard St,41.95705,-87.715146
-841,W Bertau Ave,N Kimball Ave,41.95705,-87.713938
-842,W Bertau Ave,N Christiana Ave,41.95705,-87.712971
-843,W Bertau Ave,N Kedzie Ave,41.95705,-87.709589
-844,W Bertau Ave,N Troy St,41.95705,-87.708139
-845,W Bertau Ave,N Albany Ave,41.95705,-87.706931
-846,W Bertau Ave,N Whipple St,41.95705,-87.705723
-847,W Bertau Ave,N Sacramento Ave,41.95705,-87.704515
-848,W Bertau Ave,N Richmond St,41.95705,-87.70222
-849,W Bertau Ave,N Francisco Ave,41.95705,-87.701978
-850,W Bertau Ave,N Mozart St,41.95705,-87.70071
-851,W Bertau Ave,N California Ave,41.95705,-87.699562
-852,W Bertau Ave,N Fairfield Ave,41.95705,-87.698475
-853,W Bertau Ave,N Washtenaw Ave,41.95705,-87.697146
-854,W Bertau Ave,N Talman Ave,41.95705,-87.695938
-855,W Bertau Ave,N Rockwell St,41.95705,-87.69473
-856,W Bertau Ave,N Maplewood Ave,41.95705,-87.693522
-857,W Bertau Ave,N Artesian Ave,41.95705,-87.691106
-858,W Bertau Ave,N Western Ave,41.95705,-87.689898
-859,W Bertau Ave,N Claremont Ave,41.95705,-87.68869
-860,W Bertau Ave,N Oakley Ave,41.95705,-87.687361
-861,W Bertau Ave,N Bell Ave,41.95705,-87.686395
-862,W Bertau Ave,N Leavit St,41.95705,-87.684945
-863,W Bertau Ave,N Hoyne Ave,41.95705,-87.682529
-864,W Bertau Ave,N Seeley Ave,41.95705,-87.681563
-865,W Bertau Ave,N Damen Ave,41.95705,-87.680113
-866,W Bertau Ave,N Whichester Ave,41.95705,-87.678543
-867,W Bertau Ave,N Wolcott Ave,41.95705,-87.677335
-868,W Bertau Ave,N Ravenswood Ave,41.95705,-87.675161
-869,W Belle Plaine Ave,N Pulaski Rd,41.955247,-87.728917
-870,W Belle Plaine Ave,N Springfield Ave,41.955247,-87.72632
-871,W Belle Plaine Ave,N Avers Ave,41.955247,-87.725196
-872,W Belle Plaine Ave,N Hamlin Ave,41.955247,-87.723904
-873,W Belle Plaine Ave,N Ridgeway Ave,41.955247,-87.722708
-874,W Belle Plaine Ave,N Lawndale Ave,41.955247,-87.721391
-875,W Belle Plaine Ave,N Monticello Ave,41.955247,-87.72022
-876,W Belle Plaine Ave,N Central Park Ave,41.955247,-87.718855
-877,W Belle Plaine Ave,N Drake Ave,41.955247,-87.717767
-878,W Belle Plaine Ave,N St Louis Ave,41.955247,-87.716475
-879,W Belle Plaine Ave,N Bernard St,41.955247,-87.715146
-880,W Belle Plaine Ave,N Kimball Ave,41.955247,-87.713938
-881,W Belle Plaine Ave,N Christiana Ave,41.955247,-87.712972
-882,W Belle Plaine Ave,N Kedzie Ave,41.955247,-87.709589
-883,W Belle Plaine Ave,N Troy St,41.955247,-87.70814
-884,W Belle Plaine Ave,N Albany Ave,41.955247,-87.706932
-885,W Belle Plaine Ave,N Whipple St,41.955247,-87.705724
-886,W Belle Plaine Ave,N Sacramento Ave,41.955247,-87.704516
-887,W Belle Plaine Ave,N Richmond St,41.955247,-87.702221
-888,W Belle Plaine Ave,N Francisco Ave,41.955247,-87.701979
-889,W Belle Plaine Ave,N Mozart St,41.955247,-87.700711
-890,W Belle Plaine Ave,N California Ave,41.955247,-87.699563
-891,W Belle Plaine Ave,N Fairfield Ave,41.955247,-87.698476
-892,W Belle Plaine Ave,N Washtenaw Ave,41.955247,-87.697147
-893,W Belle Plaine Ave,N Talman Ave,41.955247,-87.695939
-894,W Belle Plaine Ave,N Rockwell St,41.955247,-87.694731
-895,W Belle Plaine Ave,N Maplewood Ave,41.955247,-87.693523
-896,W Belle Plaine Ave,N Artesian Ave,41.955247,-87.691107
-897,W Belle Plaine Ave,N Western Ave,41.955247,-87.689899
-898,W Belle Plaine Ave,N Claremont Ave,41.955247,-87.688691
-899,W Belle Plaine Ave,N Oakley Ave,41.955247,-87.687363
-900,W Belle Plaine Ave,N Bell Ave,41.955247,-87.686396
-901,W Belle Plaine Ave,N Leavit St,41.955247,-87.684947
-902,W Belle Plaine Ave,N Hoyne Ave,41.955247,-87.682531
-903,W Belle Plaine Ave,N Seeley Ave,41.955247,-87.681564
-904,W Belle Plaine Ave,N Damen Ave,41.955247,-87.680115
-905,W Belle Plaine Ave,N Whichester Ave,41.955247,-87.678544
-906,W Belle Plaine Ave,N Wolcott Ave,41.955247,-87.677336
-907,W Belle Plaine Ave,N Ravenswood Ave,41.955247,-87.675162
-908,W Byron St,N Springfield Ave,41.951642,-87.72632
-909,W Byron St,N Avers Ave,41.951642,-87.725197
-910,W Byron St,N Hamlin Ave,41.951642,-87.723904
-911,W Byron St,N Ridgeway Ave,41.951642,-87.722708
-912,W Byron St,N Lawndale Ave,41.951642,-87.721392
-913,W Byron St,N Monticello Ave,41.951642,-87.72022
-914,W Byron St,N Central Park Ave,41.951642,-87.718855
-915,W Byron St,N Drake Ave,41.951642,-87.717768
-916,W Byron St,N St Louis Ave,41.951642,-87.716476
-917,W Byron St,N Bernard St,41.951642,-87.715147
-918,W Byron St,N Kimball Ave,41.951642,-87.713939
-919,W Byron St,N Christiana Ave,41.951642,-87.712973
-920,W Byron St,N Kedzie Ave,41.951642,-87.70959
-921,W Byron St,N Troy St,41.951642,-87.708141
-922,W Byron St,N Albany Ave,41.951642,-87.706933
-923,W Byron St,N Whipple St,41.951642,-87.705725
-924,W Byron St,N Sacramento Ave,41.951642,-87.704517
-925,W Byron St,N Richmond St,41.951642,-87.702222
-926,W Byron St,N Francisco Ave,41.951642,-87.701981
-927,W Byron St,N Mozart St,41.951642,-87.700712
-928,W Byron St,N California Ave,41.951642,-87.699565
-929,W Byron St,N Fairfield Ave,41.951642,-87.698478
-930,W Byron St,N Washtenaw Ave,41.951642,-87.697149
-931,W Byron St,N Talman Ave,41.951642,-87.695941
-932,W Byron St,N Rockwell St,41.951642,-87.694733
-933,W Byron St,N Maplewood Ave,41.951642,-87.693525
-934,W Byron St,N Artesian Ave,41.951642,-87.691109
-935,W Byron St,N Western Ave,41.951642,-87.689902
-936,W Byron St,N Claremont Ave,41.951642,-87.688694
-937,W Byron St,N Oakley Ave,41.951642,-87.687365
-938,W Byron St,N Bell Ave,41.951642,-87.686399
-939,W Byron St,N Leavit St,41.951642,-87.684949
-940,W Byron St,N Hoyne Ave,41.951642,-87.682533
-941,W Byron St,N Seeley Ave,41.951642,-87.681567
-942,W Byron St,N Damen Ave,41.951642,-87.680118
-943,W Byron St,N Whichester Ave,41.951642,-87.678547
-944,W Byron St,N Wolcott Ave,41.951642,-87.677339
-945,W Byron St,N Ravenswood Ave,41.951642,-87.675165
-946,W Grace St,N Hamlin Ave,41.949749,-87.723904
-947,W Grace St,N Ridgeway Ave,41.949749,-87.722709
-948,W Grace St,N Lawndale Ave,41.949749,-87.721392
-949,W Grace St,N Monticello Ave,41.949749,-87.72022
-950,W Grace St,N Central Park Ave,41.949749,-87.718855
-951,W Grace St,N Drake Ave,41.949749,-87.717768
-952,W Grace St,N St Louis Ave,41.949749,-87.716476
-953,W Grace St,N Bernard St,41.949749,-87.715147
-954,W Grace St,N Kimball Ave,41.949749,-87.713939
-955,W Grace St,N Christiana Ave,41.949749,-87.712973
-956,W Grace St,N Kedzie Ave,41.949749,-87.709591
-957,W Grace St,N Troy St,41.949749,-87.708142
-958,W Grace St,N Albany Ave,41.949749,-87.706934
-959,W Grace St,N Whipple St,41.949749,-87.705726
-960,W Grace St,N Sacramento Ave,41.949749,-87.704518
-961,W Grace St,N Richmond St,41.949749,-87.702223
-962,W Grace St,N Francisco Ave,41.949749,-87.701981
-963,W Grace St,N Mozart St,41.949749,-87.700713
-964,W Grace St,N California Ave,41.949749,-87.699566
-965,W Grace St,N Fairfield Ave,41.949749,-87.698479
-966,W Grace St,N Washtenaw Ave,41.949749,-87.69715
-967,W Grace St,N Talman Ave,41.949749,-87.695942
-968,W Grace St,N Rockwell St,41.949749,-87.694734
-969,W Grace St,N Maplewood Ave,41.949749,-87.693526
-970,W Grace St,N Artesian Ave,41.949749,-87.691111
-971,W Grace St,N Western Ave,41.949749,-87.689903
-972,W Grace St,N Claremont Ave,41.949749,-87.688695
-973,W Grace St,N Oakley Ave,41.949749,-87.687366
-974,W Grace St,N Bell Ave,41.949749,-87.6864
-975,W Grace St,N Leavit St,41.949749,-87.68495
-976,W Grace St,N Hoyne Ave,41.949749,-87.682535
-977,W Grace St,N Seeley Ave,41.949749,-87.681568
-978,W Grace St,N Damen Ave,41.949749,-87.680119
-979,W Grace St,N Whichester Ave,41.949749,-87.678549
-980,W Grace St,N Wolcott Ave,41.949749,-87.677341
-981,W Grace St,N Ravenswood Ave,41.949749,-87.675167
-982,W Weaveland Ave,N Monticello Ave,41.947857,-87.720221
-983,W Weaveland Ave,N Central Park Ave,41.947857,-87.718856
-984,W Weaveland Ave,N Drake Ave,41.947857,-87.717769
-985,W Weaveland Ave,N St Louis Ave,41.947857,-87.716476
-986,W Weaveland Ave,N Bernard St,41.947857,-87.715148
-987,W Weaveland Ave,N Kimball Ave,41.947857,-87.71394
-988,W Weaveland Ave,N Christiana Ave,41.947857,-87.712974
-989,W Weaveland Ave,N Kedzie Ave,41.947857,-87.709592
-990,W Weaveland Ave,N Troy St,41.947857,-87.708142
-991,W Weaveland Ave,N Albany Ave,41.947857,-87.706934
-992,W Weaveland Ave,N Whipple St,41.947857,-87.705727
-993,W Weaveland Ave,N Sacramento Ave,41.947857,-87.704519
-994,W Weaveland Ave,N Richmond St,41.947857,-87.702224
-995,W Weaveland Ave,N Francisco Ave,41.947857,-87.701982
-996,W Weaveland Ave,N Mozart St,41.947857,-87.700714
-997,W Weaveland Ave,N California Ave,41.947857,-87.699567
-998,W Weaveland Ave,N Fairfield Ave,41.947857,-87.69848
-999,W Weaveland Ave,N Washtenaw Ave,41.947857,-87.697151
-1000,W Weaveland Ave,N Talman Ave,41.947857,-87.695943
-1001,W Weaveland Ave,N Rockwell St,41.947857,-87.694735
-1002,W Weaveland Ave,N Maplewood Ave,41.947857,-87.693527
-1003,W Weaveland Ave,N Artesian Ave,41.947857,-87.691112
-1004,W Weaveland Ave,N Western Ave,41.947857,-87.689904
-1005,W Weaveland Ave,N Claremont Ave,41.947857,-87.688696
-1006,W Weaveland Ave,N Oakley Ave,41.947857,-87.687367
-1007,W Weaveland Ave,N Bell Ave,41.947857,-87.686401
-1008,W Weaveland Ave,N Leavit St,41.947857,-87.684952
-1009,W Weaveland Ave,N Hoyne Ave,41.947857,-87.682536
-1010,W Weaveland Ave,N Seeley Ave,41.947857,-87.68157
-1011,W Weaveland Ave,N Damen Ave,41.947857,-87.68012
-1012,W Weaveland Ave,N Whichester Ave,41.947857,-87.67855
-1013,W Weaveland Ave,N Wolcott Ave,41.947857,-87.677342
-1014,W Weaveland Ave,N Ravenswood Ave,41.947857,-87.675168
-1015,W Addison St,N Pulaski Rd,41.946144,-87.728917
-1016,W Addison St,N Springfield Ave,41.946144,-87.72632
-1017,W Addison St,N Avers Ave,41.946144,-87.725197
-1018,W Addison St,N Hamlin Ave,41.946144,-87.723905
-1019,W Addison St,N Ridgeway Ave,41.946144,-87.722709
-1020,W Addison St,N Lawndale Ave,41.946144,-87.721392
-1021,W Addison St,N Monticello Ave,41.946144,-87.720221
-1022,W Addison St,N Central Park Ave,41.946144,-87.718856
-1023,W Addison St,N Drake Ave,41.946144,-87.717769
-1024,W Addison St,N St Louis Ave,41.946144,-87.716477
-1025,W Addison St,N Bernard St,41.946144,-87.715148
-1026,W Addison St,N Kimball Ave,41.946144,-87.71394
-1027,W Addison St,N Christiana Ave,41.946144,-87.712974
-1028,W Addison St,N Kedzie Ave,41.946144,-87.709592
-1029,W Addison St,N Troy St,41.946144,-87.708143
-1030,W Addison St,N Albany Ave,41.946144,-87.706935
-1031,W Addison St,N Whipple St,41.946144,-87.705727
-1032,W Addison St,N Sacramento Ave,41.946144,-87.704519
-1033,W Addison St,N Richmond St,41.946144,-87.702225
-1034,W Addison St,N Francisco Ave,41.946144,-87.701983
-1035,W Addison St,N Mozart St,41.946144,-87.700715
-1036,W Addison St,N California Ave,41.946144,-87.699567
-1037,W Addison St,N Fairfield Ave,41.946144,-87.69848
-1038,W Addison St,N Washtenaw Ave,41.946144,-87.697152
-1039,W Addison St,N Talman Ave,41.946144,-87.695944
-1040,W Addison St,N Rockwell St,41.946144,-87.694736
-1041,W Addison St,N Maplewood Ave,41.946144,-87.693528
-1042,W Addison St,N Artesian Ave,41.946144,-87.691113
-1043,W Addison St,N Western Ave,41.946144,-87.689905
-1044,W Addison St,N Claremont Ave,41.946144,-87.688697
-1045,W Addison St,N Oakley Ave,41.946144,-87.687369
-1046,W Addison St,N Bell Ave,41.946144,-87.686402
-1047,W Addison St,N Leavit St,41.946144,-87.684953
-1048,W Addison St,N Hoyne Ave,41.946144,-87.682537
-1049,W Addison St,N Seeley Ave,41.946144,-87.681571
-1050,W Addison St,N Damen Ave,41.946144,-87.680122
-1051,W Addison St,N Whichester Ave,41.946144,-87.678552
-1052,W Addison St,N Wolcott Ave,41.946144,-87.677344
-1053,W Addison St,N Ravenswood Ave,41.946144,-87.67517
-1054,W Eddy St,N Pulaski Rd,41.945243,-87.728917
-1055,W Eddy St,N Springfield Ave,41.945243,-87.72632
-1056,W Eddy St,N Avers Ave,41.945243,-87.725197
-1057,W Eddy St,N Hamlin Ave,41.945243,-87.723905
-1058,W Eddy St,N Ridgeway Ave,41.945243,-87.722709
-1059,W Eddy St,N Lawndale Ave,41.945243,-87.721392
-1060,W Eddy St,N Monticello Ave,41.945243,-87.720221
-1061,W Eddy St,N Central Park Ave,41.945243,-87.718856
-1062,W Eddy St,N Drake Ave,41.945243,-87.717769
-1063,W Eddy St,N St Louis Ave,41.945243,-87.716477
-1064,W Eddy St,N Bernard St,41.945243,-87.715148
-1065,W Eddy St,N Kimball Ave,41.945243,-87.71394
-1066,W Eddy St,N Christiana Ave,41.945243,-87.712974
-1067,W Eddy St,N Kedzie Ave,41.945243,-87.709592
-1068,W Eddy St,N Troy St,41.945243,-87.708143
-1069,W Eddy St,N Albany Ave,41.945243,-87.706935
-1070,W Eddy St,N Whipple St,41.945243,-87.705727
-1071,W Eddy St,N Sacramento Ave,41.945243,-87.70452
-1072,W Eddy St,N Richmond St,41.945243,-87.702225
-1073,W Eddy St,N Francisco Ave,41.945243,-87.701983
-1074,W Eddy St,N Mozart St,41.945243,-87.700715
-1075,W Eddy St,N California Ave,41.945243,-87.699568
-1076,W Eddy St,N Fairfield Ave,41.945243,-87.698481
-1077,W Eddy St,N Washtenaw Ave,41.945243,-87.697152
-1078,W Eddy St,N Talman Ave,41.945243,-87.695944
-1079,W Eddy St,N Rockwell St,41.945243,-87.694737
-1080,W Eddy St,N Maplewood Ave,41.945243,-87.693529
-1081,W Eddy St,N Artesian Ave,41.945243,-87.691113
-1082,W Eddy St,N Western Ave,41.945243,-87.689905
-1083,W Eddy St,N Claremont Ave,41.945243,-87.688698
-1084,W Eddy St,N Oakley Ave,41.945243,-87.687369
-1085,W Eddy St,N Bell Ave,41.945243,-87.686403
-1086,W Eddy St,N Leavit St,41.945243,-87.684954
-1087,W Eddy St,N Hoyne Ave,41.945243,-87.682538
-1088,W Eddy St,N Seeley Ave,41.945243,-87.681572
-1089,W Eddy St,N Damen Ave,41.945243,-87.680122
-1090,W Eddy St,N Whichester Ave,41.945243,-87.678552
-1091,W Eddy St,N Wolcott Ave,41.945243,-87.677345
-1092,W Eddy St,N Ravenswood Ave,41.945243,-87.67517
-1093,W Cornella Ave,N Pulaski Rd,41.944342,-87.728917
-1094,W Cornella Ave,N Springfield Ave,41.944342,-87.72632
-1095,W Cornella Ave,N Avers Ave,41.944342,-87.725197
-1096,W Cornella Ave,N Hamlin Ave,41.944342,-87.723905
-1097,W Cornella Ave,N Ridgeway Ave,41.944342,-87.722709
-1098,W Cornella Ave,N Lawndale Ave,41.944342,-87.721393
-1099,W Cornella Ave,N Monticello Ave,41.944342,-87.720221
-1100,W Cornella Ave,N Central Park Ave,41.944342,-87.718856
-1101,W Cornella Ave,N Drake Ave,41.944342,-87.717769
-1102,W Cornella Ave,N St Louis Ave,41.944342,-87.716477
-1103,W Cornella Ave,N Bernard St,41.944342,-87.715148
-1104,W Cornella Ave,N Kimball Ave,41.944342,-87.713941
-1105,W Cornella Ave,N Christiana Ave,41.944342,-87.712974
-1106,W Cornella Ave,N Kedzie Ave,41.944342,-87.709593
-1107,W Cornella Ave,N Troy St,41.944342,-87.708143
-1108,W Cornella Ave,N Albany Ave,41.944342,-87.706936
-1109,W Cornella Ave,N Whipple St,41.944342,-87.705728
-1110,W Cornella Ave,N Sacramento Ave,41.944342,-87.70452
-1111,W Cornella Ave,N Richmond St,41.944342,-87.702225
-1112,W Cornella Ave,N Francisco Ave,41.944342,-87.701984
-1113,W Cornella Ave,N Mozart St,41.944342,-87.700716
-1114,W Cornella Ave,N California Ave,41.944342,-87.699568
-1115,W Cornella Ave,N Fairfield Ave,41.944342,-87.698481
-1116,W Cornella Ave,N Washtenaw Ave,41.944342,-87.697153
-1117,W Cornella Ave,N Talman Ave,41.944342,-87.695945
-1118,W Cornella Ave,N Rockwell St,41.944342,-87.694737
-1119,W Cornella Ave,N Maplewood Ave,41.944342,-87.693529
-1120,W Cornella Ave,N Artesian Ave,41.944342,-87.691114
-1121,W Cornella Ave,N Western Ave,41.944342,-87.689906
-1122,W Cornella Ave,N Claremont Ave,41.944342,-87.688698
-1123,W Cornella Ave,N Oakley Ave,41.944342,-87.68737
-1124,W Cornella Ave,N Bell Ave,41.944342,-87.686404
-1125,W Cornella Ave,N Leavit St,41.944342,-87.684954
-1126,W Cornella Ave,N Hoyne Ave,41.944342,-87.682539
-1127,W Cornella Ave,N Seeley Ave,41.944342,-87.681572
-1128,W Cornella Ave,N Damen Ave,41.944342,-87.680123
-1129,W Cornella Ave,N Whichester Ave,41.944342,-87.678553
-1130,W Cornella Ave,N Wolcott Ave,41.944342,-87.677345
-1131,W Cornella Ave,N Ravenswood Ave,41.944342,-87.675171
-1132,W Irving Park Rd,N Pulaski Rd,41.953355,-87.728917
-1133,W Irving Park Rd,N Springfield Ave,41.953355,-87.72632
-1134,W Irving Park Rd,N Avers Ave,41.953355,-87.725197
-1135,W Irving Park Rd,N Hamlin Ave,41.953355,-87.723904
-1136,W Irving Park Rd,N Ridgeway Ave,41.953355,-87.722708
-1137,W Irving Park Rd,N Lawndale Ave,41.953355,-87.721392
-1138,W Irving Park Rd,N Monticello Ave,41.953355,-87.72022
-1139,W Irving Park Rd,N Central Park Ave,41.953355,-87.718855
-1140,W Irving Park Rd,N Drake Ave,41.953355,-87.717768
-1141,W Irving Park Rd,N St Louis Ave,41.953355,-87.716475
-1142,W Irving Park Rd,N Bernard St,41.953355,-87.715146
-1143,W Irving Park Rd,N Kimball Ave,41.953355,-87.713939
-1144,W Irving Park Rd,N Christiana Ave,41.953355,-87.712972
-1145,W Irving Park Rd,N Kedzie Ave,41.953355,-87.70959
-1146,W Irving Park Rd,N Troy St,41.953355,-87.70814
-1147,W Irving Park Rd,N Albany Ave,41.953355,-87.706932
-1148,W Irving Park Rd,N Whipple St,41.953355,-87.705725
-1149,W Irving Park Rd,N Sacramento Ave,41.953355,-87.704517
-1150,W Irving Park Rd,N Richmond St,41.953355,-87.702222
-1151,W Irving Park Rd,N Francisco Ave,41.953355,-87.70198
-1152,W Irving Park Rd,N Mozart St,41.953355,-87.700712
-1153,W Irving Park Rd,N California Ave,41.953355,-87.699564
-1154,W Irving Park Rd,N Fairfield Ave,41.953355,-87.698477
-1155,W Irving Park Rd,N Washtenaw Ave,41.953355,-87.697148
-1156,W Irving Park Rd,N Talman Ave,41.953355,-87.69594
-1157,W Irving Park Rd,N Rockwell St,41.953355,-87.694732
-1158,W Irving Park Rd,N Maplewood Ave,41.953355,-87.693524
-1159,W Irving Park Rd,N Artesian Ave,41.953355,-87.691108
-1160,W Irving Park Rd,N Western Ave,41.953355,-87.689901
-1161,W Irving Park Rd,N Claremont Ave,41.953355,-87.688693
-1162,W Irving Park Rd,N Oakley Ave,41.953355,-87.687364
-1163,W Irving Park Rd,N Bell Ave,41.953355,-87.686397
-1164,W Irving Park Rd,N Leavit St,41.953355,-87.684948
-1165,W Irving Park Rd,N Hoyne Ave,41.953355,-87.682532
-1166,W Irving Park Rd,N Seeley Ave,41.953355,-87.681566
-1167,W Irving Park Rd,N Damen Ave,41.953355,-87.680116
-1168,W Irving Park Rd,N Whichester Ave,41.953355,-87.678546
-1169,W Irving Park Rd,N Wolcott Ave,41.953355,-87.677338
-1170,W Irving Park Rd,N Ravenswood Ave,41.953355,-87.675164
-1171,W Eddy St,N Pulaski Rd,41.945243,-87.728917
-1172,W Eddy St,N Springfield Ave,41.945243,-87.72632
-1173,W Eddy St,N Avers Ave,41.945243,-87.725197
-1174,W Eddy St,N Hamlin Ave,41.945243,-87.723905
-1175,W Eddy St,N Ridgeway Ave,41.945243,-87.722709
-1176,W Eddy St,N Lawndale Ave,41.945243,-87.721392
-1177,W Eddy St,N Monticello Ave,41.945243,-87.720221
-1178,W Eddy St,N Central Park Ave,41.945243,-87.718856
-1179,W Eddy St,N Drake Ave,41.945243,-87.717769
-1180,W Eddy St,N St Louis Ave,41.945243,-87.716477
-1181,W Eddy St,N Bernard St,41.945243,-87.715148
-1182,W Eddy St,N Kimball Ave,41.945243,-87.71394
-1183,W Eddy St,N Christiana Ave,41.945243,-87.712974
-1184,W Eddy St,N Kedzie Ave,41.945243,-87.709592
-1185,W Eddy St,N Troy St,41.945243,-87.708143
-1186,W Eddy St,N Albany Ave,41.945243,-87.706935
-1187,W Eddy St,N Whipple St,41.945243,-87.705727
-1188,W Eddy St,N Sacramento Ave,41.945243,-87.70452
-1189,W Eddy St,N Richmond St,41.945243,-87.702225
-1190,W Eddy St,N Francisco Ave,41.945243,-87.701983
-1191,W Eddy St,N Mozart St,41.945243,-87.700715
-1192,W Eddy St,N California Ave,41.945243,-87.699568
-1193,W Eddy St,N Fairfield Ave,41.945243,-87.698481
-1194,W Eddy St,N Washtenaw Ave,41.945243,-87.697152
-1195,W Eddy St,N Talman Ave,41.945243,-87.695944
-1196,W Eddy St,N Rockwell St,41.945243,-87.694737
-1197,W Eddy St,N Maplewood Ave,41.945243,-87.693529
-1198,W Eddy St,N Artesian Ave,41.945243,-87.691113
-1199,W Eddy St,N Western Ave,41.945243,-87.689905
-1200,W Eddy St,N Claremont Ave,41.945243,-87.688698
-1201,W Eddy St,N Oakley Ave,41.945243,-87.687369
-1202,W Eddy St,N Bell Ave,41.945243,-87.686403
-1203,W Eddy St,N Leavit St,41.945243,-87.684954
-1204,W Eddy St,N Hoyne Ave,41.945243,-87.682538
-1205,W Eddy St,N Seeley Ave,41.945243,-87.681572
-1206,W Eddy St,N Damen Ave,41.945243,-87.680122
-1207,W Eddy St,N Whichester Ave,41.945243,-87.678552
-1208,W Eddy St,N Wolcott Ave,41.945243,-87.677345
-1209,W Eddy St,N Ravenswood Ave,41.945243,-87.67517
-1210,W Cornella Ave,N Pulaski Rd,41.944342,-87.728917
-1211,W Cornella Ave,N Springfield Ave,41.944342,-87.72632
-1212,W Cornella Ave,N Avers Ave,41.944342,-87.725197
-1213,W Cornella Ave,N Hamlin Ave,41.944342,-87.723905
-1214,W Cornella Ave,N Ridgeway Ave,41.944342,-87.722709
-1215,W Cornella Ave,N Lawndale Ave,41.944342,-87.721393
-1216,W Cornella Ave,N Monticello Ave,41.944342,-87.720221
-1217,W Cornella Ave,N Central Park Ave,41.944342,-87.718856
-1218,W Cornella Ave,N Drake Ave,41.944342,-87.717769
-1219,W Cornella Ave,N St Louis Ave,41.944342,-87.716477
-1220,W Cornella Ave,N Bernard St,41.944342,-87.715148
-1221,W Cornella Ave,N Kimball Ave,41.944342,-87.713941
-1222,W Cornella Ave,N Christiana Ave,41.944342,-87.712974
-1223,W Cornella Ave,N Kedzie Ave,41.944342,-87.709593
-1224,W Cornella Ave,N Troy St,41.944342,-87.708143
-1225,W Cornella Ave,N Albany Ave,41.944342,-87.706936
-1226,W Cornella Ave,N Whipple St,41.944342,-87.705728
-1227,W Cornella Ave,N Sacramento Ave,41.944342,-87.70452
-1228,W Cornella Ave,N Richmond St,41.944342,-87.702225
-1229,W Cornella Ave,N Francisco Ave,41.944342,-87.701984
-1230,W Cornella Ave,N Mozart St,41.944342,-87.700716
-1231,W Cornella Ave,N California Ave,41.944342,-87.699568
-1232,W Cornella Ave,N Fairfield Ave,41.944342,-87.698481
-1233,W Cornella Ave,N Washtenaw Ave,41.944342,-87.697153
-1234,W Cornella Ave,N Talman Ave,41.944342,-87.695945
-1235,W Cornella Ave,N Rockwell St,41.944342,-87.694737
-1236,W Cornella Ave,N Maplewood Ave,41.944342,-87.693529
-1237,W Cornella Ave,N Artesian Ave,41.944342,-87.691114
-1238,W Cornella Ave,N Western Ave,41.944342,-87.689906
-1239,W Cornella Ave,N Claremont Ave,41.944342,-87.688698
-1240,W Cornella Ave,N Oakley Ave,41.944342,-87.68737
-1241,W Cornella Ave,N Bell Ave,41.944342,-87.686404
-1242,W Cornella Ave,N Leavit St,41.944342,-87.684954
-1243,W Cornella Ave,N Hoyne Ave,41.944342,-87.682539
-1244,W Cornella Ave,N Seeley Ave,41.944342,-87.681572
-1245,W Cornella Ave,N Damen Ave,41.944342,-87.680123
-1246,W Cornella Ave,N Whichester Ave,41.944342,-87.678553
-1247,W Cornella Ave,N Wolcott Ave,41.944342,-87.677345
-1248,W Cornella Ave,N Ravenswood Ave,41.944342,-87.675171
-1249,W Irving Park Rd,N Pulaski Rd,41.953355,-87.728917
-1250,W Irving Park Rd,N Springfield Ave,41.953355,-87.72632
-1251,W Irving Park Rd,N Avers Ave,41.953355,-87.725197
-1252,W Irving Park Rd,N Hamlin Ave,41.953355,-87.723904
-1253,W Irving Park Rd,N Ridgeway Ave,41.953355,-87.722708
-1254,W Irving Park Rd,N Lawndale Ave,41.953355,-87.721392
-1255,W Irving Park Rd,N Monticello Ave,41.953355,-87.72022
-1256,W Irving Park Rd,N Central Park Ave,41.953355,-87.718855
-1257,W Irving Park Rd,N Drake Ave,41.953355,-87.717768
-1258,W Irving Park Rd,N St Louis Ave,41.953355,-87.716475
-1259,W Irving Park Rd,N Bernard St,41.953355,-87.715146
-1260,W Irving Park Rd,N Kimball Ave,41.953355,-87.713939
-1261,W Irving Park Rd,N Christiana Ave,41.953355,-87.712972
-1262,W Irving Park Rd,N Kedzie Ave,41.953355,-87.70959
-1263,W Irving Park Rd,N Troy St,41.953355,-87.70814
-1264,W Irving Park Rd,N Albany Ave,41.953355,-87.706932
-1265,W Irving Park Rd,N Whipple St,41.953355,-87.705725
-1266,W Irving Park Rd,N Sacramento Ave,41.953355,-87.704517
-1267,W Irving Park Rd,N Richmond St,41.953355,-87.702222
-1268,W Irving Park Rd,N Francisco Ave,41.953355,-87.70198
-1269,W Irving Park Rd,N Mozart St,41.953355,-87.700712
-1270,W Irving Park Rd,N California Ave,41.953355,-87.699564
-1271,W Irving Park Rd,N Fairfield Ave,41.953355,-87.698477
-1272,W Irving Park Rd,N Washtenaw Ave,41.953355,-87.697148
-1273,W Irving Park Rd,N Talman Ave,41.953355,-87.69594
-1274,W Irving Park Rd,N Rockwell St,41.953355,-87.694732
-1275,W Irving Park Rd,N Maplewood Ave,41.953355,-87.693524
-1276,W Irving Park Rd,N Artesian Ave,41.953355,-87.691108
-1277,W Irving Park Rd,N Western Ave,41.953355,-87.689901
-1278,W Irving Park Rd,N Claremont Ave,41.953355,-87.688693
-1279,W Irving Park Rd,N Oakley Ave,41.953355,-87.687364
-1280,W Irving Park Rd,N Bell Ave,41.953355,-87.686397
-1281,W Irving Park Rd,N Leavit St,41.953355,-87.684948
-1282,W Irving Park Rd,N Hoyne Ave,41.953355,-87.682532
-1283,W Irving Park Rd,N Seeley Ave,41.953355,-87.681566
-1284,W Irving Park Rd,N Damen Ave,41.953355,-87.680116
-1285,W Irving Park Rd,N Whichester Ave,41.953355,-87.678546
-1286,W Irving Park Rd,N Wolcott Ave,41.953355,-87.677338
-1287,W Irving Park Rd,N Ravenswood Ave,41.953355,-87.675164
-1288,W Newport Ave,N Damen Ave,41.94326,-87.680124
-1289,W Newport Ave,N Whichester Ave,41.94326,-87.678554
-1290,W Newport Ave,N Wolcott Ave,41.94326,-87.677346
-1291,W Newport Ave,N Ravenswood Ave,41.94326,-87.675172
-1292,W Roscoe St,N Pulaski Rd,41.942539,-87.728917
-1293,W Roscoe St,N Springfield Ave,41.942539,-87.72632
-1294,W Roscoe St,N Avers Ave,41.942539,-87.725197
-1295,W Roscoe St,N Hamlin Ave,41.942539,-87.723905
-1296,W Roscoe St,N Ridgeway Ave,41.942539,-87.722709
-1297,W Roscoe St,N Lawndale Ave,41.942539,-87.721393
-1298,W Roscoe St,N Monticello Ave,41.942539,-87.720221
-1299,W Roscoe St,N Central Park Ave,41.942539,-87.718857
-1300,W Roscoe St,N Drake Ave,41.942539,-87.71777
-1301,W Roscoe St,N St Louis Ave,41.942539,-87.716477
-1302,W Roscoe St,N Bernard St,41.942539,-87.715149
-1303,W Roscoe St,N Kimball Ave,41.942539,-87.713941
-1304,W Roscoe St,N Christiana Ave,41.942539,-87.712975
-1305,W Roscoe St,N Kedzie Ave,41.942539,-87.709593
-1306,W Roscoe St,N Troy St,41.942539,-87.708144
-1307,W Roscoe St,N Albany Ave,41.942539,-87.706936
-1308,W Roscoe St,N Whipple St,41.942539,-87.705728
-1309,W Roscoe St,N Sacramento Ave,41.942539,-87.704521
-1310,W Roscoe St,N Richmond St,41.942539,-87.702226
-1311,W Roscoe St,N Francisco Ave,41.942539,-87.701984
-1312,W Roscoe St,N Mozart St,41.942539,-87.700716
-1313,W Roscoe St,N California Ave,41.942539,-87.699569
-1314,W Roscoe St,N Fairfield Ave,41.942539,-87.698482
-1315,W Roscoe St,N Washtenaw Ave,41.942539,-87.697154
-1316,W Roscoe St,N Talman Ave,41.942539,-87.695946
-1317,W Roscoe St,N Rockwell St,41.942539,-87.694738
-1318,W Roscoe St,N Maplewood Ave,41.942539,-87.69353
-1319,W Roscoe St,N Artesian Ave,41.942539,-87.691115
-1320,W Roscoe St,N Western Ave,41.942539,-87.689907
-1321,W Roscoe St,N Claremont Ave,41.942539,-87.688699
-1322,W Roscoe St,N Oakley Ave,41.942539,-87.687371
-1323,W Roscoe St,N Bell Ave,41.942539,-87.686405
-1324,W Roscoe St,N Leavit St,41.942539,-87.684955
-1325,W Roscoe St,N Hoyne Ave,41.942539,-87.68254
-1326,W Roscoe St,N Seeley Ave,41.942539,-87.681574
-1327,W Roscoe St,N Damen Ave,41.942539,-87.680124
-1328,W Roscoe St,N Whichester Ave,41.942539,-87.678554
-1329,W Roscoe St,N Wolcott Ave,41.942539,-87.677347
-1330,W Roscoe St,N Ravenswood Ave,41.942539,-87.675173
-1331,W School St,N Pulaski Rd,41.940827,-87.728917
-1332,W School St,N Springfield Ave,41.940827,-87.72632
-1333,W School St,N Avers Ave,41.940827,-87.725197
-1334,W School St,N Hamlin Ave,41.940827,-87.723905
-1335,W School St,N Ridgeway Ave,41.940827,-87.722709
-1336,W School St,N Lawndale Ave,41.940827,-87.721393
-1337,W School St,N Monticello Ave,41.940827,-87.720222
-1338,W School St,N Central Park Ave,41.940827,-87.718857
-1339,W School St,N Drake Ave,41.940827,-87.71777
-1340,W School St,N St Louis Ave,41.940827,-87.716478
-1341,W School St,N Bernard St,41.940827,-87.715149
-1342,W School St,N Kimball Ave,41.940827,-87.713941
-1343,W School St,N Christiana Ave,41.940827,-87.712975
-1344,W School St,N Kedzie Ave,41.940827,-87.709594
-1345,W School St,N Troy St,41.940827,-87.708145
-1346,W School St,N Albany Ave,41.940827,-87.706937
-1347,W School St,N Whipple St,41.940827,-87.705729
-1348,W School St,N Sacramento Ave,41.940827,-87.704521
-1349,W School St,N Richmond St,41.940827,-87.702227
-1350,W School St,N Francisco Ave,41.940827,-87.701985
-1351,W School St,N Mozart St,41.940827,-87.700717
-1352,W School St,N California Ave,41.940827,-87.69957
-1353,W School St,N Fairfield Ave,41.940827,-87.698483
-1354,W School St,N Washtenaw Ave,41.940827,-87.697154
-1355,W School St,N Talman Ave,41.940827,-87.695947
-1356,W School St,N Rockwell St,41.940827,-87.694739
-1357,W School St,N Maplewood Ave,41.940827,-87.693531
-1358,W School St,N Artesian Ave,41.940827,-87.691116
-1359,W School St,N Western Ave,41.940827,-87.689908
-1360,W School St,N Claremont Ave,41.940827,-87.6887
-1361,W School St,N Oakley Ave,41.940827,-87.687372
-1362,W School St,N Bell Ave,41.940827,-87.686406
-1363,W School St,N Leavit St,41.940827,-87.684957
-1364,W School St,N Hoyne Ave,41.940827,-87.682541
-1365,W School St,N Seeley Ave,41.940827,-87.681575
-1366,W School St,N Damen Ave,41.940827,-87.680126
-1367,W School St,N Whichester Ave,41.940827,-87.678556
-1368,W School St,N Wolcott Ave,41.940827,-87.677348
-1369,W School St,N Ravenswood Ave,41.940827,-87.675174
-1370,W Melrose St,N Drake Ave,41.939925,-87.71777
-1371,W Melrose St,N St Louis Ave,41.939925,-87.716478
-1372,W Melrose St,N Bernard St,41.939925,-87.715149
-1373,W Melrose St,N Kimball Ave,41.939925,-87.713942
-1374,W Melrose St,N Christiana Ave,41.939925,-87.712976
-1375,W Melrose St,N Kedzie Ave,41.939925,-87.709594
-1376,W Melrose St,N Troy St,41.939925,-87.708145
-1377,W Melrose St,N Albany Ave,41.939925,-87.706937
-1378,W Melrose St,N Whipple St,41.939925,-87.705729
-1379,W Melrose St,N Sacramento Ave,41.939925,-87.704522
-1380,W Melrose St,N Richmond St,41.939925,-87.702227
-1381,W Melrose St,N Francisco Ave,41.939925,-87.701986
-1382,W Melrose St,N Mozart St,41.939925,-87.700718
-1383,W Melrose St,N California Ave,41.939925,-87.69957
-1384,W Melrose St,N Fairfield Ave,41.939925,-87.698483
-1385,W Melrose St,N Washtenaw Ave,41.939925,-87.697155
-1386,W Melrose St,N Talman Ave,41.939925,-87.695947
-1387,W Melrose St,N Rockwell St,41.939925,-87.694739
-1388,W Melrose St,N Maplewood Ave,41.939925,-87.693532
-1389,W Melrose St,N Artesian Ave,41.939925,-87.691116
-1390,W Melrose St,N Western Ave,41.939925,-87.689909
-1391,W Melrose St,N Claremont Ave,41.939925,-87.688701
-1392,W Melrose St,N Oakley Ave,41.939925,-87.687373
-1393,W Melrose St,N Bell Ave,41.939925,-87.686406
-1394,W Melrose St,N Leavit St,41.939925,-87.684957
-1395,W Melrose St,N Hoyne Ave,41.939925,-87.682542
-1396,W Melrose St,N Seeley Ave,41.939925,-87.681576
-1397,W Melrose St,N Damen Ave,41.939925,-87.680126
-1398,W Melrose St,N Whichester Ave,41.939925,-87.678556
-1399,W Melrose St,N Wolcott Ave,41.939925,-87.677349
-1400,W Melrose St,N Ravenswood Ave,41.939925,-87.675175
-1401,W Belmont Ave,N Pulaski Rd,41.938844,-87.728917
-1402,W Belmont Ave,N Springfield Ave,41.938844,-87.726321
-1403,W Belmont Ave,N Avers Ave,41.938844,-87.725197
-1404,W Belmont Ave,N Hamlin Ave,41.938844,-87.723905
-1405,W Belmont Ave,N Ridgeway Ave,41.938844,-87.72271
-1406,W Belmont Ave,N Lawndale Ave,41.938844,-87.721393
-1407,W Belmont Ave,N Monticello Ave,41.938844,-87.720222
-1408,W Belmont Ave,N Central Park Ave,41.938844,-87.718857
-1409,W Belmont Ave,N Drake Ave,41.938844,-87.71777
-1410,W Belmont Ave,N St Louis Ave,41.938844,-87.716478
-1411,W Belmont Ave,N Bernard St,41.938844,-87.71515
-1412,W Belmont Ave,N Kimball Ave,41.938844,-87.713942
-1413,W Belmont Ave,N Christiana Ave,41.938844,-87.712976
-1414,W Belmont Ave,N Kedzie Ave,41.938844,-87.709594
-1415,W Belmont Ave,N Troy St,41.938844,-87.708145
-1416,W Belmont Ave,N Albany Ave,41.938844,-87.706937
-1417,W Belmont Ave,N Whipple St,41.938844,-87.70573
-1418,W Belmont Ave,N Sacramento Ave,41.938844,-87.704522
-1419,W Belmont Ave,N Richmond St,41.938844,-87.702228
-1420,W Belmont Ave,N Francisco Ave,41.938844,-87.701986
-1421,W Belmont Ave,N Mozart St,41.938844,-87.700718
-1422,W Belmont Ave,N California Ave,41.938844,-87.699571
-1423,W Belmont Ave,N Fairfield Ave,41.938844,-87.698484
-1424,W Belmont Ave,N Washtenaw Ave,41.938844,-87.697155
-1425,W Belmont Ave,N Talman Ave,41.938844,-87.695948
-1426,W Belmont Ave,N Rockwell St,41.938844,-87.69474
-1427,W Belmont Ave,N Maplewood Ave,41.938844,-87.693532
-1428,W Belmont Ave,N Artesian Ave,41.938844,-87.691117
-1429,W Belmont Ave,N Western Ave,41.938844,-87.689909
-1430,W Belmont Ave,N Claremont Ave,41.938844,-87.688702
-1431,W Belmont Ave,N Oakley Ave,41.938844,-87.687373
-1432,W Belmont Ave,N Bell Ave,41.938844,-87.686407
-1433,W Belmont Ave,N Leavit St,41.938844,-87.684958
-1434,W Belmont Ave,N Hoyne Ave,41.938844,-87.682543
-1435,W Belmont Ave,N Seeley Ave,41.938844,-87.681577
-1436,W Belmont Ave,N Damen Ave,41.938844,-87.680127
-1437,W Belmont Ave,N Whichester Ave,41.938844,-87.678557
-1438,W Belmont Ave,N Wolcott Ave,41.938844,-87.67735
-1439,W Belmont Ave,N Ravenswood Ave,41.938844,-87.675176
-1440,W Fletcher St,N Whipple St,41.938033,-87.70573
-1441,W Fletcher St,N Sacramento Ave,41.938033,-87.704522
-1442,W Fletcher St,N Richmond St,41.938033,-87.702228
-1443,W Fletcher St,N Francisco Ave,41.938033,-87.701986
-1444,W Fletcher St,N Mozart St,41.938033,-87.700718
-1445,W Fletcher St,N California Ave,41.938033,-87.699571
-1446,W Fletcher St,N Fairfield Ave,41.938033,-87.698484
-1447,W Fletcher St,N Washtenaw Ave,41.938033,-87.697156
-1448,W Fletcher St,N Talman Ave,41.938033,-87.695948
-1449,W Fletcher St,N Rockwell St,41.938033,-87.694741
-1450,W Fletcher St,N Maplewood Ave,41.938033,-87.693533
-1451,W Fletcher St,N Artesian Ave,41.938033,-87.691118
-1452,W Fletcher St,N Western Ave,41.938033,-87.68991
-1453,W Fletcher St,N Claremont Ave,41.938033,-87.688702
-1454,W Fletcher St,N Oakley Ave,41.938033,-87.687374
-1455,W Fletcher St,N Bell Ave,41.938033,-87.686408
-1456,W Fletcher St,N Leavit St,41.938033,-87.684959
-1457,W Fletcher St,N Hoyne Ave,41.938033,-87.682543
-1458,W Fletcher St,N Seeley Ave,41.938033,-87.681577
-1459,W Fletcher St,N Damen Ave,41.938033,-87.680128
-1460,W Fletcher St,N Whichester Ave,41.938033,-87.678558
-1461,W Fletcher St,N Wolcott Ave,41.938033,-87.67735
-1462,W Fletcher St,N Ravenswood Ave,41.938033,-87.675177
-1463,W Barry Ave,N Monticello Ave,41.937041,-87.720222
-1464,W Barry Ave,N Central Park Ave,41.937041,-87.718857
-1465,W Barry Ave,N Drake Ave,41.937041,-87.717771
-1466,W Barry Ave,N St Louis Ave,41.937041,-87.716478
-1467,W Barry Ave,N Bernard St,41.937041,-87.71515
-1468,W Barry Ave,N Kimball Ave,41.937041,-87.713942
-1469,W Barry Ave,N Christiana Ave,41.937041,-87.712976
-1470,W Barry Ave,N Kedzie Ave,41.937041,-87.709595
-1471,W Barry Ave,N Troy St,41.937041,-87.708146
-1472,W Barry Ave,N Albany Ave,41.937041,-87.706938
-1473,W Barry Ave,N Whipple St,41.937041,-87.70573
-1474,W Barry Ave,N Sacramento Ave,41.937041,-87.704523
-1475,W Barry Ave,N Richmond St,41.937041,-87.702228
-1476,W Barry Ave,N Francisco Ave,41.937041,-87.701987
-1477,W Barry Ave,N Mozart St,41.937041,-87.700719
-1478,W Barry Ave,N California Ave,41.937041,-87.699572
-1479,W Barry Ave,N Fairfield Ave,41.937041,-87.698485
-1480,W Barry Ave,N Washtenaw Ave,41.937041,-87.697156
-1481,W Barry Ave,N Talman Ave,41.937041,-87.695949
-1482,W Barry Ave,N Rockwell St,41.937041,-87.694741
-1483,W Barry Ave,N Maplewood Ave,41.937041,-87.693533
-1484,W Barry Ave,N Artesian Ave,41.937041,-87.691118
-1485,W Barry Ave,N Western Ave,41.937041,-87.689911
-1486,W Barry Ave,N Claremont Ave,41.937041,-87.688703
-1487,W Barry Ave,N Oakley Ave,41.937041,-87.687374
-1488,W Barry Ave,N Bell Ave,41.937041,-87.686408
-1489,W Barry Ave,N Leavit St,41.937041,-87.684959
-1490,W Barry Ave,N Hoyne Ave,41.937041,-87.682544
-1491,W Barry Ave,N Seeley Ave,41.937041,-87.681578
-1492,W Barry Ave,N Damen Ave,41.937041,-87.680129
-1493,W Barry Ave,N Whichester Ave,41.937041,-87.678559
-1494,W Barry Ave,N Wolcott Ave,41.937041,-87.677351
-1495,W Barry Ave,N Ravenswood Ave,41.937041,-87.675177
-1496,W Wellington Ave,N Pulaski Rd,41.935148,-87.728917
-1497,W Wellington Ave,N Springfield Ave,41.935148,-87.726321
-1498,W Wellington Ave,N Avers Ave,41.935148,-87.725198
-1499,W Wellington Ave,N Hamlin Ave,41.935148,-87.723905
-1500,W Wellington Ave,N Ridgeway Ave,41.935148,-87.72271
-1501,W Wellington Ave,N Lawndale Ave,41.935148,-87.721394
-1502,W Wellington Ave,N Monticello Ave,41.935148,-87.720222
-1503,W Wellington Ave,N Central Park Ave,41.935148,-87.718858
-1504,W Wellington Ave,N Drake Ave,41.935148,-87.717771
-1505,W Wellington Ave,N St Louis Ave,41.935148,-87.716479
-1506,W Wellington Ave,N Bernard St,41.935148,-87.71515
-1507,W Wellington Ave,N Kimball Ave,41.935148,-87.713943
-1508,W Wellington Ave,N Christiana Ave,41.935148,-87.712977
-1509,W Wellington Ave,N Kedzie Ave,41.935148,-87.709595
-1510,W Wellington Ave,N Troy St,41.935148,-87.708146
-1511,W Wellington Ave,N Albany Ave,41.935148,-87.706939
-1512,W Wellington Ave,N Whipple St,41.935148,-87.705731
-1513,W Wellington Ave,N Sacramento Ave,41.935148,-87.704524
-1514,W Wellington Ave,N Richmond St,41.935148,-87.702229
-1515,W Wellington Ave,N Francisco Ave,41.935148,-87.701988
-1516,W Wellington Ave,N Mozart St,41.935148,-87.70072
-1517,W Wellington Ave,N California Ave,41.935148,-87.699572
-1518,W Wellington Ave,N Fairfield Ave,41.935148,-87.698486
-1519,W Wellington Ave,N Washtenaw Ave,41.935148,-87.697157
-1520,W Wellington Ave,N Talman Ave,41.935148,-87.69595
-1521,W Wellington Ave,N Rockwell St,41.935148,-87.694742
-1522,W Wellington Ave,N Maplewood Ave,41.935148,-87.693534
-1523,W Wellington Ave,N Artesian Ave,41.935148,-87.691119
-1524,W Wellington Ave,N Western Ave,41.935148,-87.689912
-1525,W Wellington Ave,N Claremont Ave,41.935148,-87.688704
-1526,W Wellington Ave,N Oakley Ave,41.935148,-87.687376
-1527,W Wellington Ave,N Bell Ave,41.935148,-87.68641
-1528,W Wellington Ave,N Leavit St,41.935148,-87.684961
-1529,W Wellington Ave,N Hoyne Ave,41.935148,-87.682545
-1530,W Wellington Ave,N Seeley Ave,41.935148,-87.681579
-1531,W Wellington Ave,N Damen Ave,41.935148,-87.68013
-1532,W Wellington Ave,N Whichester Ave,41.935148,-87.67856
-1533,W Wellington Ave,N Wolcott Ave,41.935148,-87.677353
-1534,W Wellington Ave,N Ravenswood Ave,41.935148,-87.675179
-1535,W George St,N Pulaski Rd,41.933436,-87.728917
-1536,W George St,N Springfield Ave,41.933436,-87.726321
-1537,W George St,N Avers Ave,41.933436,-87.725198
-1538,W George St,N Hamlin Ave,41.933436,-87.723906
-1539,W George St,N Ridgeway Ave,41.933436,-87.72271
-1540,W George St,N Lawndale Ave,41.933436,-87.721394
-1541,W George St,N Monticello Ave,41.933436,-87.720223
-1542,W George St,N Central Park Ave,41.933436,-87.718858
-1543,W George St,N Drake Ave,41.933436,-87.717771
-1544,W George St,N St Louis Ave,41.933436,-87.716479
-1545,W George St,N Bernard St,41.933436,-87.715151
-1546,W George St,N Kimball Ave,41.933436,-87.713943
-1547,W George St,N Kedzie Ave,41.933436,-87.709596
-1548,W George St,N Troy St,41.933436,-87.708147
-1549,W George St,N Albany Ave,41.933436,-87.706939
-1550,W George St,N Whipple St,41.933436,-87.705732
-1551,W George St,N Sacramento Ave,41.933436,-87.704524
-1552,W George St,N Richmond St,41.933436,-87.70223
-1553,W George St,N Francisco Ave,41.933436,-87.701988
-1554,W George St,N Mozart St,41.933436,-87.70072
-1555,W George St,N California Ave,41.933436,-87.699573
-1556,W George St,N Fairfield Ave,41.933436,-87.698486
-1557,W George St,N Washtenaw Ave,41.933436,-87.697158
-1558,W George St,N Talman Ave,41.933436,-87.695951
-1559,W George St,N Rockwell St,41.933436,-87.694743
-1560,W George St,N Maplewood Ave,41.933436,-87.693535
-1561,W George St,N Artesian Ave,41.933436,-87.69112
-1562,W George St,N Western Ave,41.933436,-87.689913
-1563,W George St,N Claremont Ave,41.933436,-87.688705
-1564,W George St,N Oakley Ave,41.933436,-87.687377
-1565,W George St,N Bell Ave,41.933436,-87.686411
-1566,W George St,N Leavit St,41.933436,-87.684962
-1567,W George St,N Hoyne Ave,41.933436,-87.682547
-1568,W George St,N Seeley Ave,41.933436,-87.681581
-1569,W George St,N Damen Ave,41.933436,-87.680131
-1570,W George St,N Whichester Ave,41.933436,-87.678562
-1571,W George St,N Wolcott Ave,41.933436,-87.677354
-1572,W George St,N Ravenswood Ave,41.933436,-87.67518
+11,W Devon Ave,N Richmond St,41.997248,-87.702203
+12,W Devon Ave,N Francisco Ave,41.997248,-87.70172
+13,W Devon Ave,N Mozart St,41.997248,-87.700692
+14,W Devon Ave,N Fairfield Ave,41.997248,-87.698456
+15,W Devon Ave,N Washtenaw Ave,41.997248,-87.697126
+16,W Devon Ave,N Talman Ave,41.997248,-87.695917
+17,W Devon Ave,N Maplewood Ave,41.997248,-87.693742
+18,W Devon Ave,N Campbell Ave,41.997248,-87.691687
+19,W Devon Ave,N Artesian Ave,41.997248,-87.691082
+20,W Devon Ave,N Western Ave,41.997248,-87.689874
+21,W Devon Ave,N Wolcott Ave,41.997248,-87.68105
+22,W Devon Ave,N Felicidad2 Ave,41.997248,-87.67839
+23,W Rosemont Ave,N Springfield Ave,41.995319,-87.726318
+24,W Rosemont Ave,N Avers Ave,41.995319,-87.725194
+25,W Rosemont Ave,N Hamlin Ave,41.995319,-87.723901
+26,W Rosemont Ave,N Ridgeway Ave,41.995319,-87.722704
+27,W Rosemont Ave,N Lawndale Ave,41.995319,-87.721387
+28,W Rosemont Ave,N Central Park Ave,41.995319,-87.718848
+29,W Rosemont Ave,N St Louis Ave,41.995319,-87.716467
+30,W Rosemont Ave,N Kedzie Ave,41.995319,-87.709577
+31,W Rosemont Ave,N Troy St,41.995319,-87.708127
+32,W Rosemont Ave,N Albany Ave,41.995319,-87.706918
+33,W Rosemont Ave,N Whipple St,41.995319,-87.705709
+34,W Rosemont Ave,N Sacramento Ave,41.995319,-87.704501
+35,W Rosemont Ave,N Richmond St,41.995319,-87.702204
+36,W Rosemont Ave,N Francisco Ave,41.995319,-87.70172
+37,W Rosemont Ave,N Mozart St,41.995319,-87.700693
+38,W Rosemont Ave,N California Ave,41.995319,-87.699545
+39,W Rosemont Ave,N Fairfield Ave,41.995319,-87.698457
+40,W Rosemont Ave,N Washtenaw Ave,41.995319,-87.697127
+41,W Rosemont Ave,N Talman Ave,41.995319,-87.695918
+42,W Rosemont Ave,N Rockwell St,41.995319,-87.69471
+43,W Rosemont Ave,N Maplewood Ave,41.995319,-87.693743
+44,W Rosemont Ave,N Campbell Ave,41.995319,-87.691688
+45,W Rosemont Ave,N Artesian Ave,41.995319,-87.691084
+46,W Rosemont Ave,N Western Ave,41.995319,-87.689875
+47,W Granville Ave,N Pulaski Rd,41.993688,-87.728917
+48,W Granville Ave,N Springfield Ave,41.993688,-87.726318
+49,W Granville Ave,N Avers Ave,41.993688,-87.725194
+50,W Granville Ave,N Hamlin Ave,41.993688,-87.723901
+51,W Granville Ave,N Ridgeway Ave,41.993688,-87.722704
+52,W Granville Ave,N Lawndale Ave,41.993688,-87.721387
+53,W Granville Ave,N Central Park Ave,41.993688,-87.718848
+54,W Granville Ave,N St Louis Ave,41.993688,-87.716467
+55,W Granville Ave,N Bernard St,41.993688,-87.715138
+56,W Granville Ave,N Kimball Ave,41.993688,-87.713929
+57,W Granville Ave,N Kedzie Ave,41.993688,-87.709578
+58,W Granville Ave,N Troy St,41.993688,-87.708127
+59,W Granville Ave,N Albany Ave,41.993688,-87.706919
+60,W Granville Ave,N Whipple St,41.993688,-87.70571
+61,W Granville Ave,N Sacramento Ave,41.993688,-87.704501
+62,W Granville Ave,N Richmond St,41.993688,-87.702205
+63,W Granville Ave,N Francisco Ave,41.993688,-87.701721
+64,W Granville Ave,N Mozart St,41.993688,-87.700694
+65,W Granville Ave,N California Ave,41.993688,-87.699545
+66,W Granville Ave,N Fairfield Ave,41.993688,-87.698458
+67,W Granville Ave,N Washtenaw Ave,41.993688,-87.697128
+68,W Granville Ave,N Talman Ave,41.993688,-87.695919
+69,W Granville Ave,N Rockwell St,41.993688,-87.694711
+70,W Granville Ave,N Maplewood Ave,41.993688,-87.693744
+71,W Granville Ave,N Campbell Ave,41.993688,-87.691689
+72,W Granville Ave,N Artesian Ave,41.993688,-87.691085
+73,W Granville Ave,N Western Ave,41.993688,-87.689876
+74,W Glenlake Ave,N Pulaski Rd,41.991786,-87.728917
+75,W Glenlake Ave,N Springfield Ave,41.991786,-87.726318
+76,W Glenlake Ave,N Avers Ave,41.991786,-87.725194
+77,W Glenlake Ave,N Hamlin Ave,41.991786,-87.723901
+78,W Glenlake Ave,N Ridgeway Ave,41.991786,-87.722704
+79,W Glenlake Ave,N Lawndale Ave,41.991786,-87.721387
+80,W Glenlake Ave,N Monticello Ave,41.991786,-87.720215
+81,W Glenlake Ave,N Central Park Ave,41.991786,-87.718849
+82,W Glenlake Ave,N St Louis Ave,41.991786,-87.716468
+83,W Glenlake Ave,N Bernard St,41.991786,-87.715138
+84,W Glenlake Ave,N Kimball Ave,41.991786,-87.713929
+85,W Glenlake Ave,N Christiana Ave,41.991786,-87.712963
+86,W Glenlake Ave,N Kedzie Ave,41.991786,-87.709578
+87,W Glenlake Ave,N Troy St,41.991786,-87.708128
+88,W Glenlake Ave,N Albany Ave,41.991786,-87.706919
+89,W Glenlake Ave,N Whipple St,41.991786,-87.705711
+90,W Glenlake Ave,N Sacramento Ave,41.991786,-87.704502
+91,W Glenlake Ave,N Richmond St,41.991786,-87.702205
+92,W Glenlake Ave,N Francisco Ave,41.991786,-87.701722
+93,W Glenlake Ave,N Mozart St,41.991786,-87.700695
+94,W Glenlake Ave,N California Ave,41.991786,-87.699546
+95,W Glenlake Ave,N Fairfield Ave,41.991786,-87.698459
+96,W Glenlake Ave,N Washtenaw Ave,41.991786,-87.697129
+97,W Glenlake Ave,N Talman Ave,41.991786,-87.69592
+98,W Glenlake Ave,N Rockwell St,41.991786,-87.694712
+99,W Glenlake Ave,N Maplewood Ave,41.991786,-87.693745
+100,W Glenlake Ave,N Campbell Ave,41.991786,-87.69169
+101,W Glenlake Ave,N Artesian Ave,41.991786,-87.691086
+102,W Glenlake Ave,N Western Ave,41.991786,-87.689877
+103,W Glenlake Ave,N Leavit St,41.991786,-87.686009
+104,W Glenlake Ave,N Hoyne Ave,41.991786,-87.685405
+105,W Peterson Ave,N Pulaski Rd,41.989848,-87.728917
+106,W Peterson Ave,N Springfield Ave,41.989848,-87.726318
+107,W Peterson Ave,N Avers Ave,41.989848,-87.725194
+108,W Peterson Ave,N Hamlin Ave,41.989848,-87.723901
+109,W Peterson Ave,N Ridgeway Ave,41.989848,-87.722705
+110,W Peterson Ave,N Lawndale Ave,41.989848,-87.721387
+111,W Peterson Ave,N Monticello Ave,41.989848,-87.720215
+112,W Peterson Ave,N Central Park Ave,41.989848,-87.718849
+113,W Peterson Ave,N St Louis Ave,41.989848,-87.716468
+114,W Peterson Ave,N Bernard St,41.989848,-87.715139
+115,W Peterson Ave,N Kimball Ave,41.989848,-87.71393
+116,W Peterson Ave,N Christiana Ave,41.989848,-87.712963
+117,W Peterson Ave,N Kedzie Ave,41.989848,-87.709579
+118,W Peterson Ave,N Troy St,41.989848,-87.708129
+119,W Peterson Ave,N Albany Ave,41.989848,-87.70692
+120,W Peterson Ave,N Whipple St,41.989848,-87.705711
+121,W Peterson Ave,N Sacramento Ave,41.989848,-87.704503
+122,W Peterson Ave,N Richmond St,41.989848,-87.702206
+123,W Peterson Ave,N Francisco Ave,41.989848,-87.701723
+124,W Peterson Ave,N Mozart St,41.989848,-87.700695
+125,W Peterson Ave,N California Ave,41.989848,-87.699547
+126,W Peterson Ave,N Fairfield Ave,41.989848,-87.698459
+127,W Peterson Ave,N Washtenaw Ave,41.989848,-87.69713
+128,W Peterson Ave,N Talman Ave,41.989848,-87.695921
+129,W Peterson Ave,N Rockwell St,41.989848,-87.694713
+130,W Peterson Ave,N Maplewood Ave,41.989848,-87.693746
+131,W Peterson Ave,N Campbell Ave,41.989848,-87.691691
+132,W Peterson Ave,N Artesian Ave,41.989848,-87.691087
+133,W Peterson Ave,N Western Ave,41.989848,-87.689878
+134,W Peterson Ave,N Leavit St,41.989848,-87.686011
+135,W Peterson Ave,N Hoyne Ave,41.989848,-87.685406
+136,W Thorndale Ave,N Hamlin Ave,41.988145,-87.723901
+137,W Thorndale Ave,N Ridgeway Ave,41.988145,-87.722705
+138,W Thorndale Ave,N Lawndale Ave,41.988145,-87.721387
+139,W Thorndale Ave,N Monticello Ave,41.988145,-87.720215
+140,W Thorndale Ave,N Central Park Ave,41.988145,-87.718849
+141,W Thorndale Ave,N St Louis Ave,41.988145,-87.716468
+142,W Thorndale Ave,N Bernard St,41.988145,-87.715139
+143,W Thorndale Ave,N Kimball Ave,41.988145,-87.71393
+144,W Thorndale Ave,N Christiana Ave,41.988145,-87.712963
+145,W Thorndale Ave,N Kedzie Ave,41.988145,-87.709579
+146,W Thorndale Ave,N Troy St,41.988145,-87.708129
+147,W Thorndale Ave,N Albany Ave,41.988145,-87.70692
+148,W Thorndale Ave,N Whipple St,41.988145,-87.705712
+149,W Thorndale Ave,N Sacramento Ave,41.988145,-87.704503
+150,W Thorndale Ave,N Richmond St,41.988145,-87.702207
+151,W Thorndale Ave,N Francisco Ave,41.988145,-87.701723
+152,W Thorndale Ave,N Mozart St,41.988145,-87.700696
+153,W Thorndale Ave,N California Ave,41.988145,-87.699548
+154,W Thorndale Ave,N Fairfield Ave,41.988145,-87.69846
+155,W Thorndale Ave,N Washtenaw Ave,41.988145,-87.697131
+156,W Thorndale Ave,N Talman Ave,41.988145,-87.695922
+157,W Thorndale Ave,N Rockwell St,41.988145,-87.694714
+158,W Thorndale Ave,N Maplewood Ave,41.988145,-87.693747
+159,W Thorndale Ave,N Campbell Ave,41.988145,-87.691692
+160,W Thorndale Ave,N Artesian Ave,41.988145,-87.691088
+161,W Thorndale Ave,N Western Ave,41.988145,-87.689879
+162,W Thorndale Ave,N Leavit St,41.988145,-87.686012
+163,W Thorndale Ave,N Hoyne Ave,41.988145,-87.685407
+164,W Thorndale Ave,N Damen Ave,41.988145,-87.683232
+165,W Thorndale Ave,N Whichester Ave,41.988145,-87.682144
+166,W Thorndale Ave,N Wolcott Ave,41.988145,-87.681056
+167,W Thorndale Ave,N Felicidad2 Ave,41.988145,-87.678398
+168,W Andmore Ave,N Springfield Ave,41.986432,-87.726319
+169,W Andmore Ave,N Avers Ave,41.986432,-87.725195
+170,W Andmore Ave,N Hamlin Ave,41.986432,-87.723901
+171,W Andmore Ave,N Ridgeway Ave,41.986432,-87.722705
+172,W Andmore Ave,N Lawndale Ave,41.986432,-87.721388
+173,W Andmore Ave,N Monticello Ave,41.986432,-87.720215
+174,W Andmore Ave,N Central Park Ave,41.986432,-87.71885
+175,W Andmore Ave,N St Louis Ave,41.986432,-87.716469
+176,W Andmore Ave,N Bernard St,41.986432,-87.715139
+177,W Andmore Ave,N Kimball Ave,41.986432,-87.713931
+178,W Andmore Ave,N Christiana Ave,41.986432,-87.712964
+179,W Andmore Ave,N Kedzie Ave,41.986432,-87.70958
+180,W Andmore Ave,N Troy St,41.986432,-87.70813
+181,W Andmore Ave,N Albany Ave,41.986432,-87.706921
+182,W Andmore Ave,N Whipple St,41.986432,-87.705712
+183,W Andmore Ave,N Sacramento Ave,41.986432,-87.704504
+184,W Andmore Ave,N Richmond St,41.986432,-87.702208
+185,W Andmore Ave,N Francisco Ave,41.986432,-87.701724
+186,W Andmore Ave,N Mozart St,41.986432,-87.700697
+187,W Andmore Ave,N California Ave,41.986432,-87.699549
+188,W Andmore Ave,N Fairfield Ave,41.986432,-87.698461
+189,W Andmore Ave,N Washtenaw Ave,41.986432,-87.697132
+190,W Andmore Ave,N Talman Ave,41.986432,-87.695923
+191,W Andmore Ave,N Rockwell St,41.986432,-87.694715
+192,W Andmore Ave,N Maplewood Ave,41.986432,-87.693748
+193,W Andmore Ave,N Campbell Ave,41.986432,-87.691693
+194,W Andmore Ave,N Artesian Ave,41.986432,-87.691089
+195,W Andmore Ave,N Western Ave,41.986432,-87.68988
+196,W Andmore Ave,N Claremont Ave,41.986432,-87.688672
+197,W Andmore Ave,N Leavit St,41.986432,-87.686013
+198,W Andmore Ave,N Hoyne Ave,41.986432,-87.685409
+199,W Andmore Ave,N Damen Ave,41.986432,-87.683233
+200,W Andmore Ave,N Whichester Ave,41.986432,-87.682145
+201,W Andmore Ave,N Wolcott Ave,41.986432,-87.681058
+202,W Andmore Ave,N Felicidad2 Ave,41.986432,-87.678399
+203,W Edgewater Ave,N Springfield Ave,41.985261,-87.726319
+204,W Edgewater Ave,N Avers Ave,41.985261,-87.725195
+205,W Edgewater Ave,N Hamlin Ave,41.985261,-87.723902
+206,W Edgewater Ave,N Ridgeway Ave,41.985261,-87.722705
+207,W Edgewater Ave,N Lawndale Ave,41.985261,-87.721388
+208,W Edgewater Ave,N Monticello Ave,41.985261,-87.720215
+209,W Edgewater Ave,N Central Park Ave,41.985261,-87.71885
+210,W Hollywood Ave,N Central Park Ave,41.98454,-87.71885
+211,W Hollywood Ave,N St Louis Ave,41.98454,-87.716469
+212,W Hollywood Ave,N Bernard St,41.98454,-87.71514
+213,W Hollywood Ave,N Kimball Ave,41.98454,-87.713931
+214,W Hollywood Ave,N Christiana Ave,41.98454,-87.712964
+215,W Hollywood Ave,N Kedzie Ave,41.98454,-87.70958
+216,W Hollywood Ave,N Troy St,41.98454,-87.70813
+217,W Hollywood Ave,N Albany Ave,41.98454,-87.706922
+218,W Hollywood Ave,N Whipple St,41.98454,-87.705713
+219,W Hollywood Ave,N Sacramento Ave,41.98454,-87.704505
+220,W Hollywood Ave,N Richmond St,41.98454,-87.702208
+221,W Hollywood Ave,N Francisco Ave,41.98454,-87.701725
+222,W Hollywood Ave,N Mozart St,41.98454,-87.700698
+223,W Hollywood Ave,N California Ave,41.98454,-87.69955
+224,W Hollywood Ave,N Fairfield Ave,41.98454,-87.698462
+225,W Hollywood Ave,N Washtenaw Ave,41.98454,-87.697133
+226,W Hollywood Ave,N Talman Ave,41.98454,-87.695924
+227,W Hollywood Ave,N Rockwell St,41.98454,-87.694716
+228,W Hollywood Ave,N Maplewood Ave,41.98454,-87.693749
+229,W Hollywood Ave,N Campbell Ave,41.98454,-87.691694
+230,W Hollywood Ave,N Artesian Ave,41.98454,-87.69109
+231,W Hollywood Ave,N Western Ave,41.98454,-87.689881
+232,W Hollywood Ave,N Claremont Ave,41.98454,-87.688673
+233,W Hollywood Ave,N Leavit St,41.98454,-87.686014
+234,W Hollywood Ave,N Hoyne Ave,41.98454,-87.68541
+235,W Hollywood Ave,N Damen Ave,41.98454,-87.683234
+236,W Hollywood Ave,N Whichester Ave,41.98454,-87.682147
+237,W Hollywood Ave,N Wolcott Ave,41.98454,-87.681059
+238,W Hollywood Ave,N Felicidad2 Ave,41.98454,-87.6784
+239,W Olive Ave,N Lawndale Ave,41.983188,-87.721388
+240,W Olive Ave,N Monticello Ave,41.983188,-87.720216
+241,W Olive Ave,N Central Park Ave,41.983188,-87.71885
+242,W Olive Ave,N St Louis Ave,41.983188,-87.716469
+243,W Olive Ave,N Bernard St,41.983188,-87.71514
+244,W Olive Ave,N Kimball Ave,41.983188,-87.713932
+245,W Olive Ave,N Christiana Ave,41.983188,-87.712965
+246,W Bryn Mawr Ave,N Pulaski Rd,41.982557,-87.728917
+247,W Bryn Mawr Ave,N Springfield Ave,41.982557,-87.726319
+248,W Bryn Mawr Ave,N Avers Ave,41.982557,-87.725195
+249,W Bryn Mawr Ave,N Hamlin Ave,41.982557,-87.723902
+250,W Bryn Mawr Ave,N Ridgeway Ave,41.982557,-87.722705
+251,W Bryn Mawr Ave,N Lawndale Ave,41.982557,-87.721388
+252,W Bryn Mawr Ave,N Monticello Ave,41.982557,-87.720216
+253,W Bryn Mawr Ave,N Central Park Ave,41.982557,-87.71885
+254,W Bryn Mawr Ave,N St Louis Ave,41.982557,-87.71647
+255,W Bryn Mawr Ave,N Bernard St,41.982557,-87.71514
+256,W Bryn Mawr Ave,N Kimball Ave,41.982557,-87.713932
+257,W Bryn Mawr Ave,N Christiana Ave,41.982557,-87.712965
+258,W Bryn Mawr Ave,N Kedzie Ave,41.982557,-87.709581
+259,W Bryn Mawr Ave,N Troy St,41.982557,-87.708131
+260,W Bryn Mawr Ave,N Albany Ave,41.982557,-87.706922
+261,W Bryn Mawr Ave,N Whipple St,41.982557,-87.705714
+262,W Bryn Mawr Ave,N Sacramento Ave,41.982557,-87.704505
+263,W Bryn Mawr Ave,N Richmond St,41.982557,-87.702209
+264,W Bryn Mawr Ave,N Francisco Ave,41.982557,-87.701726
+265,W Bryn Mawr Ave,N Mozart St,41.982557,-87.700699
+266,W Bryn Mawr Ave,N California Ave,41.982557,-87.699551
+267,W Bryn Mawr Ave,N Fairfield Ave,41.982557,-87.698463
+268,W Bryn Mawr Ave,N Washtenaw Ave,41.982557,-87.697134
+269,W Bryn Mawr Ave,N Talman Ave,41.982557,-87.695925
+270,W Bryn Mawr Ave,N Rockwell St,41.982557,-87.694717
+271,W Bryn Mawr Ave,N Maplewood Ave,41.982557,-87.69375
+272,W Bryn Mawr Ave,N Campbell Ave,41.982557,-87.691695
+273,W Bryn Mawr Ave,N Artesian Ave,41.982557,-87.691091
+274,W Bryn Mawr Ave,N Western Ave,41.982557,-87.689883
+275,W Bryn Mawr Ave,N Claremont Ave,41.982557,-87.688674
+276,W Bryn Mawr Ave,N Oakley Ave,41.982557,-87.687466
+277,W Bryn Mawr Ave,N Leavit St,41.982557,-87.686015
+278,W Bryn Mawr Ave,N Hoyne Ave,41.982557,-87.685411
+279,W Bryn Mawr Ave,N Damen Ave,41.982557,-87.683236
+280,W Bryn Mawr Ave,N Whichester Ave,41.982557,-87.682148
+281,W Bryn Mawr Ave,N Wolcott Ave,41.982557,-87.681061
+282,W Bryn Mawr Ave,N Felicidad2 Ave,41.982557,-87.678402
+283,W Gregory St,N St Louis Ave,41.981836,-87.71647
+284,W Gregory St,N Bernard St,41.981836,-87.71514
+285,W Gregory St,N Kimball Ave,41.981836,-87.713932
+286,W Gregory St,N Christiana Ave,41.981836,-87.712965
+287,W Gregory St,N Kedzie Ave,41.981836,-87.709581
+288,W Gregory St,N Troy St,41.981836,-87.708131
+289,W Gregory St,N Albany Ave,41.981836,-87.706923
+290,W Gregory St,N Whipple St,41.981836,-87.705714
+291,W Gregory St,N Sacramento Ave,41.981836,-87.704506
+292,W Gregory St,N Richmond St,41.981836,-87.70221
+293,W Gregory St,N Francisco Ave,41.981836,-87.701726
+294,W Gregory St,N Mozart St,41.981836,-87.700699
+295,W Gregory St,N California Ave,41.981836,-87.699551
+296,W Gregory St,N Fairfield Ave,41.981836,-87.698463
+297,W Gregory St,N Washtenaw Ave,41.981836,-87.697134
+298,W Gregory St,N Talman Ave,41.981836,-87.695925
+299,W Gregory St,N Rockwell St,41.981836,-87.694717
+300,W Gregory St,N Maplewood Ave,41.981836,-87.69375
+301,W Gregory St,N Campbell Ave,41.981836,-87.691696
+302,W Gregory St,N Artesian Ave,41.981836,-87.691092
+303,W Gregory St,N Western Ave,41.981836,-87.689883
+304,W Gregory St,N Claremont Ave,41.981836,-87.688675
+305,W Gregory St,N Oakley Ave,41.981836,-87.687466
+306,W Gregory St,N Leavit St,41.981836,-87.686016
+307,W Gregory St,N Hoyne Ave,41.981836,-87.685412
+308,W Gregory St,N Damen Ave,41.981836,-87.683236
+309,W Gregory St,N Whichester Ave,41.981836,-87.682149
+310,W Gregory St,N Wolcott Ave,41.981836,-87.681061
+311,W Gregory St,N Felicidad2 Ave,41.981836,-87.678403
+312,W Catalpa Ave,N St Louis Ave,41.981025,-87.71647
+313,W Catalpa Ave,N Bernard St,41.981025,-87.71514
+314,W Catalpa Ave,N Kimball Ave,41.981025,-87.713932
+315,W Catalpa Ave,N Christiana Ave,41.981025,-87.712965
+316,W Catalpa Ave,N Kedzie Ave,41.981025,-87.709582
+317,W Catalpa Ave,N Troy St,41.981025,-87.708131
+318,W Catalpa Ave,N Albany Ave,41.981025,-87.706923
+319,W Catalpa Ave,N Whipple St,41.981025,-87.705714
+320,W Catalpa Ave,N Sacramento Ave,41.981025,-87.704506
+321,W Catalpa Ave,N Richmond St,41.981025,-87.70221
+322,W Catalpa Ave,N Francisco Ave,41.981025,-87.701727
+323,W Catalpa Ave,N Mozart St,41.981025,-87.700699
+324,W Catalpa Ave,N California Ave,41.981025,-87.699551
+325,W Catalpa Ave,N Fairfield Ave,41.981025,-87.698464
+326,W Catalpa Ave,N Washtenaw Ave,41.981025,-87.697134
+327,W Catalpa Ave,N Talman Ave,41.981025,-87.695926
+328,W Catalpa Ave,N Rockwell St,41.981025,-87.694717
+329,W Catalpa Ave,N Maplewood Ave,41.981025,-87.693751
+330,W Catalpa Ave,N Campbell Ave,41.981025,-87.691696
+331,W Catalpa Ave,N Artesian Ave,41.981025,-87.691092
+332,W Catalpa Ave,N Western Ave,41.981025,-87.689884
+333,W Catalpa Ave,N Claremont Ave,41.981025,-87.688675
+334,W Catalpa Ave,N Oakley Ave,41.981025,-87.687467
+335,W Catalpa Ave,N Leavit St,41.981025,-87.686016
+336,W Catalpa Ave,N Hoyne Ave,41.981025,-87.685412
+337,W Catalpa Ave,N Seeley Ave,41.981025,-87.684566
+338,W Catalpa Ave,N Damen Ave,41.981025,-87.683237
+339,W Catalpa Ave,N Whichester Ave,41.981025,-87.682149
+340,W Catalpa Ave,N Wolcott Ave,41.981025,-87.681062
+341,W Catalpa Ave,N Ravenswood Ave,41.981025,-87.680337
+342,W Catalpa Ave,N Felicidad Ave,41.981025,-87.679612
+343,W Catalpa Ave,N Felicidad2 Ave,41.981025,-87.678403
+344,W Balmoral Ave,N Bernard St,41.979222,-87.715141
+345,W Balmoral Ave,N Kimball Ave,41.979222,-87.713932
+346,W Balmoral Ave,N Christiana Ave,41.979222,-87.712966
+347,W Balmoral Ave,N Kedzie Ave,41.979222,-87.709582
+348,W Balmoral Ave,N Troy St,41.979222,-87.708132
+349,W Balmoral Ave,N Albany Ave,41.979222,-87.706924
+350,W Balmoral Ave,N Whipple St,41.979222,-87.705715
+351,W Balmoral Ave,N Sacramento Ave,41.979222,-87.704507
+352,W Balmoral Ave,N Richmond St,41.979222,-87.702211
+353,W Balmoral Ave,N Francisco Ave,41.979222,-87.701727
+354,W Balmoral Ave,N Mozart St,41.979222,-87.7007
+355,W Balmoral Ave,N California Ave,41.979222,-87.699552
+356,W Balmoral Ave,N Fairfield Ave,41.979222,-87.698465
+357,W Balmoral Ave,N Washtenaw Ave,41.979222,-87.697135
+358,W Balmoral Ave,N Talman Ave,41.979222,-87.695927
+359,W Balmoral Ave,N Rockwell St,41.979222,-87.694718
+360,W Balmoral Ave,N Maplewood Ave,41.979222,-87.693752
+361,W Balmoral Ave,N Campbell Ave,41.979222,-87.691697
+362,W Balmoral Ave,N Artesian Ave,41.979222,-87.691093
+363,W Balmoral Ave,N Western Ave,41.979222,-87.689885
+364,W Balmoral Ave,N Claremont Ave,41.979222,-87.688676
+365,W Balmoral Ave,N Oakley Ave,41.979222,-87.687468
+366,W Balmoral Ave,N Leavit St,41.979222,-87.686018
+367,W Balmoral Ave,N Hoyne Ave,41.979222,-87.685413
+368,W Balmoral Ave,N Seeley Ave,41.979222,-87.684568
+369,W Balmoral Ave,N Damen Ave,41.979222,-87.683238
+370,W Balmoral Ave,N Whichester Ave,41.979222,-87.682151
+371,W Balmoral Ave,N Wolcott Ave,41.979222,-87.681063
+372,W Balmoral Ave,N Ravenswood Ave,41.979222,-87.680338
+373,W Balmoral Ave,N Felicidad Ave,41.979222,-87.679613
+374,W Balmoral Ave,N Felicidad2 Ave,41.979222,-87.678405
+375,W Summerdale Ave,N Richmond St,41.97796,-87.702211
+376,W Summerdale Ave,N Francisco Ave,41.97796,-87.701728
+377,W Summerdale Ave,N Mozart St,41.97796,-87.700701
+378,W Summerdale Ave,N California Ave,41.97796,-87.699553
+379,W Summerdale Ave,N Fairfield Ave,41.97796,-87.698465
+380,W Summerdale Ave,N Washtenaw Ave,41.97796,-87.697136
+381,W Summerdale Ave,N Talman Ave,41.97796,-87.695927
+382,W Summerdale Ave,N Rockwell St,41.97796,-87.694719
+383,W Summerdale Ave,N Maplewood Ave,41.97796,-87.693752
+384,W Summerdale Ave,N Campbell Ave,41.97796,-87.691698
+385,W Summerdale Ave,N Artesian Ave,41.97796,-87.691094
+386,W Summerdale Ave,N Western Ave,41.97796,-87.689885
+387,W Summerdale Ave,N Claremont Ave,41.97796,-87.688677
+388,W Summerdale Ave,N Oakley Ave,41.97796,-87.687469
+389,W Summerdale Ave,N Leavit St,41.97796,-87.686019
+390,W Summerdale Ave,N Hoyne Ave,41.97796,-87.685414
+391,W Summerdale Ave,N Seeley Ave,41.97796,-87.684568
+392,W Summerdale Ave,N Damen Ave,41.97796,-87.683239
+393,W Summerdale Ave,N Whichester Ave,41.97796,-87.682152
+394,W Summerdale Ave,N Wolcott Ave,41.97796,-87.681064
+395,W Summerdale Ave,N Ravenswood Ave,41.97796,-87.680339
+396,W Summerdale Ave,N Felicidad Ave,41.97796,-87.679614
+397,W Summerdale Ave,N Felicidad2 Ave,41.97796,-87.678406
+398,W Berwyn Ave,N Bernard St,41.977239,-87.715141
+399,W Berwyn Ave,N Kimball Ave,41.977239,-87.713933
+400,W Berwyn Ave,N Christiana Ave,41.977239,-87.712966
+401,W Berwyn Ave,N Kedzie Ave,41.977239,-87.709583
+402,W Berwyn Ave,N Troy St,41.977239,-87.708133
+403,W Berwyn Ave,N Albany Ave,41.977239,-87.706924
+404,W Berwyn Ave,N Whipple St,41.977239,-87.705716
+405,W Berwyn Ave,N Sacramento Ave,41.977239,-87.704507
+406,W Berwyn Ave,N Richmond St,41.977239,-87.702212
+407,W Berwyn Ave,N Francisco Ave,41.977239,-87.701728
+408,W Berwyn Ave,N Mozart St,41.977239,-87.700701
+409,W Berwyn Ave,N California Ave,41.977239,-87.699553
+410,W Berwyn Ave,N Fairfield Ave,41.977239,-87.698465
+411,W Berwyn Ave,N Washtenaw Ave,41.977239,-87.697136
+412,W Berwyn Ave,N Talman Ave,41.977239,-87.695928
+413,W Berwyn Ave,N Rockwell St,41.977239,-87.694719
+414,W Berwyn Ave,N Maplewood Ave,41.977239,-87.693753
+415,W Berwyn Ave,N Campbell Ave,41.977239,-87.691698
+416,W Berwyn Ave,N Artesian Ave,41.977239,-87.691094
+417,W Berwyn Ave,N Western Ave,41.977239,-87.689886
+418,W Berwyn Ave,N Claremont Ave,41.977239,-87.688678
+419,W Berwyn Ave,N Oakley Ave,41.977239,-87.687469
+420,W Berwyn Ave,N Leavit St,41.977239,-87.686019
+421,W Berwyn Ave,N Hoyne Ave,41.977239,-87.685415
+422,W Berwyn Ave,N Seeley Ave,41.977239,-87.684569
+423,W Berwyn Ave,N Damen Ave,41.977239,-87.68324
+424,W Berwyn Ave,N Whichester Ave,41.977239,-87.682152
+425,W Berwyn Ave,N Wolcott Ave,41.977239,-87.681065
+426,W Berwyn Ave,N Ravenswood Ave,41.977239,-87.68034
+427,W Berwyn Ave,N Felicidad Ave,41.977239,-87.679615
+428,W Berwyn Ave,N Felicidad2 Ave,41.977239,-87.678406
+429,W Farragut Ave,N Richmond St,41.976428,-87.702212
+430,W Farragut Ave,N Francisco Ave,41.976428,-87.701728
+431,W Farragut Ave,N Mozart St,41.976428,-87.700701
+432,W Farragut Ave,N California Ave,41.976428,-87.699553
+433,W Farragut Ave,N Fairfield Ave,41.976428,-87.698466
+434,W Farragut Ave,N Washtenaw Ave,41.976428,-87.697137
+435,W Farragut Ave,N Talman Ave,41.976428,-87.695928
+436,W Farragut Ave,N Rockwell St,41.976428,-87.69472
+437,W Farragut Ave,N Maplewood Ave,41.976428,-87.693753
+438,W Farragut Ave,N Campbell Ave,41.976428,-87.691699
+439,W Farragut Ave,N Artesian Ave,41.976428,-87.691095
+440,W Farragut Ave,N Western Ave,41.976428,-87.689886
+441,W Farragut Ave,N Claremont Ave,41.976428,-87.688678
+442,W Farragut Ave,N Oakley Ave,41.976428,-87.68747
+443,W Farragut Ave,N Leavit St,41.976428,-87.68602
+444,W Farragut Ave,N Hoyne Ave,41.976428,-87.685415
+445,W Farragut Ave,N Seeley Ave,41.976428,-87.68457
+446,W Farragut Ave,N Damen Ave,41.976428,-87.68324
+447,W Farragut Ave,N Whichester Ave,41.976428,-87.682153
+448,W Farragut Ave,N Wolcott Ave,41.976428,-87.681065
+449,W Farragut Ave,N Ravenswood Ave,41.976428,-87.68034
+450,W Farragut Ave,N Felicidad Ave,41.976428,-87.679615
+451,W Farragut Ave,N Felicidad2 Ave,41.976428,-87.678407
+452,W Foster Ave,N Pulaski Rd,41.975797,-87.728917
+453,W Foster Ave,N Springfield Ave,41.975797,-87.726319
+454,W Foster Ave,N Avers Ave,41.975797,-87.725195
+455,W Foster Ave,N Hamlin Ave,41.975797,-87.723902
+456,W Foster Ave,N Ridgeway Ave,41.975797,-87.722706
+457,W Foster Ave,N Lawndale Ave,41.975797,-87.721389
+458,W Foster Ave,N Monticello Ave,41.975797,-87.720217
+459,W Foster Ave,N Central Park Ave,41.975797,-87.718851
+460,W Foster Ave,N St Louis Ave,41.975797,-87.716471
+461,W Foster Ave,N Bernard St,41.975797,-87.715142
+462,W Foster Ave,N Kimball Ave,41.975797,-87.713933
+463,W Foster Ave,N Christiana Ave,41.975797,-87.712967
+464,W Foster Ave,N Kedzie Ave,41.975797,-87.709583
+465,W Foster Ave,N Troy St,41.975797,-87.708133
+466,W Foster Ave,N Albany Ave,41.975797,-87.706925
+467,W Foster Ave,N Whipple St,41.975797,-87.705716
+468,W Foster Ave,N Sacramento Ave,41.975797,-87.704508
+469,W Foster Ave,N Richmond St,41.975797,-87.702212
+470,W Foster Ave,N Francisco Ave,41.975797,-87.701729
+471,W Foster Ave,N Mozart St,41.975797,-87.700702
+472,W Foster Ave,N California Ave,41.975797,-87.699554
+473,W Foster Ave,N Fairfield Ave,41.975797,-87.698466
+474,W Foster Ave,N Washtenaw Ave,41.975797,-87.697137
+475,W Foster Ave,N Talman Ave,41.975797,-87.695929
+476,W Foster Ave,N Rockwell St,41.975797,-87.69472
+477,W Foster Ave,N Maplewood Ave,41.975797,-87.693754
+478,W Foster Ave,N Campbell Ave,41.975797,-87.691699
+479,W Foster Ave,N Artesian Ave,41.975797,-87.691095
+480,W Foster Ave,N Western Ave,41.975797,-87.689887
+481,W Foster Ave,N Claremont Ave,41.975797,-87.688678
+482,W Foster Ave,N Oakley Ave,41.975797,-87.68747
+483,W Foster Ave,N Leavit St,41.975797,-87.68602
+484,W Foster Ave,N Hoyne Ave,41.975797,-87.685416
+485,W Foster Ave,N Seeley Ave,41.975797,-87.68457
+486,W Foster Ave,N Damen Ave,41.975797,-87.683241
+487,W Foster Ave,N Whichester Ave,41.975797,-87.682153
+488,W Foster Ave,N Wolcott Ave,41.975797,-87.681066
+489,W Foster Ave,N Ravenswood Ave,41.975797,-87.680341
+490,W Foster Ave,N Felicidad Ave,41.975797,-87.679616
+491,W Foster Ave,N Felicidad2 Ave,41.975797,-87.678407
+492,W Carmen Ave,N Springfield Ave,41.975076,-87.726319
+493,W Carmen Ave,N Avers Ave,41.975076,-87.725195
+494,W Carmen Ave,N Hamlin Ave,41.975076,-87.723902
+495,W Carmen Ave,N Ridgeway Ave,41.975076,-87.722706
+496,W Carmen Ave,N Lawndale Ave,41.975076,-87.721389
+497,W Carmen Ave,N Monticello Ave,41.975076,-87.720217
+498,W Carmen Ave,N Central Park Ave,41.975076,-87.718851
+499,W Carmen Ave,N St Louis Ave,41.975076,-87.716471
+500,W Carmen Ave,N Bernard St,41.975076,-87.715142
+501,W Carmen Ave,N Kimball Ave,41.975076,-87.713933
+502,W Carmen Ave,N Christiana Ave,41.975076,-87.712967
+503,W Carmen Ave,N Kedzie Ave,41.975076,-87.709583
+504,W Carmen Ave,N Troy St,41.975076,-87.708133
+505,W Carmen Ave,N Albany Ave,41.975076,-87.706925
+506,W Carmen Ave,N Whipple St,41.975076,-87.705717
+507,W Carmen Ave,N Sacramento Ave,41.975076,-87.704508
+508,W Carmen Ave,N Richmond St,41.975076,-87.702212
+509,W Carmen Ave,N Francisco Ave,41.975076,-87.701729
+510,W Carmen Ave,N Mozart St,41.975076,-87.700702
+511,W Carmen Ave,N California Ave,41.975076,-87.699554
+512,W Carmen Ave,N Fairfield Ave,41.975076,-87.698467
+513,W Carmen Ave,N Washtenaw Ave,41.975076,-87.697137
+514,W Carmen Ave,N Talman Ave,41.975076,-87.695929
+515,W Carmen Ave,N Rockwell St,41.975076,-87.694721
+516,W Carmen Ave,N Maplewood Ave,41.975076,-87.693754
+517,W Carmen Ave,N Campbell Ave,41.975076,-87.6917
+518,W Carmen Ave,N Artesian Ave,41.975076,-87.691096
+519,W Carmen Ave,N Western Ave,41.975076,-87.689887
+520,W Carmen Ave,N Claremont Ave,41.975076,-87.688679
+521,W Carmen Ave,N Oakley Ave,41.975076,-87.687471
+522,W Carmen Ave,N Leavit St,41.975076,-87.68602
+523,W Carmen Ave,N Hoyne Ave,41.975076,-87.685416
+524,W Carmen Ave,N Seeley Ave,41.975076,-87.68457
+525,W Carmen Ave,N Damen Ave,41.975076,-87.683241
+526,W Carmen Ave,N Whichester Ave,41.975076,-87.682154
+527,W Carmen Ave,N Wolcott Ave,41.975076,-87.681066
+528,W Carmen Ave,N Ravenswood Ave,41.975076,-87.680341
+529,W Carmen Ave,N Felicidad Ave,41.975076,-87.679616
+530,W Carmen Ave,N Felicidad2 Ave,41.975076,-87.678408
+531,W Argyle St,N Pulaski Rd,41.971741,-87.728917
+532,W Argyle St,N Springfield Ave,41.971741,-87.726319
+533,W Argyle St,N Avers Ave,41.971741,-87.725195
+534,W Argyle St,N Hamlin Ave,41.971741,-87.723903
+535,W Argyle St,N Ridgeway Ave,41.971741,-87.722706
+536,W Argyle St,N Lawndale Ave,41.971741,-87.721389
+537,W Argyle St,N Monticello Ave,41.971741,-87.720217
+538,W Argyle St,N Central Park Ave,41.971741,-87.718852
+539,W Argyle St,N St Louis Ave,41.971741,-87.716472
+540,W Argyle St,N Bernard St,41.971741,-87.715143
+541,W Argyle St,N Kimball Ave,41.971741,-87.713934
+542,W Argyle St,N Christiana Ave,41.971741,-87.712968
+543,W Argyle St,N Kedzie Ave,41.971741,-87.709584
+544,W Argyle St,N Troy St,41.971741,-87.708134
+545,W Argyle St,N Albany Ave,41.971741,-87.706926
+546,W Argyle St,N Whipple St,41.971741,-87.705718
+547,W Argyle St,N Sacramento Ave,41.971741,-87.70451
+548,W Argyle St,N Richmond St,41.971741,-87.702214
+549,W Argyle St,N Francisco Ave,41.971741,-87.70173
+550,W Argyle St,N Mozart St,41.971741,-87.700703
+551,W Argyle St,N California Ave,41.971741,-87.699556
+552,W Argyle St,N Fairfield Ave,41.971741,-87.698468
+553,W Argyle St,N Washtenaw Ave,41.971741,-87.697139
+554,W Argyle St,N Talman Ave,41.971741,-87.695931
+555,W Argyle St,N Rockwell St,41.971741,-87.694722
+556,W Argyle St,N Maplewood Ave,41.971741,-87.693756
+557,W Argyle St,N Campbell Ave,41.971741,-87.691702
+558,W Argyle St,N Artesian Ave,41.971741,-87.691098
+559,W Argyle St,N Western Ave,41.971741,-87.689889
+560,W Argyle St,N Claremont Ave,41.971741,-87.688681
+561,W Argyle St,N Oakley Ave,41.971741,-87.687473
+562,W Argyle St,N Bell Ave,41.971741,-87.686627
+563,W Argyle St,N Leavit St,41.971741,-87.686023
+564,W Argyle St,N Hoyne Ave,41.971741,-87.685419
+565,W Argyle St,N Seeley Ave,41.971741,-87.684573
+566,W Argyle St,N Damen Ave,41.971741,-87.683244
+567,W Argyle St,N Whichester Ave,41.971741,-87.682156
+568,W Argyle St,N Wolcott Ave,41.971741,-87.681069
+569,W Argyle St,N Ravenswood Ave,41.971741,-87.680344
+570,W Argyle St,N Felicidad Ave,41.971741,-87.679619
+571,W Argyle St,N Felicidad2 Ave,41.971741,-87.678411
+572,W Strong St,N Pulaski Rd,41.97084,-87.728917
+573,W Strong St,N Springfield Ave,41.97084,-87.726319
+574,W Ainslie St,N Pulaski Rd,41.970119,-87.728917
+575,W Ainslie St,N Springfield Ave,41.970119,-87.726319
+576,W Ainslie St,N Avers Ave,41.970119,-87.725196
+577,W Ainslie St,N Hamlin Ave,41.970119,-87.723903
+578,W Ainslie St,N Ridgeway Ave,41.970119,-87.722707
+579,W Ainslie St,N Lawndale Ave,41.970119,-87.72139
+580,W Ainslie St,N Monticello Ave,41.970119,-87.720218
+581,W Ainslie St,N Central Park Ave,41.970119,-87.718852
+582,W Ainslie St,N St Louis Ave,41.970119,-87.716472
+583,W Ainslie St,N Bernard St,41.970119,-87.715143
+584,W Ainslie St,N Kimball Ave,41.970119,-87.713935
+585,W Ainslie St,N Christiana Ave,41.970119,-87.712968
+586,W Ainslie St,N Kedzie Ave,41.970119,-87.709585
+587,W Ainslie St,N Troy St,41.970119,-87.708135
+588,W Ainslie St,N Albany Ave,41.970119,-87.706927
+589,W Ainslie St,N Whipple St,41.970119,-87.705718
+590,W Ainslie St,N Sacramento Ave,41.970119,-87.70451
+591,W Ainslie St,N Richmond St,41.970119,-87.702214
+592,W Ainslie St,N Francisco Ave,41.970119,-87.701731
+593,W Ainslie St,N Mozart St,41.970119,-87.700704
+594,W Ainslie St,N California Ave,41.970119,-87.699556
+595,W Ainslie St,N Fairfield Ave,41.970119,-87.698469
+596,W Ainslie St,N Washtenaw Ave,41.970119,-87.69714
+597,W Ainslie St,N Talman Ave,41.970119,-87.695932
+598,W Ainslie St,N Rockwell St,41.970119,-87.694723
+599,W Ainslie St,N Maplewood Ave,41.970119,-87.693757
+600,W Ainslie St,N Campbell Ave,41.970119,-87.691703
+601,W Ainslie St,N Artesian Ave,41.970119,-87.691099
+602,W Ainslie St,N Western Ave,41.970119,-87.68989
+603,W Ainslie St,N Claremont Ave,41.970119,-87.688682
+604,W Ainslie St,N Oakley Ave,41.970119,-87.687474
+605,W Ainslie St,N Bell Ave,41.970119,-87.686628
+606,W Ainslie St,N Leavit St,41.970119,-87.686024
+607,W Ainslie St,N Hoyne Ave,41.970119,-87.68542
+608,W Ainslie St,N Seeley Ave,41.970119,-87.684574
+609,W Ainslie St,N Damen Ave,41.970119,-87.683245
+610,W Ainslie St,N Whichester Ave,41.970119,-87.682157
+611,W Ainslie St,N Wolcott Ave,41.970119,-87.68107
+612,W Ainslie St,N Ravenswood Ave,41.970119,-87.680345
+613,W Ainslie St,N Felicidad Ave,41.970119,-87.67962
+614,W Ainslie St,N Felicidad2 Ave,41.970119,-87.678412
+615,W Gunninson St,N Whipple St,41.969488,-87.705719
+616,W Gunninson St,N Sacramento Ave,41.969488,-87.70451
+617,W Gunninson St,N Richmond St,41.969488,-87.702215
+618,W Gunninson St,N Francisco Ave,41.969488,-87.701731
+619,W Gunninson St,N Mozart St,41.969488,-87.700704
+620,W Gunninson St,N California Ave,41.969488,-87.699557
+621,W Gunninson St,N Fairfield Ave,41.969488,-87.698469
+622,W Gunninson St,N Washtenaw Ave,41.969488,-87.69714
+623,W Gunninson St,N Talman Ave,41.969488,-87.695932
+624,W Gunninson St,N Rockwell St,41.969488,-87.694724
+625,W Gunninson St,N Maplewood Ave,41.969488,-87.693757
+626,W Gunninson St,N Campbell Ave,41.969488,-87.691703
+627,W Gunninson St,N Artesian Ave,41.969488,-87.691099
+628,W Gunninson St,N Western Ave,41.969488,-87.689891
+629,W Lawrence Ave,N Pulaski Rd,41.968857,-87.728917
+630,W Lawrence Ave,N Springfield Ave,41.968857,-87.726319
+631,W Lawrence Ave,N Avers Ave,41.968857,-87.725196
+632,W Lawrence Ave,N Hamlin Ave,41.968857,-87.723903
+633,W Lawrence Ave,N Ridgeway Ave,41.968857,-87.722707
+634,W Lawrence Ave,N Lawndale Ave,41.968857,-87.72139
+635,W Lawrence Ave,N Monticello Ave,41.968857,-87.720218
+636,W Lawrence Ave,N Central Park Ave,41.968857,-87.718852
+637,W Lawrence Ave,N St Louis Ave,41.968857,-87.716472
+638,W Lawrence Ave,N Bernard St,41.968857,-87.715143
+639,W Lawrence Ave,N Kimball Ave,41.968857,-87.713935
+640,W Lawrence Ave,N Christiana Ave,41.968857,-87.712968
+641,W Lawrence Ave,N Kedzie Ave,41.968857,-87.709585
+642,W Lawrence Ave,N Troy St,41.968857,-87.708135
+643,W Lawrence Ave,N Albany Ave,41.968857,-87.706927
+644,W Lawrence Ave,N Whipple St,41.968857,-87.705719
+645,W Lawrence Ave,N Sacramento Ave,41.968857,-87.704511
+646,W Lawrence Ave,N Richmond St,41.968857,-87.702215
+647,W Lawrence Ave,N Francisco Ave,41.968857,-87.701732
+648,W Lawrence Ave,N Mozart St,41.968857,-87.700705
+649,W Lawrence Ave,N California Ave,41.968857,-87.699557
+650,W Lawrence Ave,N Fairfield Ave,41.968857,-87.698469
+651,W Lawrence Ave,N Washtenaw Ave,41.968857,-87.69714
+652,W Lawrence Ave,N Talman Ave,41.968857,-87.695932
+653,W Lawrence Ave,N Rockwell St,41.968857,-87.694724
+654,W Lawrence Ave,N Maplewood Ave,41.968857,-87.693757
+655,W Lawrence Ave,N Campbell Ave,41.968857,-87.691703
+656,W Lawrence Ave,N Artesian Ave,41.968857,-87.691099
+657,W Lawrence Ave,N Western Ave,41.968857,-87.689891
+658,W Lawrence Ave,N Claremont Ave,41.968857,-87.688683
+659,W Lawrence Ave,N Oakley Ave,41.968857,-87.687475
+660,W Lawrence Ave,N Bell Ave,41.968857,-87.686629
+661,W Lawrence Ave,N Leavit St,41.968857,-87.686025
+662,W Lawrence Ave,N Hoyne Ave,41.968857,-87.685421
+663,W Lawrence Ave,N Seeley Ave,41.968857,-87.684575
+664,W Lawrence Ave,N Damen Ave,41.968857,-87.683246
+665,W Lawrence Ave,N Whichester Ave,41.968857,-87.682158
+666,W Lawrence Ave,N Wolcott Ave,41.968857,-87.681071
+667,W Lawrence Ave,N Ravenswood Ave,41.968857,-87.680346
+668,W Lawrence Ave,N Felicidad Ave,41.968857,-87.679621
+669,W Lawrence Ave,N Felicidad2 Ave,41.968857,-87.678413
+670,W Giddings St,N Avers Ave,41.968046,-87.725196
+671,W Giddings St,N Hamlin Ave,41.968046,-87.723903
+672,W Giddings St,N Ridgeway Ave,41.968046,-87.722707
+673,W Giddings St,N Lawndale Ave,41.968046,-87.72139
+674,W Giddings St,N Monticello Ave,41.968046,-87.720218
+675,W Giddings St,N Central Park Ave,41.968046,-87.718853
+676,W Giddings St,N St Louis Ave,41.968046,-87.716472
+677,W Giddings St,N Bernard St,41.968046,-87.715143
+678,W Giddings St,N Kimball Ave,41.968046,-87.713935
+679,W Giddings St,N Christiana Ave,41.968046,-87.712969
+680,W Giddings St,N Kedzie Ave,41.968046,-87.709585
+681,W Giddings St,N Troy St,41.968046,-87.708136
+682,W Giddings St,N Albany Ave,41.968046,-87.706927
+683,W Giddings St,N Whipple St,41.968046,-87.705719
+684,W Giddings St,N Sacramento Ave,41.968046,-87.704511
+685,W Giddings St,N Richmond St,41.968046,-87.702215
+686,W Giddings St,N Francisco Ave,41.968046,-87.701732
+687,W Giddings St,N Mozart St,41.968046,-87.700705
+688,W Giddings St,N California Ave,41.968046,-87.699557
+689,W Giddings St,N Fairfield Ave,41.968046,-87.69847
+690,W Giddings St,N Washtenaw Ave,41.968046,-87.697141
+691,W Giddings St,N Talman Ave,41.968046,-87.695933
+692,W Giddings St,N Rockwell St,41.968046,-87.694724
+693,W Giddings St,N Maplewood Ave,41.968046,-87.693758
+694,W Giddings St,N Campbell Ave,41.968046,-87.691704
+695,W Giddings St,N Artesian Ave,41.968046,-87.6911
+696,W Giddings St,N Western Ave,41.968046,-87.689892
+697,W Giddings St,N Claremont Ave,41.968046,-87.688683
+698,W Giddings St,N Oakley Ave,41.968046,-87.687475
+699,W Giddings St,N Bell Ave,41.968046,-87.686629
+700,W Giddings St,N Leavit St,41.968046,-87.686025
+701,W Giddings St,N Hoyne Ave,41.968046,-87.685421
+702,W Giddings St,N Seeley Ave,41.968046,-87.684575
+703,W Giddings St,N Damen Ave,41.968046,-87.683246
+704,W Giddings St,N Whichester Ave,41.968046,-87.682159
+705,W Giddings St,N Wolcott Ave,41.968046,-87.681072
+706,W Giddings St,N Ravenswood Ave,41.968046,-87.680347
+707,W Leland Ave,N Pulaski Rd,41.967595,-87.728917
+708,W Leland Ave,N Springfield Ave,41.967595,-87.726319
+709,W Leland Ave,N Avers Ave,41.967595,-87.725196
+710,W Leland Ave,N Hamlin Ave,41.967595,-87.723903
+711,W Leland Ave,N Ridgeway Ave,41.967595,-87.722707
+712,W Leland Ave,N Lawndale Ave,41.967595,-87.72139
+713,W Leland Ave,N Monticello Ave,41.967595,-87.720218
+714,W Leland Ave,N Central Park Ave,41.967595,-87.718853
+715,W Leland Ave,N St Louis Ave,41.967595,-87.716472
+716,W Leland Ave,N Bernard St,41.967595,-87.715143
+717,W Leland Ave,N Kimball Ave,41.967595,-87.713935
+718,W Leland Ave,N Christiana Ave,41.967595,-87.712969
+719,W Leland Ave,N Kedzie Ave,41.967595,-87.709586
+720,W Leland Ave,N Troy St,41.967595,-87.708136
+721,W Leland Ave,N Albany Ave,41.967595,-87.706928
+722,W Leland Ave,N Whipple St,41.967595,-87.705719
+723,W Leland Ave,N Sacramento Ave,41.967595,-87.704511
+724,W Leland Ave,N Richmond St,41.967595,-87.702216
+725,W Leland Ave,N Francisco Ave,41.967595,-87.701732
+726,W Leland Ave,N Mozart St,41.967595,-87.700705
+727,W Leland Ave,N California Ave,41.967595,-87.699557
+728,W Leland Ave,N Fairfield Ave,41.967595,-87.69847
+729,W Leland Ave,N Washtenaw Ave,41.967595,-87.697141
+730,W Leland Ave,N Talman Ave,41.967595,-87.695933
+731,W Leland Ave,N Rockwell St,41.967595,-87.694725
+732,W Leland Ave,N Maplewood Ave,41.967595,-87.693758
+733,W Leland Ave,N Campbell Ave,41.967595,-87.691704
+734,W Leland Ave,N Artesian Ave,41.967595,-87.6911
+735,W Leland Ave,N Western Ave,41.967595,-87.689892
+736,W Leland Ave,N Claremont Ave,41.967595,-87.688684
+737,W Leland Ave,N Oakley Ave,41.967595,-87.687475
+738,W Leland Ave,N Bell Ave,41.967595,-87.68663
+739,W Leland Ave,N Leavit St,41.967595,-87.686026
+740,W Leland Ave,N Hoyne Ave,41.967595,-87.685421
+741,W Leland Ave,N Seeley Ave,41.967595,-87.684576
+742,W Leland Ave,N Damen Ave,41.967595,-87.683247
+743,W Leland Ave,N Whichester Ave,41.967595,-87.682159
+744,W Leland Ave,N Wolcott Ave,41.967595,-87.681072
+745,W Leland Ave,N Ravenswood Ave,41.967595,-87.680347
+746,W Leland Ave,N Felicidad Ave,41.967595,-87.679622
+747,W Leland Ave,N Felicidad2 Ave,41.967595,-87.678414
+748,W Wilson Ave,N Springfield Ave,41.966964,-87.726319
+749,W Wilson Ave,N Avers Ave,41.966964,-87.725196
+750,W Wilson Ave,N Hamlin Ave,41.966964,-87.723903
+751,W Wilson Ave,N Ridgeway Ave,41.966964,-87.722707
+752,W Wilson Ave,N Lawndale Ave,41.966964,-87.72139
+753,W Wilson Ave,N Monticello Ave,41.966964,-87.720218
+754,W Wilson Ave,N Central Park Ave,41.966964,-87.718853
+755,W Wilson Ave,N St Louis Ave,41.966964,-87.716473
+756,W Wilson Ave,N Bernard St,41.966964,-87.715144
+757,W Wilson Ave,N Kimball Ave,41.966964,-87.713935
+758,W Wilson Ave,N Christiana Ave,41.966964,-87.712969
+759,W Wilson Ave,N Kedzie Ave,41.966964,-87.709586
+760,W Wilson Ave,N Troy St,41.966964,-87.708136
+761,W Wilson Ave,N Albany Ave,41.966964,-87.706928
+762,W Wilson Ave,N Whipple St,41.966964,-87.70572
+763,W Wilson Ave,N Sacramento Ave,41.966964,-87.704511
+764,W Wilson Ave,N Richmond St,41.966964,-87.702216
+765,W Wilson Ave,N Francisco Ave,41.966964,-87.701733
+766,W Wilson Ave,N Mozart St,41.966964,-87.700706
+767,W Wilson Ave,N California Ave,41.966964,-87.699558
+768,W Wilson Ave,N Fairfield Ave,41.966964,-87.69847
+769,W Wilson Ave,N Washtenaw Ave,41.966964,-87.697141
+770,W Wilson Ave,N Talman Ave,41.966964,-87.695933
+771,W Wilson Ave,N Rockwell St,41.966964,-87.694725
+772,W Wilson Ave,N Maplewood Ave,41.966964,-87.693758
+773,W Wilson Ave,N Campbell Ave,41.966964,-87.691704
+774,W Wilson Ave,N Artesian Ave,41.966964,-87.6911
+775,W Wilson Ave,N Western Ave,41.966964,-87.689892
+776,W Wilson Ave,N Claremont Ave,41.966964,-87.688684
+777,W Wilson Ave,N Oakley Ave,41.966964,-87.687476
+778,W Wilson Ave,N Bell Ave,41.966964,-87.68663
+779,W Wilson Ave,N Leavit St,41.966964,-87.686026
+780,W Wilson Ave,N Hoyne Ave,41.966964,-87.685422
+781,W Wilson Ave,N Seeley Ave,41.966964,-87.684576
+782,W Wilson Ave,N Damen Ave,41.966964,-87.683247
+783,W Wilson Ave,N Whichester Ave,41.966964,-87.68216
+784,W Wilson Ave,N Wolcott Ave,41.966964,-87.681072
+785,W Wilson Ave,N Ravenswood Ave,41.966964,-87.680347
+786,W Wilson Ave,N Felicidad Ave,41.966964,-87.679623
+787,W Wilson Ave,N Felicidad2 Ave,41.966964,-87.678414
+788,W Sunnyside Ave,N Pulaski Rd,41.966153,-87.728917
+789,W Sunnyside Ave,N Springfield Ave,41.966153,-87.726319
+790,W Sunnyside Ave,N Avers Ave,41.966153,-87.725196
+791,W Sunnyside Ave,N Hamlin Ave,41.966153,-87.723903
+792,W Sunnyside Ave,N Ridgeway Ave,41.966153,-87.722707
+793,W Sunnyside Ave,N Lawndale Ave,41.966153,-87.72139
+794,W Sunnyside Ave,N Monticello Ave,41.966153,-87.720218
+795,W Sunnyside Ave,N Central Park Ave,41.966153,-87.718853
+796,W Sunnyside Ave,N St Louis Ave,41.966153,-87.716473
+797,W Sunnyside Ave,N Bernard St,41.966153,-87.715144
+798,W Sunnyside Ave,N Kimball Ave,41.966153,-87.713936
+799,W Sunnyside Ave,N Christiana Ave,41.966153,-87.712969
+800,W Sunnyside Ave,N Kedzie Ave,41.966153,-87.709586
+801,W Sunnyside Ave,N Troy St,41.966153,-87.708136
+802,W Sunnyside Ave,N Albany Ave,41.966153,-87.706928
+803,W Sunnyside Ave,N Whipple St,41.966153,-87.70572
+804,W Sunnyside Ave,N Sacramento Ave,41.966153,-87.704512
+805,W Sunnyside Ave,N Richmond St,41.966153,-87.702216
+806,W Sunnyside Ave,N Francisco Ave,41.966153,-87.701733
+807,W Sunnyside Ave,N Mozart St,41.966153,-87.700706
+808,W Sunnyside Ave,N California Ave,41.966153,-87.699558
+809,W Sunnyside Ave,N Fairfield Ave,41.966153,-87.698471
+810,W Sunnyside Ave,N Washtenaw Ave,41.966153,-87.697142
+811,W Sunnyside Ave,N Talman Ave,41.966153,-87.695934
+812,W Sunnyside Ave,N Rockwell St,41.966153,-87.694725
+813,W Sunnyside Ave,N Maplewood Ave,41.966153,-87.693759
+814,W Sunnyside Ave,N Campbell Ave,41.966153,-87.691705
+815,W Sunnyside Ave,N Artesian Ave,41.966153,-87.691101
+816,W Sunnyside Ave,N Western Ave,41.966153,-87.689893
+817,W Sunnyside Ave,N Claremont Ave,41.966153,-87.688685
+818,W Sunnyside Ave,N Oakley Ave,41.966153,-87.687476
+819,W Sunnyside Ave,N Bell Ave,41.966153,-87.686631
+820,W Sunnyside Ave,N Leavit St,41.966153,-87.686027
+821,W Sunnyside Ave,N Hoyne Ave,41.966153,-87.685422
+822,W Sunnyside Ave,N Seeley Ave,41.966153,-87.684577
+823,W Sunnyside Ave,N Damen Ave,41.966153,-87.683248
+824,W Sunnyside Ave,N Whichester Ave,41.966153,-87.68216
+825,W Sunnyside Ave,N Wolcott Ave,41.966153,-87.681073
+826,W Sunnyside Ave,N Ravenswood Ave,41.966153,-87.680348
+827,W Sunnyside Ave,N Felicidad Ave,41.966153,-87.679623
+828,W Sunnyside Ave,N Felicidad2 Ave,41.966153,-87.678415
+829,W Montrose Ave,N Pulaski Rd,41.965162,-87.728917
+830,W Montrose Ave,N Springfield Ave,41.965162,-87.726319
+831,W Montrose Ave,N Avers Ave,41.965162,-87.725196
+832,W Montrose Ave,N Hamlin Ave,41.965162,-87.723903
+833,W Montrose Ave,N Ridgeway Ave,41.965162,-87.722707
+834,W Montrose Ave,N Lawndale Ave,41.965162,-87.72139
+835,W Montrose Ave,N Monticello Ave,41.965162,-87.720218
+836,W Montrose Ave,N Central Park Ave,41.965162,-87.718853
+837,W Montrose Ave,N St Louis Ave,41.965162,-87.716473
+838,W Montrose Ave,N Bernard St,41.965162,-87.715144
+839,W Montrose Ave,N Kimball Ave,41.965162,-87.713936
+840,W Montrose Ave,N Christiana Ave,41.965162,-87.712969
+841,W Montrose Ave,N Kedzie Ave,41.965162,-87.709586
+842,W Montrose Ave,N Troy St,41.965162,-87.708137
+843,W Montrose Ave,N Albany Ave,41.965162,-87.706928
+844,W Montrose Ave,N Whipple St,41.965162,-87.70572
+845,W Montrose Ave,N Sacramento Ave,41.965162,-87.704512
+846,W Montrose Ave,N Richmond St,41.965162,-87.702217
+847,W Montrose Ave,N Francisco Ave,41.965162,-87.701733
+848,W Montrose Ave,N Mozart St,41.965162,-87.700706
+849,W Montrose Ave,N California Ave,41.965162,-87.699559
+850,W Montrose Ave,N Fairfield Ave,41.965162,-87.698471
+851,W Montrose Ave,N Washtenaw Ave,41.965162,-87.697142
+852,W Montrose Ave,N Talman Ave,41.965162,-87.695934
+853,W Montrose Ave,N Rockwell St,41.965162,-87.694726
+854,W Montrose Ave,N Maplewood Ave,41.965162,-87.693759
+855,W Montrose Ave,N Campbell Ave,41.965162,-87.691706
+856,W Montrose Ave,N Artesian Ave,41.965162,-87.691101
+857,W Montrose Ave,N Western Ave,41.965162,-87.689893
+858,W Montrose Ave,N Claremont Ave,41.965162,-87.688685
+859,W Montrose Ave,N Oakley Ave,41.965162,-87.687477
+860,W Montrose Ave,N Bell Ave,41.965162,-87.686631
+861,W Montrose Ave,N Leavit St,41.965162,-87.686027
+862,W Montrose Ave,N Hoyne Ave,41.965162,-87.685423
+863,W Montrose Ave,N Seeley Ave,41.965162,-87.684577
+864,W Montrose Ave,N Damen Ave,41.965162,-87.683248
+865,W Montrose Ave,N Whichester Ave,41.965162,-87.682161
+866,W Montrose Ave,N Wolcott Ave,41.965162,-87.681074
+867,W Montrose Ave,N Ravenswood Ave,41.965162,-87.680349
+868,W Montrose Ave,N Felicidad Ave,41.965162,-87.679624
+869,W Montrose Ave,N Felicidad2 Ave,41.965162,-87.678416
+870,W Cullom Ave,N Springfield Ave,41.964711,-87.726319
+871,W Cullom Ave,N Avers Ave,41.964711,-87.725196
+872,W Cullom Ave,N Hamlin Ave,41.964711,-87.723903
+873,W Cullom Ave,N Ridgeway Ave,41.964711,-87.722707
+874,W Cullom Ave,N Lawndale Ave,41.964711,-87.72139
+875,W Cullom Ave,N Monticello Ave,41.964711,-87.720218
+876,W Cullom Ave,N Central Park Ave,41.964711,-87.718853
+877,W Cullom Ave,N St Louis Ave,41.964711,-87.716473
+878,W Cullom Ave,N Bernard St,41.964711,-87.715144
+879,W Cullom Ave,N Kimball Ave,41.964711,-87.713936
+880,W Cullom Ave,N Christiana Ave,41.964711,-87.712969
+881,W Cullom Ave,N Kedzie Ave,41.964711,-87.709587
+882,W Cullom Ave,N Troy St,41.964711,-87.708137
+883,W Cullom Ave,N Albany Ave,41.964711,-87.706929
+884,W Cullom Ave,N Whipple St,41.964711,-87.70572
+885,W Cullom Ave,N Sacramento Ave,41.964711,-87.704512
+886,W Cullom Ave,N Richmond St,41.964711,-87.702217
+887,W Cullom Ave,N Francisco Ave,41.964711,-87.701733
+888,W Cullom Ave,N Mozart St,41.964711,-87.700707
+889,W Cullom Ave,N California Ave,41.964711,-87.699559
+890,W Cullom Ave,N Fairfield Ave,41.964711,-87.698471
+891,W Cullom Ave,N Washtenaw Ave,41.964711,-87.697143
+892,W Cullom Ave,N Talman Ave,41.964711,-87.695934
+893,W Cullom Ave,N Rockwell St,41.964711,-87.694726
+894,W Cullom Ave,N Maplewood Ave,41.964711,-87.69376
+895,W Cullom Ave,N Campbell Ave,41.964711,-87.691706
+896,W Cullom Ave,N Artesian Ave,41.964711,-87.691102
+897,W Cullom Ave,N Western Ave,41.964711,-87.689894
+898,W Cullom Ave,N Claremont Ave,41.964711,-87.688685
+899,W Cullom Ave,N Oakley Ave,41.964711,-87.687477
+900,W Cullom Ave,N Bell Ave,41.964711,-87.686632
+901,W Cullom Ave,N Leavit St,41.964711,-87.686027
+902,W Cullom Ave,N Hoyne Ave,41.964711,-87.685423
+903,W Cullom Ave,N Seeley Ave,41.964711,-87.684578
+904,W Cullom Ave,N Damen Ave,41.964711,-87.683249
+905,W Cullom Ave,N Whichester Ave,41.964711,-87.682161
+906,W Cullom Ave,N Wolcott Ave,41.964711,-87.681074
+907,W Cullom Ave,N Ravenswood Ave,41.964711,-87.680349
+908,W Cullom Ave,N Felicidad Ave,41.964711,-87.679624
+909,W Cullom Ave,N Felicidad2 Ave,41.964711,-87.678416
+910,W Bertau Ave,N Lawndale Ave,41.96408,-87.72139
+911,W Bertau Ave,N Monticello Ave,41.96408,-87.720218
+912,W Bertau Ave,N Central Park Ave,41.96408,-87.718853
+913,W Bertau Ave,N St Louis Ave,41.96408,-87.716473
+914,W Bertau Ave,N Bernard St,41.96408,-87.715144
+915,W Bertau Ave,N Kimball Ave,41.96408,-87.713936
+916,W Bertau Ave,N Christiana Ave,41.96408,-87.71297
+917,W Bertau Ave,N Kedzie Ave,41.96408,-87.709587
+918,W Bertau Ave,N Troy St,41.96408,-87.708137
+919,W Bertau Ave,N Albany Ave,41.96408,-87.706929
+920,W Bertau Ave,N Whipple St,41.96408,-87.705721
+921,W Bertau Ave,N Sacramento Ave,41.96408,-87.704512
+922,W Bertau Ave,N Richmond St,41.96408,-87.702217
+923,W Bertau Ave,N Francisco Ave,41.96408,-87.701734
+924,W Bertau Ave,N Mozart St,41.96408,-87.700707
+925,W Bertau Ave,N California Ave,41.96408,-87.699559
+926,W Bertau Ave,N Fairfield Ave,41.96408,-87.698472
+927,W Bertau Ave,N Washtenaw Ave,41.96408,-87.697143
+928,W Bertau Ave,N Talman Ave,41.96408,-87.695935
+929,W Bertau Ave,N Rockwell St,41.96408,-87.694727
+930,W Bertau Ave,N Maplewood Ave,41.96408,-87.69376
+931,W Bertau Ave,N Campbell Ave,41.96408,-87.691706
+932,W Bertau Ave,N Artesian Ave,41.96408,-87.691102
+933,W Bertau Ave,N Western Ave,41.96408,-87.689894
+934,W Bertau Ave,N Claremont Ave,41.96408,-87.688686
+935,W Bertau Ave,N Oakley Ave,41.96408,-87.687478
+936,W Bertau Ave,N Bell Ave,41.96408,-87.686632
+937,W Bertau Ave,N Leavit St,41.96408,-87.686028
+938,W Bertau Ave,N Hoyne Ave,41.96408,-87.685424
+939,W Bertau Ave,N Seeley Ave,41.96408,-87.684578
+940,W Bertau Ave,N Damen Ave,41.96408,-87.683249
+941,W Bertau Ave,N Whichester Ave,41.96408,-87.682162
+942,W Bertau Ave,N Wolcott Ave,41.96408,-87.681075
+943,W Bertau Ave,N Ravenswood Ave,41.96408,-87.68035
+944,W Bertau Ave,N Felicidad Ave,41.96408,-87.679625
+945,W Bertau Ave,N Felicidad2 Ave,41.96408,-87.678417
+946,W Belle Plaine Ave,N Pulaski Rd,41.963359,-87.728917
+947,W Belle Plaine Ave,N Springfield Ave,41.963359,-87.72632
+948,W Belle Plaine Ave,N Avers Ave,41.963359,-87.725196
+949,W Belle Plaine Ave,N Hamlin Ave,41.963359,-87.723903
+950,W Belle Plaine Ave,N Ridgeway Ave,41.963359,-87.722707
+951,W Belle Plaine Ave,N Lawndale Ave,41.963359,-87.72139
+952,W Belle Plaine Ave,N Monticello Ave,41.963359,-87.720218
+953,W Belle Plaine Ave,N Central Park Ave,41.963359,-87.718853
+954,W Belle Plaine Ave,N St Louis Ave,41.963359,-87.716473
+955,W Belle Plaine Ave,N Bernard St,41.963359,-87.715144
+956,W Belle Plaine Ave,N Kimball Ave,41.963359,-87.713936
+957,W Belle Plaine Ave,N Christiana Ave,41.963359,-87.71297
+958,W Belle Plaine Ave,N Kedzie Ave,41.963359,-87.709587
+959,W Belle Plaine Ave,N Troy St,41.963359,-87.708137
+960,W Belle Plaine Ave,N Albany Ave,41.963359,-87.706929
+961,W Belle Plaine Ave,N Whipple St,41.963359,-87.705721
+962,W Belle Plaine Ave,N Sacramento Ave,41.963359,-87.704513
+963,W Belle Plaine Ave,N Richmond St,41.963359,-87.702217
+964,W Belle Plaine Ave,N Francisco Ave,41.963359,-87.701734
+965,W Belle Plaine Ave,N Mozart St,41.963359,-87.700707
+966,W Belle Plaine Ave,N California Ave,41.963359,-87.699559
+967,W Belle Plaine Ave,N Fairfield Ave,41.963359,-87.698472
+968,W Belle Plaine Ave,N Washtenaw Ave,41.963359,-87.697143
+969,W Belle Plaine Ave,N Talman Ave,41.963359,-87.695935
+970,W Belle Plaine Ave,N Rockwell St,41.963359,-87.694727
+971,W Belle Plaine Ave,N Maplewood Ave,41.963359,-87.69376
+972,W Belle Plaine Ave,N Campbell Ave,41.963359,-87.691707
+973,W Belle Plaine Ave,N Artesian Ave,41.963359,-87.691103
+974,W Belle Plaine Ave,N Western Ave,41.963359,-87.689894
+975,W Belle Plaine Ave,N Claremont Ave,41.963359,-87.688686
+976,W Belle Plaine Ave,N Oakley Ave,41.963359,-87.687478
+977,W Belle Plaine Ave,N Bell Ave,41.963359,-87.686632
+978,W Belle Plaine Ave,N Leavit St,41.963359,-87.686028
+979,W Belle Plaine Ave,N Hoyne Ave,41.963359,-87.685424
+980,W Belle Plaine Ave,N Seeley Ave,41.963359,-87.684579
+981,W Belle Plaine Ave,N Damen Ave,41.963359,-87.68325
+982,W Belle Plaine Ave,N Whichester Ave,41.963359,-87.682162
+983,W Belle Plaine Ave,N Wolcott Ave,41.963359,-87.681075
+984,W Belle Plaine Ave,N Ravenswood Ave,41.963359,-87.68035
+985,W Belle Plaine Ave,N Felicidad Ave,41.963359,-87.679625
+986,W Belle Plaine Ave,N Felicidad2 Ave,41.963359,-87.678417
+987,W Irving Park Rd,N Pulaski Rd,41.962548,-87.728917
+988,W Irving Park Rd,N Springfield Ave,41.962548,-87.72632
+989,W Irving Park Rd,N Avers Ave,41.962548,-87.725196
+990,W Irving Park Rd,N Hamlin Ave,41.962548,-87.723903
+991,W Irving Park Rd,N Ridgeway Ave,41.962548,-87.722707
+992,W Irving Park Rd,N Lawndale Ave,41.962548,-87.72139
+993,W Irving Park Rd,N Monticello Ave,41.962548,-87.720219
+994,W Irving Park Rd,N Central Park Ave,41.962548,-87.718853
+995,W Irving Park Rd,N St Louis Ave,41.962548,-87.716473
+996,W Irving Park Rd,N Bernard St,41.962548,-87.715144
+997,W Irving Park Rd,N Kimball Ave,41.962548,-87.713936
+998,W Irving Park Rd,N Christiana Ave,41.962548,-87.71297
+999,W Irving Park Rd,N Kedzie Ave,41.962548,-87.709587
+1000,W Irving Park Rd,N Troy St,41.962548,-87.708137
+1001,W Irving Park Rd,N Albany Ave,41.962548,-87.706929
+1002,W Irving Park Rd,N Whipple St,41.962548,-87.705721
+1003,W Irving Park Rd,N Sacramento Ave,41.962548,-87.704513
+1004,W Irving Park Rd,N Richmond St,41.962548,-87.702218
+1005,W Irving Park Rd,N Francisco Ave,41.962548,-87.701734
+1006,W Irving Park Rd,N Mozart St,41.962548,-87.700708
+1007,W Irving Park Rd,N California Ave,41.962548,-87.69956
+1008,W Irving Park Rd,N Fairfield Ave,41.962548,-87.698473
+1009,W Irving Park Rd,N Washtenaw Ave,41.962548,-87.697144
+1010,W Irving Park Rd,N Talman Ave,41.962548,-87.695935
+1011,W Irving Park Rd,N Rockwell St,41.962548,-87.694727
+1012,W Irving Park Rd,N Maplewood Ave,41.962548,-87.693761
+1013,W Irving Park Rd,N Campbell Ave,41.962548,-87.691707
+1014,W Irving Park Rd,N Artesian Ave,41.962548,-87.691103
+1015,W Irving Park Rd,N Western Ave,41.962548,-87.689895
+1016,W Irving Park Rd,N Claremont Ave,41.962548,-87.688687
+1017,W Irving Park Rd,N Oakley Ave,41.962548,-87.687479
+1018,W Irving Park Rd,N Bell Ave,41.962548,-87.686633
+1019,W Irving Park Rd,N Leavit St,41.962548,-87.686029
+1020,W Irving Park Rd,N Hoyne Ave,41.962548,-87.685425
+1021,W Irving Park Rd,N Seeley Ave,41.962548,-87.684579
+1022,W Irving Park Rd,N Damen Ave,41.962548,-87.68325
+1023,W Irving Park Rd,N Whichester Ave,41.962548,-87.682163
+1024,W Irving Park Rd,N Wolcott Ave,41.962548,-87.681076
+1025,W Irving Park Rd,N Ravenswood Ave,41.962548,-87.680351
+1026,W Irving Park Rd,N Felicidad Ave,41.962548,-87.679626
+1027,W Irving Park Rd,N Felicidad2 Ave,41.962548,-87.678418
+1028,W Byron St,N Central Park Ave,41.962097,-87.718853
+1029,W Byron St,N St Louis Ave,41.962097,-87.716474
+1030,W Byron St,N Bernard St,41.962097,-87.715145
+1031,W Byron St,N Kimball Ave,41.962097,-87.713936
+1032,W Byron St,N Christiana Ave,41.962097,-87.71297
+1033,W Byron St,N Kedzie Ave,41.962097,-87.709587
+1034,W Byron St,N Troy St,41.962097,-87.708138
+1035,W Byron St,N Albany Ave,41.962097,-87.706929
+1036,W Byron St,N Whipple St,41.962097,-87.705721
+1037,W Byron St,N Sacramento Ave,41.962097,-87.704513
+1038,W Byron St,N Richmond St,41.962097,-87.702218
+1039,W Byron St,N Francisco Ave,41.962097,-87.701735
+1040,W Byron St,N Mozart St,41.962097,-87.700708
+1041,W Byron St,N California Ave,41.962097,-87.69956
+1042,W Byron St,N Fairfield Ave,41.962097,-87.698473
+1043,W Byron St,N Washtenaw Ave,41.962097,-87.697144
+1044,W Byron St,N Talman Ave,41.962097,-87.695936
+1045,W Byron St,N Rockwell St,41.962097,-87.694728
+1046,W Byron St,N Maplewood Ave,41.962097,-87.693761
+1047,W Byron St,N Campbell Ave,41.962097,-87.691707
+1048,W Byron St,N Artesian Ave,41.962097,-87.691103
+1049,W Byron St,N Western Ave,41.962097,-87.689895
+1050,W Byron St,N Claremont Ave,41.962097,-87.688687
+1051,W Byron St,N Oakley Ave,41.962097,-87.687479
+1052,W Byron St,N Bell Ave,41.962097,-87.686633
+1053,W Byron St,N Leavit St,41.962097,-87.686029
+1054,W Byron St,N Hoyne Ave,41.962097,-87.685425
+1055,W Byron St,N Seeley Ave,41.962097,-87.68458
+1056,W Byron St,N Damen Ave,41.962097,-87.683251
+1057,W Byron St,N Whichester Ave,41.962097,-87.682163
+1058,W Byron St,N Wolcott Ave,41.962097,-87.681076
+1059,W Byron St,N Ravenswood Ave,41.962097,-87.680351
+1060,W Byron St,N Felicidad Ave,41.962097,-87.679626
+1061,W Byron St,N Felicidad2 Ave,41.962097,-87.678418
+1062,W Grace St,N Pulaski Rd,41.961557,-87.728917
+1063,W Grace St,N Springfield Ave,41.961557,-87.72632
+1064,W Grace St,N Avers Ave,41.961557,-87.725196
+1065,W Grace St,N Hamlin Ave,41.961557,-87.723903
+1066,W Grace St,N Ridgeway Ave,41.961557,-87.722707
+1067,W Grace St,N Lawndale Ave,41.961557,-87.721391
+1068,W Grace St,N Monticello Ave,41.961557,-87.720219
+1069,W Grace St,N Central Park Ave,41.961557,-87.718854
+1070,W Grace St,N St Louis Ave,41.961557,-87.716474
+1071,W Grace St,N Bernard St,41.961557,-87.715145
+1072,W Grace St,N Kimball Ave,41.961557,-87.713937
+1073,W Grace St,N Christiana Ave,41.961557,-87.71297
+1074,W Grace St,N Kedzie Ave,41.961557,-87.709587
+1075,W Grace St,N Troy St,41.961557,-87.708138
+1076,W Grace St,N Albany Ave,41.961557,-87.70693
+1077,W Grace St,N Whipple St,41.961557,-87.705722
+1078,W Grace St,N Sacramento Ave,41.961557,-87.704513
+1079,W Grace St,N Richmond St,41.961557,-87.702218
+1080,W Grace St,N Francisco Ave,41.961557,-87.701735
+1081,W Grace St,N Mozart St,41.961557,-87.700708
+1082,W Grace St,N California Ave,41.961557,-87.69956
+1083,W Grace St,N Fairfield Ave,41.961557,-87.698473
+1084,W Grace St,N Washtenaw Ave,41.961557,-87.697144
+1085,W Grace St,N Talman Ave,41.961557,-87.695936
+1086,W Grace St,N Rockwell St,41.961557,-87.694728
+1087,W Grace St,N Maplewood Ave,41.961557,-87.693761
+1088,W Grace St,N Campbell Ave,41.961557,-87.691708
+1089,W Grace St,N Artesian Ave,41.961557,-87.691104
+1090,W Grace St,N Western Ave,41.961557,-87.689896
+1091,W Grace St,N Claremont Ave,41.961557,-87.688687
+1092,W Grace St,N Oakley Ave,41.961557,-87.687479
+1093,W Grace St,N Bell Ave,41.961557,-87.686634
+1094,W Grace St,N Leavit St,41.961557,-87.68603
+1095,W Grace St,N Hoyne Ave,41.961557,-87.685426
+1096,W Grace St,N Seeley Ave,41.961557,-87.68458
+1097,W Grace St,N Damen Ave,41.961557,-87.683251
+1098,W Grace St,N Whichester Ave,41.961557,-87.682164
+1099,W Grace St,N Wolcott Ave,41.961557,-87.681076
+1100,W Grace St,N Ravenswood Ave,41.961557,-87.680352
+1101,W Grace St,N Felicidad Ave,41.961557,-87.679627
+1102,W Grace St,N Felicidad2 Ave,41.961557,-87.678419
+1103,W Weaveland Ave,N Pulaski Rd,41.960385,-87.728917
+1104,W Weaveland Ave,N Springfield Ave,41.960385,-87.72632
+1105,W Weaveland Ave,N Avers Ave,41.960385,-87.725196
+1106,W Weaveland Ave,N Hamlin Ave,41.960385,-87.723903
+1107,W Weaveland Ave,N Ridgeway Ave,41.960385,-87.722708
+1108,W Weaveland Ave,N Lawndale Ave,41.960385,-87.721391
+1109,W Weaveland Ave,N Monticello Ave,41.960385,-87.720219
+1110,W Weaveland Ave,N Central Park Ave,41.960385,-87.718854
+1111,W Weaveland Ave,N St Louis Ave,41.960385,-87.716474
+1112,W Weaveland Ave,N Bernard St,41.960385,-87.715145
+1113,W Weaveland Ave,N Kimball Ave,41.960385,-87.713937
+1114,W Weaveland Ave,N Christiana Ave,41.960385,-87.71297
+1115,W Weaveland Ave,N Kedzie Ave,41.960385,-87.709588
+1116,W Weaveland Ave,N Troy St,41.960385,-87.708138
+1117,W Weaveland Ave,N Albany Ave,41.960385,-87.70693
+1118,W Weaveland Ave,N Whipple St,41.960385,-87.705722
+1119,W Weaveland Ave,N Sacramento Ave,41.960385,-87.704514
+1120,W Weaveland Ave,N Richmond St,41.960385,-87.702219
+1121,W Weaveland Ave,N Francisco Ave,41.960385,-87.701735
+1122,W Weaveland Ave,N Mozart St,41.960385,-87.700708
+1123,W Weaveland Ave,N California Ave,41.960385,-87.699561
+1124,W Weaveland Ave,N Fairfield Ave,41.960385,-87.698474
+1125,W Weaveland Ave,N Washtenaw Ave,41.960385,-87.697145
+1126,W Weaveland Ave,N Talman Ave,41.960385,-87.695937
+1127,W Weaveland Ave,N Rockwell St,41.960385,-87.694729
+1128,W Weaveland Ave,N Maplewood Ave,41.960385,-87.693762
+1129,W Weaveland Ave,N Campbell Ave,41.960385,-87.691708
+1130,W Weaveland Ave,N Artesian Ave,41.960385,-87.691104
+1131,W Weaveland Ave,N Western Ave,41.960385,-87.689896
+1132,W Weaveland Ave,N Claremont Ave,41.960385,-87.688688
+1133,W Weaveland Ave,N Oakley Ave,41.960385,-87.68748
+1134,W Weaveland Ave,N Bell Ave,41.960385,-87.686634
+1135,W Weaveland Ave,N Leavit St,41.960385,-87.68603
+1136,W Weaveland Ave,N Hoyne Ave,41.960385,-87.685426
+1137,W Weaveland Ave,N Seeley Ave,41.960385,-87.684581
+1138,W Weaveland Ave,N Damen Ave,41.960385,-87.683252
+1139,W Weaveland Ave,N Whichester Ave,41.960385,-87.682165
+1140,W Weaveland Ave,N Wolcott Ave,41.960385,-87.681077
+1141,W Weaveland Ave,N Ravenswood Ave,41.960385,-87.680352
+1142,W Weaveland Ave,N Felicidad Ave,41.960385,-87.679628
+1143,W Weaveland Ave,N Felicidad2 Ave,41.960385,-87.67842
+1144,W Addison St,N Pulaski Rd,41.959484,-87.728917
+1145,W Addison St,N Springfield Ave,41.959484,-87.72632
+1146,W Addison St,N Avers Ave,41.959484,-87.725196
+1147,W Addison St,N Hamlin Ave,41.959484,-87.723904
+1148,W Addison St,N Ridgeway Ave,41.959484,-87.722708
+1149,W Addison St,N Lawndale Ave,41.959484,-87.721391
+1150,W Addison St,N Monticello Ave,41.959484,-87.720219
+1151,W Addison St,N Central Park Ave,41.959484,-87.718854
+1152,W Addison St,N St Louis Ave,41.959484,-87.716474
+1153,W Addison St,N Bernard St,41.959484,-87.715145
+1154,W Addison St,N Kimball Ave,41.959484,-87.713937
+1155,W Addison St,N Christiana Ave,41.959484,-87.712971
+1156,W Addison St,N Kedzie Ave,41.959484,-87.709588
+1157,W Addison St,N Troy St,41.959484,-87.708138
+1158,W Addison St,N Albany Ave,41.959484,-87.70693
+1159,W Addison St,N Whipple St,41.959484,-87.705722
+1160,W Addison St,N Sacramento Ave,41.959484,-87.704514
+1161,W Addison St,N Richmond St,41.959484,-87.702219
+1162,W Addison St,N Francisco Ave,41.959484,-87.701736
+1163,W Addison St,N Mozart St,41.959484,-87.700709
+1164,W Addison St,N California Ave,41.959484,-87.699561
+1165,W Addison St,N Fairfield Ave,41.959484,-87.698474
+1166,W Addison St,N Washtenaw Ave,41.959484,-87.697145
+1167,W Addison St,N Talman Ave,41.959484,-87.695937
+1168,W Addison St,N Rockwell St,41.959484,-87.694729
+1169,W Addison St,N Maplewood Ave,41.959484,-87.693763
+1170,W Addison St,N Campbell Ave,41.959484,-87.691709
+1171,W Addison St,N Artesian Ave,41.959484,-87.691105
+1172,W Addison St,N Western Ave,41.959484,-87.689897
+1173,W Addison St,N Claremont Ave,41.959484,-87.688689
+1174,W Addison St,N Oakley Ave,41.959484,-87.687481
+1175,W Addison St,N Bell Ave,41.959484,-87.686635
+1176,W Addison St,N Leavit St,41.959484,-87.686031
+1177,W Addison St,N Hoyne Ave,41.959484,-87.685427
+1178,W Addison St,N Seeley Ave,41.959484,-87.684581
+1179,W Addison St,N Damen Ave,41.959484,-87.683252
+1180,W Addison St,N Whichester Ave,41.959484,-87.682165
+1181,W Addison St,N Wolcott Ave,41.959484,-87.681078
+1182,W Addison St,N Ravenswood Ave,41.959484,-87.680353
+1183,W Addison St,N Felicidad Ave,41.959484,-87.679628
+1184,W Addison St,N Felicidad2 Ave,41.959484,-87.67842
+1185,W Eddy St,N Pulaski Rd,41.958492,-87.728917
+1186,W Eddy St,N Springfield Ave,41.958492,-87.72632
+1187,W Eddy St,N Avers Ave,41.958492,-87.725196
+1188,W Eddy St,N Hamlin Ave,41.958492,-87.723904
+1189,W Eddy St,N Ridgeway Ave,41.958492,-87.722708
+1190,W Eddy St,N Lawndale Ave,41.958492,-87.721391
+1191,W Eddy St,N Monticello Ave,41.958492,-87.720219
+1192,W Eddy St,N Central Park Ave,41.958492,-87.718854
+1193,W Eddy St,N St Louis Ave,41.958492,-87.716474
+1194,W Eddy St,N Bernard St,41.958492,-87.715145
+1195,W Eddy St,N Kimball Ave,41.958492,-87.713937
+1196,W Eddy St,N Christiana Ave,41.958492,-87.712971
+1197,W Eddy St,N Kedzie Ave,41.958492,-87.709588
+1198,W Eddy St,N Troy St,41.958492,-87.708139
+1199,W Eddy St,N Albany Ave,41.958492,-87.706931
+1200,W Eddy St,N Whipple St,41.958492,-87.705723
+1201,W Eddy St,N Sacramento Ave,41.958492,-87.704515
+1202,W Eddy St,N Richmond St,41.958492,-87.702219
+1203,W Eddy St,N Francisco Ave,41.958492,-87.701736
+1204,W Eddy St,N Mozart St,41.958492,-87.700709
+1205,W Eddy St,N California Ave,41.958492,-87.699562
+1206,W Eddy St,N Fairfield Ave,41.958492,-87.698474
+1207,W Eddy St,N Washtenaw Ave,41.958492,-87.697146
+1208,W Eddy St,N Talman Ave,41.958492,-87.695938
+1209,W Eddy St,N Rockwell St,41.958492,-87.69473
+1210,W Eddy St,N Maplewood Ave,41.958492,-87.693763
+1211,W Eddy St,N Campbell Ave,41.958492,-87.691709
+1212,W Eddy St,N Artesian Ave,41.958492,-87.691105
+1213,W Eddy St,N Western Ave,41.958492,-87.689897
+1214,W Eddy St,N Claremont Ave,41.958492,-87.688689
+1215,W Eddy St,N Oakley Ave,41.958492,-87.687481
+1216,W Eddy St,N Bell Ave,41.958492,-87.686636
+1217,W Eddy St,N Leavit St,41.958492,-87.686032
+1218,W Eddy St,N Hoyne Ave,41.958492,-87.685428
+1219,W Eddy St,N Seeley Ave,41.958492,-87.684582
+1220,W Eddy St,N Damen Ave,41.958492,-87.683253
+1221,W Eddy St,N Whichester Ave,41.958492,-87.682166
+1222,W Eddy St,N Wolcott Ave,41.958492,-87.681079
+1223,W Eddy St,N Ravenswood Ave,41.958492,-87.680354
+1224,W Eddy St,N Felicidad Ave,41.958492,-87.679629
+1225,W Eddy St,N Felicidad2 Ave,41.958492,-87.678421
+1226,W Cornella Ave,N St Louis Ave,41.957591,-87.716474
+1227,W Cornella Ave,N Bernard St,41.957591,-87.715146
+1228,W Cornella Ave,N Kimball Ave,41.957591,-87.713938
+1229,W Cornella Ave,N Christiana Ave,41.957591,-87.712971
+1230,W Cornella Ave,N Kedzie Ave,41.957591,-87.709589
+1231,W Cornella Ave,N Troy St,41.957591,-87.708139
+1232,W Cornella Ave,N Albany Ave,41.957591,-87.706931
+1233,W Cornella Ave,N Whipple St,41.957591,-87.705723
+1234,W Cornella Ave,N Sacramento Ave,41.957591,-87.704515
+1235,W Cornella Ave,N Richmond St,41.957591,-87.70222
+1236,W Cornella Ave,N Francisco Ave,41.957591,-87.701737
+1237,W Cornella Ave,N Mozart St,41.957591,-87.70071
+1238,W Cornella Ave,N California Ave,41.957591,-87.699562
+1239,W Cornella Ave,N Fairfield Ave,41.957591,-87.698475
+1240,W Cornella Ave,N Washtenaw Ave,41.957591,-87.697146
+1241,W Cornella Ave,N Talman Ave,41.957591,-87.695938
+1242,W Cornella Ave,N Rockwell St,41.957591,-87.69473
+1243,W Cornella Ave,N Maplewood Ave,41.957591,-87.693764
+1244,W Cornella Ave,N Campbell Ave,41.957591,-87.69171
+1245,W Cornella Ave,N Artesian Ave,41.957591,-87.691106
+1246,W Cornella Ave,N Western Ave,41.957591,-87.689898
+1247,W Cornella Ave,N Claremont Ave,41.957591,-87.68869
+1248,W Cornella Ave,N Oakley Ave,41.957591,-87.687482
+1249,W Cornella Ave,N Bell Ave,41.957591,-87.686636
+1250,W Newport Ave,N St Louis Ave,41.95696,-87.716475
+1251,W Newport Ave,N Bernard St,41.95696,-87.715146
+1252,W Newport Ave,N Kimball Ave,41.95696,-87.713938
+1253,W Newport Ave,N Christiana Ave,41.95696,-87.712971
+1254,W Newport Ave,N Kedzie Ave,41.95696,-87.709589
+1255,W Newport Ave,N Troy St,41.95696,-87.708139
+1256,W Newport Ave,N Albany Ave,41.95696,-87.706931
+1257,W Newport Ave,N Whipple St,41.95696,-87.705723
+1258,W Newport Ave,N Sacramento Ave,41.95696,-87.704515
+1259,W Newport Ave,N Richmond St,41.95696,-87.70222
+1260,W Newport Ave,N Francisco Ave,41.95696,-87.701737
+1261,W Newport Ave,N Mozart St,41.95696,-87.70071
+1262,W Newport Ave,N California Ave,41.95696,-87.699562
+1263,W Newport Ave,N Fairfield Ave,41.95696,-87.698475
+1264,W Newport Ave,N Washtenaw Ave,41.95696,-87.697146
+1265,W Newport Ave,N Talman Ave,41.95696,-87.695938
+1266,W Newport Ave,N Rockwell St,41.95696,-87.69473
+1267,W Newport Ave,N Maplewood Ave,41.95696,-87.693764
+1268,W Roscoe St,N Pulaski Rd,41.956059,-87.728917
+1269,W Roscoe St,N Springfield Ave,41.956059,-87.72632
+1270,W Roscoe St,N Avers Ave,41.956059,-87.725196
+1271,W Roscoe St,N Hamlin Ave,41.956059,-87.723904
+1272,W Roscoe St,N Ridgeway Ave,41.956059,-87.722708
+1273,W Roscoe St,N Lawndale Ave,41.956059,-87.721391
+1274,W Roscoe St,N Monticello Ave,41.956059,-87.720219
+1275,W Roscoe St,N Central Park Ave,41.956059,-87.718854
+1276,W Roscoe St,N St Louis Ave,41.956059,-87.716475
+1277,W Roscoe St,N Bernard St,41.956059,-87.715146
+1278,W Roscoe St,N Kimball Ave,41.956059,-87.713938
+1279,W Roscoe St,N Christiana Ave,41.956059,-87.712972
+1280,W Roscoe St,N Kedzie Ave,41.956059,-87.709589
+1281,W Roscoe St,N Troy St,41.956059,-87.70814
+1282,W Roscoe St,N Albany Ave,41.956059,-87.706932
+1283,W Roscoe St,N Whipple St,41.956059,-87.705724
+1284,W Roscoe St,N Sacramento Ave,41.956059,-87.704516
+1285,W Roscoe St,N Richmond St,41.956059,-87.70222
+1286,W Roscoe St,N Francisco Ave,41.956059,-87.701737
+1287,W Roscoe St,N Mozart St,41.956059,-87.70071
+1288,W Roscoe St,N California Ave,41.956059,-87.699563
+1289,W Roscoe St,N Fairfield Ave,41.956059,-87.698476
+1290,W Roscoe St,N Washtenaw Ave,41.956059,-87.697147
+1291,W Roscoe St,N Talman Ave,41.956059,-87.695939
+1292,W Roscoe St,N Rockwell St,41.956059,-87.694731
+1293,W Roscoe St,N Maplewood Ave,41.956059,-87.693764
+1294,W Roscoe St,N Campbell Ave,41.956059,-87.691711
+1295,W Roscoe St,N Artesian Ave,41.956059,-87.691107
+1296,W Roscoe St,N Western Ave,41.956059,-87.689899
+1297,W Roscoe St,N Claremont Ave,41.956059,-87.688691
+1298,W Roscoe St,N Oakley Ave,41.956059,-87.687483
+1299,W Roscoe St,N Bell Ave,41.956059,-87.686637
+1300,W Roscoe St,N Leavit St,41.956059,-87.686033
+1301,W Roscoe St,N Hoyne Ave,41.956059,-87.685429
+1302,W Roscoe St,N Seeley Ave,41.956059,-87.684584
+1303,W Roscoe St,N Damen Ave,41.956059,-87.683255
+1304,W Roscoe St,N Whichester Ave,41.956059,-87.682168
+1305,W Roscoe St,N Wolcott Ave,41.956059,-87.681081
+1306,W Roscoe St,N Ravenswood Ave,41.956059,-87.680356
+1307,W Roscoe St,N Felicidad Ave,41.956059,-87.679631
+1308,W Roscoe St,N Felicidad2 Ave,41.956059,-87.678423
+1309,W School St,N Pulaski Rd,41.955247,-87.728917
+1310,W School St,N Springfield Ave,41.955247,-87.72632
+1311,W School St,N Avers Ave,41.955247,-87.725196
+1312,W School St,N Hamlin Ave,41.955247,-87.723904
+1313,W School St,N Ridgeway Ave,41.955247,-87.722708
+1314,W School St,N Lawndale Ave,41.955247,-87.721391
+1315,W School St,N Monticello Ave,41.955247,-87.72022
+1316,W School St,N Central Park Ave,41.955247,-87.718855
+1317,W School St,N St Louis Ave,41.955247,-87.716475
+1318,W School St,N Bernard St,41.955247,-87.715146
+1319,W School St,N Kimball Ave,41.955247,-87.713938
+1320,W School St,N Christiana Ave,41.955247,-87.712972
+1321,W School St,N Kedzie Ave,41.955247,-87.709589
+1322,W School St,N Troy St,41.955247,-87.70814
+1323,W School St,N Albany Ave,41.955247,-87.706932
+1324,W School St,N Whipple St,41.955247,-87.705724
+1325,W School St,N Sacramento Ave,41.955247,-87.704516
+1326,W School St,N Richmond St,41.955247,-87.702221
+1327,W School St,N Francisco Ave,41.955247,-87.701738
+1328,W School St,N Mozart St,41.955247,-87.700711
+1329,W School St,N California Ave,41.955247,-87.699563
+1330,W School St,N Fairfield Ave,41.955247,-87.698476
+1331,W School St,N Washtenaw Ave,41.955247,-87.697147
+1332,W School St,N Talman Ave,41.955247,-87.695939
+1333,W School St,N Rockwell St,41.955247,-87.694731
+1334,W School St,N Maplewood Ave,41.955247,-87.693765
+1335,W School St,N Campbell Ave,41.955247,-87.691711
+1336,W School St,N Artesian Ave,41.955247,-87.691107
+1337,W School St,N Western Ave,41.955247,-87.689899
+1338,W School St,N Claremont Ave,41.955247,-87.688691
+1339,W School St,N Oakley Ave,41.955247,-87.687483
+1340,W School St,N Bell Ave,41.955247,-87.686638
+1341,W School St,N Leavit St,41.955247,-87.686034
+1342,W School St,N Hoyne Ave,41.955247,-87.68543
+1343,W School St,N Seeley Ave,41.955247,-87.684584
+1344,W School St,N Damen Ave,41.955247,-87.683255
+1345,W School St,N Whichester Ave,41.955247,-87.682168
+1346,W School St,N Wolcott Ave,41.955247,-87.681081
+1347,W School St,N Ravenswood Ave,41.955247,-87.680356
+1348,W School St,N Felicidad Ave,41.955247,-87.679632
+1349,W School St,N Felicidad2 Ave,41.955247,-87.678424
+1350,W Melrose St,N Bernard St,41.954166,-87.715146
+1351,W Melrose St,N Kimball Ave,41.954166,-87.713938
+1352,W Melrose St,N Christiana Ave,41.954166,-87.712972
+1353,W Melrose St,N Kedzie Ave,41.954166,-87.70959
+1354,W Melrose St,N Troy St,41.954166,-87.70814
+1355,W Melrose St,N Albany Ave,41.954166,-87.706932
+1356,W Melrose St,N Whipple St,41.954166,-87.705724
+1357,W Melrose St,N Sacramento Ave,41.954166,-87.704516
+1358,W Melrose St,N Richmond St,41.954166,-87.702221
+1359,W Melrose St,N Francisco Ave,41.954166,-87.701738
+1360,W Melrose St,N Mozart St,41.954166,-87.700711
+1361,W Melrose St,N California Ave,41.954166,-87.699564
+1362,W Melrose St,N Fairfield Ave,41.954166,-87.698477
+1363,W Melrose St,N Washtenaw Ave,41.954166,-87.697148
+1364,W Melrose St,N Talman Ave,41.954166,-87.69594
+1365,W Melrose St,N Rockwell St,41.954166,-87.694732
+1366,W Melrose St,N Maplewood Ave,41.954166,-87.693765
+1367,W Melrose St,N Campbell Ave,41.954166,-87.691712
+1368,W Melrose St,N Artesian Ave,41.954166,-87.691108
+1369,W Melrose St,N Western Ave,41.954166,-87.6899
+1370,W Melrose St,N Claremont Ave,41.954166,-87.688692
+1371,W Melrose St,N Oakley Ave,41.954166,-87.687484
+1372,W Melrose St,N Bell Ave,41.954166,-87.686639
+1373,W Melrose St,N Leavit St,41.954166,-87.686035
+1374,W Melrose St,N Hoyne Ave,41.954166,-87.685431
+1375,W Melrose St,N Seeley Ave,41.954166,-87.684585
+1376,W Melrose St,N Damen Ave,41.954166,-87.683256
+1377,W Melrose St,N Whichester Ave,41.954166,-87.682169
+1378,W Melrose St,N Wolcott Ave,41.954166,-87.681082
+1379,W Melrose St,N Ravenswood Ave,41.954166,-87.680357
+1380,W Melrose St,N Felicidad Ave,41.954166,-87.679632
+1381,W Melrose St,N Felicidad2 Ave,41.954166,-87.678424
+1382,W Belmont Ave,N Pulaski Rd,41.953535,-87.728917
+1383,W Belmont Ave,N Springfield Ave,41.953535,-87.72632
+1384,W Belmont Ave,N Avers Ave,41.953535,-87.725197
+1385,W Belmont Ave,N Hamlin Ave,41.953535,-87.723904
+1386,W Belmont Ave,N Ridgeway Ave,41.953535,-87.722708
+1387,W Belmont Ave,N Lawndale Ave,41.953535,-87.721392
+1388,W Belmont Ave,N Monticello Ave,41.953535,-87.72022
+1389,W Belmont Ave,N Central Park Ave,41.953535,-87.718855
+1390,W Belmont Ave,N St Louis Ave,41.953535,-87.716475
+1391,W Belmont Ave,N Bernard St,41.953535,-87.715146
+1392,W Belmont Ave,N Kimball Ave,41.953535,-87.713938
+1393,W Belmont Ave,N Christiana Ave,41.953535,-87.712972
+1394,W Belmont Ave,N Kedzie Ave,41.953535,-87.70959
+1395,W Belmont Ave,N Troy St,41.953535,-87.70814
+1396,W Belmont Ave,N Albany Ave,41.953535,-87.706932
+1397,W Belmont Ave,N Whipple St,41.953535,-87.705724
+1398,W Belmont Ave,N Sacramento Ave,41.953535,-87.704517
+1399,W Belmont Ave,N Richmond St,41.953535,-87.702221
+1400,W Belmont Ave,N Francisco Ave,41.953535,-87.701738
+1401,W Belmont Ave,N Mozart St,41.953535,-87.700712
+1402,W Belmont Ave,N California Ave,41.953535,-87.699564
+1403,W Belmont Ave,N Fairfield Ave,41.953535,-87.698477
+1404,W Belmont Ave,N Washtenaw Ave,41.953535,-87.697148
+1405,W Belmont Ave,N Talman Ave,41.953535,-87.69594
+1406,W Belmont Ave,N Rockwell St,41.953535,-87.694732
+1407,W Belmont Ave,N Maplewood Ave,41.953535,-87.693766
+1408,W Belmont Ave,N Campbell Ave,41.953535,-87.691712
+1409,W Belmont Ave,N Artesian Ave,41.953535,-87.691108
+1410,W Belmont Ave,N Western Ave,41.953535,-87.6899
+1411,W Belmont Ave,N Claremont Ave,41.953535,-87.688692
+1412,W Belmont Ave,N Oakley Ave,41.953535,-87.687485
+1413,W Belmont Ave,N Bell Ave,41.953535,-87.686639
+1414,W Belmont Ave,N Leavit St,41.953535,-87.686035
+1415,W Belmont Ave,N Hoyne Ave,41.953535,-87.685431
+1416,W Belmont Ave,N Seeley Ave,41.953535,-87.684585
+1417,W Belmont Ave,N Damen Ave,41.953535,-87.683257
+1418,W Belmont Ave,N Whichester Ave,41.953535,-87.68217
+1419,W Belmont Ave,N Wolcott Ave,41.953535,-87.681082
+1420,W Belmont Ave,N Ravenswood Ave,41.953535,-87.680358
+1421,W Belmont Ave,N Felicidad Ave,41.953535,-87.679633
+1422,W Belmont Ave,N Felicidad2 Ave,41.953535,-87.678425
+1423,W Fletcher St,N Whipple St,41.952544,-87.705725
+1424,W Fletcher St,N Sacramento Ave,41.952544,-87.704517
+1425,W Fletcher St,N Richmond St,41.952544,-87.702222
+1426,W Fletcher St,N Francisco Ave,41.952544,-87.701739
+1427,W Fletcher St,N Mozart St,41.952544,-87.700712
+1428,W Fletcher St,N California Ave,41.952544,-87.699564
+1429,W Fletcher St,N Fairfield Ave,41.952544,-87.698477
+1430,W Fletcher St,N Washtenaw Ave,41.952544,-87.697149
+1431,W Fletcher St,N Talman Ave,41.952544,-87.695941
+1432,W Fletcher St,N Rockwell St,41.952544,-87.694733
+1433,W Fletcher St,N Maplewood Ave,41.952544,-87.693766
+1434,W Fletcher St,N Campbell Ave,41.952544,-87.691713
+1435,W Fletcher St,N Artesian Ave,41.952544,-87.691109
+1436,W Fletcher St,N Western Ave,41.952544,-87.689901
+1437,W Fletcher St,N Claremont Ave,41.952544,-87.688693
+1438,W Fletcher St,N Oakley Ave,41.952544,-87.687485
+1439,W Fletcher St,N Bell Ave,41.952544,-87.68664
+1440,W Fletcher St,N Leavit St,41.952544,-87.686036
+1441,W Fletcher St,N Hoyne Ave,41.952544,-87.685432
+1442,W Fletcher St,N Seeley Ave,41.952544,-87.684586
+1443,W Fletcher St,N Damen Ave,41.952544,-87.683257
+1444,W Fletcher St,N Whichester Ave,41.952544,-87.68217
+1445,W Fletcher St,N Wolcott Ave,41.952544,-87.681083
+1446,W Fletcher St,N Ravenswood Ave,41.952544,-87.680358
+1447,W Fletcher St,N Felicidad Ave,41.952544,-87.679634
+1448,W Fletcher St,N Felicidad2 Ave,41.952544,-87.678426
+1449,W Barry Ave,N Kedzie Ave,41.951822,-87.70959
+1450,W Barry Ave,N Troy St,41.951822,-87.708141
+1451,W Barry Ave,N Albany Ave,41.951822,-87.706933
+1452,W Barry Ave,N Whipple St,41.951822,-87.705725
+1453,W Barry Ave,N Sacramento Ave,41.951822,-87.704517
+1454,W Barry Ave,N Richmond St,41.951822,-87.702222
+1455,W Barry Ave,N Francisco Ave,41.951822,-87.701739
+1456,W Barry Ave,N Mozart St,41.951822,-87.700712
+1457,W Barry Ave,N California Ave,41.951822,-87.699565
+1458,W Barry Ave,N Fairfield Ave,41.951822,-87.698478
+1459,W Barry Ave,N Washtenaw Ave,41.951822,-87.697149
+1460,W Barry Ave,N Talman Ave,41.951822,-87.695941
+1461,W Barry Ave,N Rockwell St,41.951822,-87.694733
+1462,W Barry Ave,N Maplewood Ave,41.951822,-87.693767
+1463,W Barry Ave,N Campbell Ave,41.951822,-87.691713
+1464,W Barry Ave,N Artesian Ave,41.951822,-87.691109
+1465,W Barry Ave,N Western Ave,41.951822,-87.689901
+1466,W Barry Ave,N Claremont Ave,41.951822,-87.688694
+1467,W Barry Ave,N Oakley Ave,41.951822,-87.687486
+1468,W Barry Ave,N Bell Ave,41.951822,-87.68664
+1469,W Barry Ave,N Leavit St,41.951822,-87.686036
+1470,W Barry Ave,N Hoyne Ave,41.951822,-87.685432
+1471,W Barry Ave,N Seeley Ave,41.951822,-87.684587
+1472,W Barry Ave,N Damen Ave,41.951822,-87.683258
+1473,W Barry Ave,N Whichester Ave,41.951822,-87.682171
+1474,W Barry Ave,N Wolcott Ave,41.951822,-87.681084
+1475,W Barry Ave,N Ravenswood Ave,41.951822,-87.680359
+1476,W Barry Ave,N Felicidad Ave,41.951822,-87.679634
+1477,W Barry Ave,N Felicidad2 Ave,41.951822,-87.678426
+1478,W Wellington Ave,N Pulaski Rd,41.951192,-87.728917
+1479,W Wellington Ave,N Springfield Ave,41.951192,-87.72632
+1480,W Wellington Ave,N Avers Ave,41.951192,-87.725197
+1481,W Wellington Ave,N Hamlin Ave,41.951192,-87.723904
+1482,W Wellington Ave,N Ridgeway Ave,41.951192,-87.722708
+1483,W Wellington Ave,N Lawndale Ave,41.951192,-87.721392
+1484,W Wellington Ave,N Monticello Ave,41.951192,-87.72022
+1485,W Wellington Ave,N Central Park Ave,41.951192,-87.718855
+1486,W Wellington Ave,N St Louis Ave,41.951192,-87.716476
+1487,W Wellington Ave,N Bernard St,41.951192,-87.715147
+1488,W Wellington Ave,N Kimball Ave,41.951192,-87.713939
+1489,W Wellington Ave,N Christiana Ave,41.951192,-87.712973
+1490,W Wellington Ave,N Kedzie Ave,41.951192,-87.709591
+1491,W Wellington Ave,N Troy St,41.951192,-87.708141
+1492,W Wellington Ave,N Albany Ave,41.951192,-87.706933
+1493,W Wellington Ave,N Whipple St,41.951192,-87.705725
+1494,W Wellington Ave,N Sacramento Ave,41.951192,-87.704517
+1495,W Wellington Ave,N Richmond St,41.951192,-87.702222
+1496,W Wellington Ave,N Francisco Ave,41.951192,-87.701739
+1497,W Wellington Ave,N Mozart St,41.951192,-87.700713
+1498,W Wellington Ave,N California Ave,41.951192,-87.699565
+1499,W Wellington Ave,N Fairfield Ave,41.951192,-87.698478
+1500,W Wellington Ave,N Washtenaw Ave,41.951192,-87.697149
+1501,W Wellington Ave,N Talman Ave,41.951192,-87.695941
+1502,W Wellington Ave,N Rockwell St,41.951192,-87.694733
+1503,W Wellington Ave,N Maplewood Ave,41.951192,-87.693767
+1504,W Wellington Ave,N Campbell Ave,41.951192,-87.691714
+1505,W Wellington Ave,N Artesian Ave,41.951192,-87.69111
+1506,W Wellington Ave,N Western Ave,41.951192,-87.689902
+1507,W Wellington Ave,N Claremont Ave,41.951192,-87.688694
+1508,W Wellington Ave,N Oakley Ave,41.951192,-87.687486
+1509,W Wellington Ave,N Bell Ave,41.951192,-87.686641
+1510,W Wellington Ave,N Leavit St,41.951192,-87.686037
+1511,W Wellington Ave,N Hoyne Ave,41.951192,-87.685433
+1512,W Wellington Ave,N Seeley Ave,41.951192,-87.684587
+1513,W Wellington Ave,N Damen Ave,41.951192,-87.683258
+1514,W Wellington Ave,N Whichester Ave,41.951192,-87.682171
+1515,W Wellington Ave,N Wolcott Ave,41.951192,-87.681084
+1516,W Wellington Ave,N Ravenswood Ave,41.951192,-87.680359
+1517,W Wellington Ave,N Felicidad Ave,41.951192,-87.679635
+1518,W Wellington Ave,N Felicidad2 Ave,41.951192,-87.678427
