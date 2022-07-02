@@ -69,7 +69,7 @@ Como se explicó anteriormente, las calles cuentan con una distancia en "x" e "y
 
 Con las coordendas de cada nodo, se puede hallar la distancia entre ellos con la formula del haversine:
 
-![img](https://raw.githubusercontent.com/Miguel-TeamRuka/TF-20181H016-20191D998-201924261/main/imagenes/haversineFormula.PNG
+![img](https://raw.githubusercontent.com/Miguel-TeamRuka/TF-20181H016-20191D998-201924261/main/imagenes/haversineFormula.png)
 
 Para el factor de tráfico decidimos trabajar con la librería perlin_noise, la cual nos genera una matriz de valores uniformes que van del -1 (negro) al 1 (blanco), por lo tanto mientras más cercano al valor -1, habrá más tráfico, mientras que por el contrario, si está más cerca al 1, habrá menos tráfico.
 
@@ -86,11 +86,11 @@ Verde: mejor ruta
 Azul:  segunda mejor ruta
 Rojo: tercera mejor ruta
 Prueba1:
-![img](https://raw.githubusercontent.com/Miguel-TeamRuka/TF-20181H016-20191D998-201924261/main/imagenes/prueba1.PNG
+![img](https://raw.githubusercontent.com/Miguel-TeamRuka/TF-20181H016-20191D998-201924261/main/imagenes/prueba1.PNG)
 Prueba2:
-![img](https://raw.githubusercontent.com/Miguel-TeamRuka/TF-20181H016-20191D998-201924261/main/imagenes/prueba2.PNG
+![img](https://raw.githubusercontent.com/Miguel-TeamRuka/TF-20181H016-20191D998-201924261/main/imagenes/prueba2.PNG)
 Prueba3:
-![img](https://raw.githubusercontent.com/Miguel-TeamRuka/TF-20181H016-20191D998-201924261/main/imagenes/prueba3.PNG
+![img](https://raw.githubusercontent.com/Miguel-TeamRuka/TF-20181H016-20191D998-201924261/main/imagenes/prueba3.PNG)
 
 ### Conclusiones
 
