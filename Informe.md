@@ -25,6 +25,8 @@ Se escogió la ciudad de Chicago debido a que posee calles largas y casi sin cur
 Como punto inicial se seleccionó la intersección de las avenidas W Devon Ave y N Pulaski Rd.
 ![img](https://raw.githubusercontent.com/Miguel-TeamRuka/TF-20181H016-20191D998-201924261/main/imagenes/mapa.png)
 
+![img](https://raw.githubusercontent.com/Miguel-TeamRuka/TF-20181H016-20191D998-201924261/main/imagenes/imagen-ciudad.png)
+
 ### Descripción de las calles
 
 Las calles, contenidas en los archivos horizontal.txt y vertical.txt, constan de su nombre obtenido con la herramienta google maps. su distancia horizontal (x) y vertical(y) con respecto al punto inicial, además de su longitud, todo esto en metros. Lo planteamos de esta manera porque no siempre las calles empiezan desde el límite del contorno, sino que pueden hacerlo un poco más a la derecha si es una calle horizontal, o más abajo si es una calle vertical.
