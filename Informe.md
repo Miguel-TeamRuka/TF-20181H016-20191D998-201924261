@@ -85,6 +85,7 @@ Para obtener los tres caminos más cortos, usamos el algoritmo de yen, el cual c
 Verde: mejor ruta
 Azul:  segunda mejor ruta
 Rojo: tercera mejor ruta
+
 Prueba1:
 
 ![img](https://raw.githubusercontent.com/Miguel-TeamRuka/TF-20181H016-20191D998-201924261/main/imagenes/prueba1.PNG)
@@ -92,6 +93,7 @@ Prueba1:
 Prueba2:
 
 ![img](https://raw.githubusercontent.com/Miguel-TeamRuka/TF-20181H016-20191D998-201924261/main/imagenes/prueba2.PNG)
+
 Prueba3:
 
 ![img](https://raw.githubusercontent.com/Miguel-TeamRuka/TF-20181H016-20191D998-201924261/main/imagenes/prueba3.PNG)
